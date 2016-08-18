@@ -1,0 +1,391 @@
+<HTML>
+<HEAD>
+<TITLE>Examples</TITLE>
+
+
+</HEAD>
+
+<BODY BGCOLOR="#ffffff">
+
+
+<center>
+<H2> Examples  </H2>
+</center>
+<HR>
+
+<font color="red"><b> rand('twister',5489) has been used many times in this page. It simply resets the Matlab random number generator, so that the kmeans (or, litekmeans) will
+	have exactly the same initialization. Thus, you can exactly reproduce the results reported on this page. If you are using Matlab 2011b or later version, you can use
+	rng('default') instead of rand('twister',5489).
+</b></font>
+<HR>
+
+
+<UL>
+
+<LI> <a name="MAED">
+<b> Incremental active learning using MAED  </b>	
+<p>
+	<a href="ActiveLearning.html"> Code download </a><br>
+<p>
+<pre style="background-color: #F9F9F9; border: 1px dashed #2F6FAB; line-height: 1.1em; padding: 1em;">
+<b>%Two circle data with noise. We already have 4 labeled examples marked as red *</b>
+clear;	
+rand('twister',5489);	
+[fea, gnd] = GenTwoNoisyCircle();
+split = gnd ==1;
+figure(1);
+plot(fea(split,1),fea(split,2),'.k',fea(~split,1),fea(~split,2),'.b');
+splitLabel = false(length(gnd),1);
+splitLabel(1) = true;
+splitLabel(50) = true;
+splitLabel(100) = true;
+splitLabel(150) = true;
+hold on;
+plot(fea(splitLabel,1),fea(splitLabel,2),'*r');
+hold off;
+
+<font color="blue"><b>%TED is asked to select 4 more examples (marked as red * and number)</b></font>
+options = [];
+options.KernelType = 'Gaussian';
+options.t = 0.5;
+options.ReguBeta = 0;
+%MAED boils down to TED when ReguBeta = 0;
+options.splitLabel = splitLabel;
+smpRank = MAED(fea,4,options);
+figure(2);
+plot(fea(split,1),fea(split,2),'.k',fea(~split,1),fea(~split,2),'.b');
+hold on;
+plot(fea(splitLabel,1),fea(splitLabel,2),'*r');
+for i = 1:length(smpRank)
+  plot(fea(smpRank(i),1),fea(smpRank(i),2),'*r');
+  text(fea(smpRank(i),1),fea(smpRank(i),2),['\fontsize{16} \color{red}',num2str(i)]);
+end
+hold off;
+
+<font color="red"><b>%MAED is asked to select 4 more examples (marked as red * and number)</b></font>
+options = [];
+options.KernelType = 'Gaussian';
+options.t = 0.5;
+options.ReguBeta = 100;
+options.splitLabel = splitLabel;
+smpRank = MAED(fea,4,options);
+figure(3);
+plot(fea(split,1),fea(split,2),'.k',fea(~split,1),fea(~split,2),'.b');
+hold on;
+plot(fea(splitLabel,1),fea(splitLabel,2),'*r');
+for i = 1:length(smpRank)
+  plot(fea(smpRank(i),1),fea(smpRank(i),2),'*r');
+  text(fea(smpRank(i),1),fea(smpRank(i),2),['\fontsize{16} \color{red}',num2str(i)]);
+end
+hold off;
+</pre> 
+<img src="MAED/data2.jpg">
+<img src="MAED/TED2.jpg">
+<img src="MAED/MAED2.jpg">
+<p> 
+
+
+<HR>
+<LI> <a name="EMR">
+<b> Out-of-sample retrieval using EMR  </b>	
+<p>
+	<a href="Metric.html"> Code download </a>
+<p>
+<pre style="background-color: #F9F9F9; border: 1px dashed #2F6FAB; line-height: 1.1em; padding: 1em;">
+%Ranking on the USPS data set (9298 samples with 256 dimensions)
+clear;
+load('<a href="USPS/USPS.mat">USPS.mat</a>');	
+gnd = gnd - 1;
+
+<font color="red"><b>%EMR model learning</b></font>
+rand('twister',5489);
+opts = [];
+opts.p = 500;
+[dump, model] = EMR(fea,zeros(size(fea,1),1),opts);
+
+
+<b>%Generate a query point out of the database.</b>
+digit = 2;
+idx = find(gnd == digit);
+x = mean(fea(idx(1:5),:));
+
+<b>%Ranking with Euclidean distance </b>
+D = EuDist2(x,fea);
+[dump,idx]=sort(D);
+showfea = fea(idx(2:100),:);
+Y = ones(160,160)*-1;
+Y(1:16,4*16+1:5*16) = reshape(x,[16,16])'; %'
+for i=1:9
+  for j=0:9
+    Y(i*16+1:(i+1)*16,j*16+1:(j+1)*16) = reshape(showfea((i-1)*10+j+1,:),[16,16])'; %'
+  end
+end
+imagesc(Y);colormap(gray);
+
+<font color="red"><b>%Ranking with Efficient Manifold ranking</b></font>
+tic;
+[y] = EMRtest(x,model);
+toc;
+<font color="red"><b>%Elapsed time is 0.015944 seconds.</b></font>
+[dump,idx]=sort(-y);
+showfea = fea(idx(2:100),:);
+Y = ones(160,160)*-1;
+Y(1:16,4*16+1:5*16) = reshape(x,[16,16])'; %'
+for i=1:9
+  for j=0:9
+    Y(i*16+1:(i+1)*16,j*16+1:(j+1)*16) = reshape(showfea((i-1)*10+j+1,:),[16,16])'; %'
+  end
+end
+imagesc(Y);colormap(gray);
+
+<b>%Generate a query point out of the database.</b>
+digit = 5;
+idx = find(gnd == digit);
+x = mean(fea(idx([15,676]),:));
+
+<b>%Ranking with Euclidean distance </b>
+D = EuDist2(x,fea);
+[dump,idx]=sort(D);
+showfea = fea(idx(2:100),:);
+Y = ones(160,160)*-1;
+Y(1:16,4*16+1:5*16) = reshape(x,[16,16])'; %'
+for i=1:9
+  for j=0:9
+    Y(i*16+1:(i+1)*16,j*16+1:(j+1)*16) = reshape(showfea((i-1)*10+j+1,:),[16,16])'; %'
+  end
+end
+imagesc(Y);colormap(gray);
+
+<font color="red"><b>%Ranking with Efficient Manifold ranking</b></font>
+tic;
+[y] = EMRtest(x,model);
+toc;
+<font color="red"><b>%Elapsed time is 0.015944 seconds.</b></font>
+[dump,idx]=sort(-y);
+showfea = fea(idx(2:100),:);
+Y = ones(160,160)*-1;
+Y(1:16,4*16+1:5*16) = reshape(x,[16,16])'; %'
+for i=1:9
+  for j=0:9
+    Y(i*16+1:(i+1)*16,j*16+1:(j+1)*16) = reshape(showfea((i-1)*10+j+1,:),[16,16])'; %'
+  end
+end
+imagesc(Y);colormap(gray);
+</pre> 
+<img src="EMR/Euclideantest.jpg">
+<img src="EMR/EMRtest.jpg"><br>
+<img src="EMR/Euclideantest5.jpg">
+<img src="EMR/EMRtest5.jpg">
+<p> 
+
+
+<HR>	
+<LI> <a name="MCFS_classification">
+<b> Supervised feature selection using MCFS  </b>	
+<p>
+	<a href="MCFS.html"> Code download </a>
+<p>
+<pre style="background-color: #F9F9F9; border: 1px dashed #2F6FAB; line-height: 1.1em; padding: 1em;">
+%Classification on USPS 
+load('<a href="USPS/USPS.mat">USPS.mat</a>');	
+
+<b>%Classification by SRDA using all the features.</b>
+options = [];
+options.ReguAlpha = 10;
+for nTrain = [2000 3000 4000 5000 6000 7291]
+  model = SRDAtrain(fea(1:nTrain,:), gnd(1:nTrain), options);
+  accuracy = SRDApredict(fea(7292:end,:), gnd(7292:end), model);
+  disp(['SRDA on all ',num2str(size(fea,2)),' features, ',num2str(nTrain),' Train, Errorrate:',num2str(1-accuracy)]);
+end<b>
+SRDA on all 256 features, 2000 Train, Errorrate:0.12805
+SRDA on all 256 features, 3000 Train, Errorrate:0.12207
+SRDA on all 256 features, 4000 Train, Errorrate:0.11958
+SRDA on all 256 features, 5000 Train, Errorrate:0.12357
+SRDA on all 256 features, 6000 Train, Errorrate:0.11908
+SRDA on all 256 features, 7291 Train, Errorrate:0.11958
+</b>
+<font color="red"><b>%Classification by SRDA using MCFS selected features.</b></font>
+for nTrain = [2000 3000 4000 5000 6000 7291]
+  MCFSoptions = [];
+  MCFSoptions.gnd = gnd(1:nTrain);  
+  FeaNumCandi = [40];
+  [FeaIndex,FeaNumCandi] = MCFS_p(fea(1:nTrain,:),FeaNumCandi,MCFSoptions);
+  for i = 1:length(FeaNumCandi)
+    SelectFeaIdx = FeaIndex{i};
+    model = SRDAtrain(fea(1:nTrain,SelectFeaIdx), gnd(1:nTrain), options);
+    accuracy = SRDApredict(fea(8001:end,SelectFeaIdx), gnd(8001:end), model);
+    disp(['SRDA on selected ',num2str(FeaNumCandi(i)),' features, ',num2str(nTrain),' Train, Errorrate:',num2str(1-accuracy)]);
+  end
+end<font color="red"><b>
+SRDA on selected 40 features, 2000 Train, Errorrate:0.12635
+SRDA on selected 40 features, 3000 Train, Errorrate:0.13405
+SRDA on selected 40 features, 4000 Train, Errorrate:0.13174
+SRDA on selected 40 features, 5000 Train, Errorrate:0.13328
+SRDA on selected 40 features, 6000 Train, Errorrate:0.14022
+SRDA on selected 40 features, 7291 Train, Errorrate:0.13713</b></font>
+</pre>
+
+<HR>
+
+<LI> <a name="USR">
+<b> Clustering in the spectral regression subspace   </b>	
+<p>
+	<a href="SR.html"> Code download </a>
+<p>
+<pre style="background-color: #F9F9F9; border: 1px dashed #2F6FAB; line-height: 1.1em; padding: 1em;">
+%Clustering on COIL20
+load('<a href="COIL20/COIL20.mat">COIL20.mat</a>');
+
+<b>%Clustering in the original space</b>
+rand('twister',5489);
+label = litekmeans(fea,20,'Replicates',20);
+MIhat = MutualInfo(gnd,label)
+<b>%MIhat: 0.7606</b>
+
+%SR Learning
+USRoptions.ReducedDim = length(unique(gnd))+10;
+model = USRtrain(fea, USRoptions);
+feaNew = USRtest(fea, length(unique(gnd)), model);
+
+<font color="red"><b>%Clustering in the SR subspace</b></font>
+rand('twister',5489);
+labelNew = litekmeans(feaNew,20,'Replicates',20);
+MIhatNew = MutualInfo(gnd,labelNew)
+<font color="red"><b>%MIhatNew: 0.8974</b></font>
+</pre>	
+
+<HR>
+<LI> <a name="UKSR">
+<b> Clustering in the kernel spectral regression subspace   </b>	
+<p>
+	<a href="SR.html"> Code download </a>
+<p>
+<pre style="background-color: #F9F9F9; border: 1px dashed #2F6FAB; line-height: 1.1em; padding: 1em;">
+%Clustering on USPS 
+load('<a href="USPS/USPS.mat">USPS.mat</a>');	
+
+nTrain = 6000;
+feaTrain = fea(1:nTrain,:);
+gndTrain = gnd(1:nTrain); 
+feaTest = fea(nTrain+1:end,:); 
+gndTest = gnd(nTrain+1:end); 
+ 
+%-------------------------------------- 	
+<b>%Clustering in the original space</b>
+rand('twister',5489);
+labelTrain = litekmeans(feaTrain,10,'Replicates',20); 
+MIhatTrain = MutualInfo(gndTrain,labelTrain) 
+<b>%MIhatTrain: 0.6343</b> 
+
+rand('twister',5489);
+labelTest = litekmeans(feaTest,10,'Replicates',20); 
+MIhatTest = MutualInfo(gndTest,labelTest) 
+<b>%MIhatTest: 0.5835</b> 
+ 
+%SR Learning
+USRoptions.ReducedDim = length(unique(gndTrain))+10; 
+model = USRtrain(feaTrain, USRoptions); 
+
+<font color="blue"><b>%Clustering in the SR subspace</b></font>	 
+feaTrainSR = USRtest(feaTrain, length(unique(gndTrain)), model); 
+rand('twister',5489);
+labelTrainSR = litekmeans(feaTrainSR,10,'Replicates',20); 
+MIhatTrainSR = MutualInfo(gndTrain,labelTrainSR) 
+<font color="blue"><b>%MIhatTrainSR: 0.7251</b></font> 
+ 
+feaTestSR = USRtest(feaTest, length(unique(gndTrain)), model); 
+rand('twister',5489);
+labelTestSR = litekmeans(feaTestSR,10,'Replicates',20); 
+MIhatTestSR = MutualInfo(gndTest,labelTestSR) 
+<font color="blue"><b>%MIhatTestSR: 0.6809</b></font> 
+ 
+%KSR Learning
+UKSRoptions.ReducedDim = length(unique(gndTrain))+10; 
+model = UKSRtrain(feaTrain, UKSRoptions); 
+
+<font color="red"><b>%Clustering in the KSR subspace</b></font>
+feaTrainKSR = UKSRtest(feaTrain, length(unique(gndTrain)), model); 
+rand('twister',5489);
+labelTrainKSR = litekmeans(feaTrainKSR,10,'Replicates',20); 
+MIhatTrainKSR = MutualInfo(gndTrain,labelTrainKSR) 
+<font color="red"><b>%MIhatTrainKSR: 0.8195</b></font> 
+ 
+feaTestKSR = UKSRtest(feaTest, length(unique(gndTrain)), model); 
+rand('twister',5489);
+labelTestKSR = litekmeans(feaTestKSR,10,'Replicates',20); 
+MIhatTestKSR = MutualInfo(gndTest,labelTestKSR) 
+<font color="red"><b>%MIhatTestKSR: 0.8070</b></font> 
+</pre>
+
+<HR>
+
+<LI> <a name="SRKDA_semi">
+<b> Spectral Kernel Discriminant Analysis for Semi-supervised Classification   </b>	
+<p>
+	<a href="SR.html"> Code download </a>
+<p>
+<pre style="background-color: #F9F9F9; border: 1px dashed #2F6FAB; line-height: 1.1em; padding: 1em;">
+%Clustering on USPS 
+load('<a href="USPS/USPS.mat">USPS.mat</a>');	
+
+nLabel = 500;
+
+feaLabel = fea(1:nLabel,:);
+gndLabel = gnd(1:nLabel);
+feaTrain = fea(nLabel+1:7291,:);
+
+feaTest = fea(7292:end,:);
+gndTest = gnd(7292:end);
+
+%-------------------------------------- 	
+<b>%Training SRKDA on labeled data</b>
+options = [];
+options.KernelType = 'Gaussian';
+options.t = 10;
+options.ReguAlpha = 0.01;
+
+model = SRKDAtrain(feaLabel, gndLabel, options);
+accuracy = SRKDApredict(feaTest, gndTest, model);
+Errorrate = 1-accuracy
+<b>%Errorrate: 0.0947</b>
+
+%-------------------------------------- 	
+<font color="blue"><b>%If we have some additional training data (without label)</b></font>
+options.ReguBeta = 10;
+model = SRKDAtrain(feaLabel, gndLabel, options, feaTrain);
+accuracy = SRKDApredict(feaTest, gndTest, model);
+Errorrate = 1-accuracy
+<font color="blue"><b>%Errorrate: 0.0708</b></font>
+
+<font color="red"><b>%If SRKDA can see the test data (without label)</b></font>
+model = SRKDAtrain(feaLabel, gndLabel, options, [feaTrain;feaTest]);
+accuracy = SRKDApredict(feaTest, gndTest, model);
+Errorrate = 1-accuracy
+<font color="red"><b>%Errorrate: 0.0648</b></font>
+</pre>
+
+</UL>	
+
+<HR>
+<center>
+<b>
+Return to <a href="data.html">Codes and Data</a>
+</b>
+</center>
+
+</BODY>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27887468-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</HTML>

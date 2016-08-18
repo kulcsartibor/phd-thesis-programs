@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html><head><title>SOM Toolbox / kmeans </title></head>
+<body bgcolor=#f0f0f0>
+<table border=0 width="100%" cellpadding=0 cellspacing=0><tr>
+<td valign=baseline><font size=+2>SOM Toolbox</font></td>
+<td valign=baseline align=center><a href="somtoolbox.html">Online documentation</td>
+<td valign=baseline align=right><a href="http://www.cis.hut.fi/projects/somtoolbox/" target="_top">http://www.cis.hut.fi/projects/somtoolbox/</a></td>
+</tr></table>
+<hr>
+<H1> kmeans </H1>
+
+<P><B> [centroids,clusters,err] = kmeans(method, D, n, epochs, verbose)</B></P>
+<PRE>
+ KMEANS The k-means clustering method. 
+
+ [centroids,clusters,err] = kmeans(method, D, n, [epochs], [verbose])
+
+   C = kmeans('batch',D,10,20);
+   [C,partition] = kmeans('seq',D,D(1:10,:),20,1);
+
+  Input and output arguments ([]'s are optional):
+   method    (string) 'batch' or 'seq'
+   D         (matrix) size dlen x dim, the data
+             (struct) map or data struct
+   n         (scalar) number of centroids
+             (matrix) size n x dim, initial values for the centroids
+   [epochs]  (scalar) number of training epochs, 100 by default
+   [verbose] (scalar) verbose level, 0 by default
+
+   centroids (matrix) size n x dim, the k-means centroids
+   clusters  (vector) size dlen x 1, cluster number for each sample
+   err       (scalar) total quantization error for the data set
+
+ See also KMEANS_CLUSTERS.
+
+</PRE>
+<p>
+<hr><br>
+<center>[ <a href="somtoolbox.html">SOM Toolbox online doc</a> ]</center>
+<br>
+<!-- Last updated: Nov 10 2000 -->
+</body>
+</html>

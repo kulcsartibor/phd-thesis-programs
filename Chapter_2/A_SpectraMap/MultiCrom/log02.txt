@@ -1,0 +1,669 @@
+Sammon eredménye: M1 = 0.97241    M2 = 0.98983    F = 0.96252
+PCA eredménye:    M1 = 0.93525    M2 = 0.98285    F = 0.91921
+    0.8307    0.8472
+
+    0.6301    0.7018
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ismember>ismemberR2012a', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\ismember.m', 134)" style="font-weight:bold">ismember>ismemberR2012a</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\ismember.m',134,0)">line 134</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ismember', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\ismember.m', 56)" style="font-weight:bold">ismember</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\ismember.m',56,0)">line 56</a>)
+    [varargout{1:max(1,nargout)}] = ismemberR2012a(A,B);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('setdiff>setdiffR2012a', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\setdiff.m', 193)" style="font-weight:bold">setdiff>setdiffR2012a</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\setdiff.m',193,0)">line 193</a>)
+    logUA = ~(ismember(a,b));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('setdiff', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\setdiff.m', 83)" style="font-weight:bold">setdiff</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\ops\setdiff.m',83,0)">line 83</a>)
+    [varargout{1:nlhs}] = setdiffR2012a(varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('trustcont', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\toolbox_trnmap\trustcont.m', 25)" style="font-weight:bold">trustcont</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\toolbox_trnmap\trustcont.m',25,0)">line 25</a>)
+   temp1= setdiff(IY(2:kn+1,i),IX(2:kn+1,i));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('breeding_agrres', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\Breeding\breeding_agrres.m', 11)" style="font-weight:bold">breeding_agrres</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\Breeding\breeding_agrres.m',11,0)">line 11</a>)
+[Mt,Mc,V,U] = trustcont(10, X, Y, DistM, L2_distance(Y',Y'));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('optfun', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\optfun.m', 8)" style="font-weight:bold">optfun</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\optfun.m',8,0)">line 8</a>)
+[Mt Mc] = breeding_agrres(agr1,agr2,l_X,l_DistM);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('funevaluate', 'C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\funevaluate.m', 74)" style="font-weight:bold">funevaluate</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\funevaluate.m',74,0)">line 74</a>)
+        f(~InCache) = feval(FUN,reshapeinput(Xin,X(:,~InCache)),varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('psnextfeasible', 'C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\psnextfeasible.m', 78)" style="font-weight:bold">psnextfeasible</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\psnextfeasible.m',78,0)">line 78</a>)
+            [sites(k).f,count] = funevaluate(ObjFunc,Xin,sites(k).x,Cache, ...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('poll', 'C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\poll.m', 162)" style="font-weight:bold">poll</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\poll.m',162,0)">line 162</a>)
+[msg,nextIterate,dirNum,optimState.FunEval] = ...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pfminlcon', 'C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\pfminlcon.m', 62)" style="font-weight:bold">pfminlcon</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\private\pfminlcon.m',62,0)">line 62</a>)
+        [successPoll,nextIterate,optimState] = poll(FUN,X,Iterate,MeshSize,Aineq,bineq, ...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('patternsearch', 'C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\patternsearch.m', 359)" style="font-weight:bold">patternsearch</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\globaloptim\globaloptim\patternsearch.m',359,0)">line 359</a>)
+        [X,FVAL,EXITFLAG,OUTPUT] = pfminlcon(FUN,objFcnArg,initialX,numberOfVariables,Iterate, ...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('agr_opres', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\Breeding\agr_opres.m', 157)" style="font-weight:bold">agr_opres</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\Breeding\agr_opres.m',157,0)">line 157</a>)
+			prm = patternsearch(@optfun,...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('breeding_evaluate', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\Breeding\breeding_evaluate.m', 76)" style="font-weight:bold">breeding_evaluate</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\Breeding\breeding_evaluate.m',76,0)">line 76</a>)
+	[fitness, param1, param2, k1, k2] = agr_opres(fs1,fs2, X , DistM);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ShowResults', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\ShowResults.m', 177)" style="font-weight:bold">ShowResults</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\ShowResults.m',177,0)">line 177</a>)
+[popu] = breeding_evaluate(popu,1:popusize,X,DistM,[]);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\lang\run.m', 63)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\lang\run.m',63,0)">line 63</a>)
+evalin('caller', [script ';']);
+} 
+0.5*((((2*(X(:,160)))-(3*(X(:,56))))+(1*(X(:,4))))+((1*(X(:,160)))-(1*(X(:,57)))))
+0.5*(((1*(X(:,112)))+((5*(X(:,84)))-(1*(X(:,120)))))+((1*((X(:,95)).*(X(:,165))))-((1*(X(:,120)))-(1*(X(:,133))))))
+
+Mt =
+
+    0.9796
+
+
+Mc =
+
+    0.9887
+
+
+ans =
+
+    0.9686
+
+run('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\ShowResults.m')
+0.5*((((2*(X(:,160)))-(3*(X(:,56))))+(1*(X(:,4))))+((1*(X(:,160)))-(1*(X(:,57)))))
+0.5*(((1*(X(:,112)))+((5*(X(:,84)))-(1*(X(:,120)))))+((1*((X(:,95)).*(X(:,165))))-((1*(X(:,120)))-(1*(X(:,133))))))
+
+Mt =
+
+    0.9796
+
+
+Mc =
+
+    0.9887
+
+
+ans =
+
+    0.9686
+
+1 iterations2 iterations3 iterations4 iterations5 iterations6 iterations7 iterations8 iterations9 iterations10 iterations11 iterations12 iterations13 iterations14 iterations15 iterations16 iterations17 iterations18 iterations19 iterations20 iterations21 iterations22 iterations{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('sammon', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\toolbox_trnmap\sammon.m', 172)" style="font-weight:bold">sammon</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\toolbox_trnmap\sammon.m',172,0)">line 172</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ShowResults', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\ShowResults.m', 55)" style="font-weight:bold">ShowResults</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\MultiCrom\ShowResults.m',55,0)">line 55</a>)
+SmMap = sammon(X,2,1000,'steps',[],DistM);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\lang\run.m', 63)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\lang\run.m',63,0)">line 63</a>)
+evalin('caller', [script ';']);
+} 
+ShowResults
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rng', 'C:\Program Files\MATLAB\R2014b\toolbox\matlab\randfun\rng.m', 95)" style="font-weight:bold">rng</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2014b\toolbox\matlab\randfun\rng.m',95,0)">line 95</a>)
+The current random number generator is the legacy generator.  This is because you have executed a command such as
+rand('state',0), which activates MATLAB's legacy random number behavior.  You may not use RNG to reseed the legacy
+random number generator.
+
+Use rng('default') to reinitialize the random number generator to its startup configuration, or call RNG using a
+specific generator type, such as rng(seed,'twister').
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ShowResults', 'C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\SingleChromNaro\ShowResults.m', 12)" style="font-weight:bold">ShowResults</a> (<a href="matlab: opentoline('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\A_SpectraMap\SingleChromNaro\ShowResults.m',12,0)">line 12</a>)
+rng(1)
+} 
+run('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\B_Classification\Wine\MultiCrom_Mapping\Eredmenyek.m')
+1 iterations2 iterations3 iterations4 iterations5 iterations6 iterations7 iterations8 iterations9 iterations10 iterations11 iterations12 iterations13 iterations14 iterations15 iterations16 iterations17 iterations18 iterations19 iterations20 iterations21 iterations22 iterations23 iterations24 iterations25 iterations26 iterations27 iterations28 iterations29 iterations30 iterations31 iterations32 iterations33 iterations34 iterations35 iterations36 iterations37 iterations38 iterations39 iterations40 iterations41 iterations42 iterations43 iterations44 iterations45 iterations46 iterations47 iterations48 iterations49 iterations50 iterations51 iterations52 iterations53 iterations54 iterations55 iterations56 iterations57 iterations58 iterations59 iterations60 iterations61 iterations62 iterations63 iterations64 iterations65 iterations66 iterations67 iterations68 iterations69 iterations70 iterations71 iterations72 iterations73 iterations74 iterations75 iterations76 iterations77 iterations78 iterations79 iterations80 iterations81 iterations82 iterations83 iterations84 iterations85 iterations86 iterations87 iterations88 iterations89 iterations90 iterations91 iterations92 iterations93 iterations94 iterations95 iterations96 iterations97 iterations98 iterations99 iterations100 iterations101 iterations102 iterations103 iterations104 iterations105 iterations106 iterations107 iterations108 iterations109 iterations110 iterations111 iterations112 iterations113 iterations114 iterations115 iterations116 iterations117 iterations118 iterations119 iterations120 iterations121 iterations122 iterations123 iterations124 iterations125 iterations126 iterations127 iterations128 iterations129 iterations130 iterations131 iterations132 iterations133 iterations134 iterations135 iterations136 iterations137 iterations138 iterations139 iterations140 iterations141 iterations142 iterations143 iterations144 iterations145 iterations146 iterations147 iterations148 iterations149 iterations150 iterations151 iterations152 iterations153 iterations154 iterations155 iterations156 iterations157 iterations158 iterations159 iterations160 iterations161 iterations162 iterations163 iterations164 iterations165 iterations166 iterations167 iterations168 iterations169 iterations170 iterations171 iterations172 iterations173 iterations174 iterations175 iterations176 iterations177 iterations178 iterations179 iterations180 iterations181 iterations182 iterations183 iterations184 iterations185 iterations186 iterations187 iterations188 iterations189 iterations190 iterations191 iterations192 iterations193 iterations194 iterations195 iterations196 iterations197 iterations198 iterations199 iterations200 iterations201 iterations202 iterations203 iterations204 iterations205 iterations206 iterations207 iterations208 iterations209 iterations210 iterations211 iterations212 iterations213 iterations214 iterations215 iterations216 iterations217 iterations218 iterations219 iterations220 iterations221 iterations222 iterations223 iterations224 iterations225 iterations226 iterations227 iterations228 iterations229 iterations230 iterations231 iterations232 iterations233 iterations234 iterations235 iterations236 iterations237 iterations238 iterations239 iterations240 iterations241 iterations242 iterations243 iterations244 iterations245 iterations246 iterations247 iterations248 iterations249 iterations250 iterations251 iterations252 iterations253 iterations254 iterations255 iterations256 iterations257 iterations258 iterations259 iterations260 iterations261 iterations262 iterations263 iterations264 iterations265 iterations266 iterations267 iterations268 iterations269 iterations270 iterations271 iterations272 iterations273 iterations274 iterations275 iterations276 iterations277 iterations278 iterations279 iterations280 iterations281 iterations282 iterations283 iterations284 iterations285 iterations286 iterations287 iterations288 iterations289 iterations290 iterations291 iterations292 iterations293 iterations294 iterations295 iterations296 iterations297 iterations298 iterations299 iterations300 iterations301 iterations302 iterations303 iterations304 iterations305 iterations306 iterations307 iterations308 iterations309 iterations310 iterations311 iterations312 iterations313 iterations314 iterations315 iterations316 iterations317 iterations318 iterations319 iterations320 iterations321 iterations322 iterations323 iterations324 iterations325 iterations326 iterations327 iterations328 iterations329 iterations330 iterations331 iterations332 iterations333 iterations334 iterations335 iterations336 iterations337 iterations338 iterations339 iterations340 iterations341 iterations342 iterations343 iterations344 iterations345 iterations346 iterations347 iterations348 iterations349 iterations350 iterations351 iterations352 iterations353 iterations354 iterations355 iterations356 iterations357 iterations358 iterations359 iterations360 iterations361 iterations362 iterations363 iterations364 iterations365 iterations366 iterations367 iterations368 iterations369 iterations370 iterations371 iterations372 iterations373 iterations374 iterations375 iterations376 iterations377 iterations378 iterations379 iterations380 iterations381 iterations382 iterations383 iterations384 iterations385 iterations386 iterations387 iterations388 iterations389 iterations390 iterations391 iterations392 iterations393 iterations394 iterations395 iterations396 iterations397 iterations398 iterations399 iterations400 iterations401 iterations402 iterations403 iterations404 iterations405 iterations406 iterations407 iterations408 iterations409 iterations410 iterations411 iterations412 iterations413 iterations414 iterations415 iterations416 iterations417 iterations418 iterations419 iterations420 iterations421 iterations422 iterations423 iterations424 iterations425 iterations426 iterations427 iterations428 iterations429 iterations430 iterations431 iterations432 iterations433 iterations434 iterations435 iterations436 iterations437 iterations438 iterations439 iterations440 iterations441 iterations442 iterations443 iterations444 iterations445 iterations446 iterations447 iterations448 iterations449 iterations450 iterations451 iterations452 iterations453 iterations454 iterations455 iterations456 iterations457 iterations458 iterations459 iterations460 iterations461 iterations462 iterations463 iterations464 iterations465 iterations466 iterations467 iterations468 iterations469 iterations470 iterations471 iterations472 iterations473 iterations474 iterations475 iterations476 iterations477 iterations478 iterations479 iterations480 iterations481 iterations482 iterations483 iterations484 iterations485 iterations486 iterations487 iterations488 iterations489 iterations490 iterations491 iterations492 iterations493 iterations494 iterations495 iterations496 iterations497 iterations498 iterations499 iterations500 iterations501 iterations502 iterations503 iterations504 iterations505 iterations506 iterations507 iterations508 iterations509 iterations510 iterations511 iterations512 iterations513 iterations514 iterations515 iterations516 iterations517 iterations518 iterations519 iterations520 iterations521 iterations522 iterations523 iterations524 iterations525 iterations526 iterations527 iterations528 iterations529 iterations530 iterations531 iterations532 iterations533 iterations534 iterations535 iterations536 iterations537 iterations538 iterations539 iterations540 iterations541 iterations542 iterations543 iterations544 iterations545 iterations546 iterations547 iterations548 iterations549 iterations550 iterations551 iterations552 iterations553 iterations554 iterations555 iterations556 iterations557 iterations558 iterations559 iterations560 iterations561 iterations562 iterations563 iterations564 iterations565 iterations566 iterations567 iterations568 iterations569 iterations570 iterations571 iterations572 iterations573 iterations574 iterations575 iterations576 iterations577 iterations578 iterations579 iterations580 iterations581 iterations582 iterations583 iterations584 iterations585 iterations586 iterations587 iterations588 iterations589 iterations590 iterations591 iterations592 iterations593 iterations594 iterations595 iterations596 iterations597 iterations598 iterations599 iterations600 iterations601 iterations602 iterations603 iterations604 iterations605 iterations606 iterations607 iterations608 iterations609 iterations610 iterations611 iterations612 iterations613 iterations614 iterations615 iterations616 iterations617 iterations618 iterations619 iterations620 iterations621 iterations622 iterations623 iterations624 iterations625 iterations626 iterations627 iterations628 iterations629 iterations630 iterations631 iterations632 iterations633 iterations634 iterations635 iterations636 iterations637 iterations638 iterations639 iterations640 iterations641 iterations642 iterations643 iterations644 iterations645 iterations646 iterations647 iterations648 iterations649 iterations650 iterations651 iterations652 iterations653 iterations654 iterations655 iterations656 iterations657 iterations658 iterations659 iterations660 iterations661 iterations662 iterations663 iterations664 iterations665 iterations666 iterations667 iterations668 iterations669 iterations670 iterations671 iterations672 iterations673 iterations674 iterations675 iterations676 iterations677 iterations678 iterations679 iterations680 iterations681 iterations682 iterations683 iterations684 iterations685 iterations686 iterations687 iterations688 iterations689 iterations690 iterations691 iterations692 iterations693 iterations694 iterations695 iterations696 iterations697 iterations698 iterations699 iterations700 iterations701 iterations702 iterations703 iterations704 iterations705 iterations706 iterations707 iterations708 iterations709 iterations710 iterations711 iterations712 iterations713 iterations714 iterations715 iterations716 iterations717 iterations718 iterations719 iterations720 iterations721 iterations722 iterations723 iterations724 iterations725 iterations726 iterations727 iterations728 iterations729 iterations730 iterations731 iterations732 iterations733 iterations734 iterations735 iterations736 iterations737 iterations738 iterations739 iterations740 iterations741 iterations742 iterations743 iterations744 iterations745 iterations746 iterations747 iterations748 iterations749 iterations750 iterations751 iterations752 iterations753 iterations754 iterations755 iterations756 iterations757 iterations758 iterations759 iterations760 iterations761 iterations762 iterations763 iterations764 iterations765 iterations766 iterations767 iterations768 iterations769 iterations770 iterations771 iterations772 iterations773 iterations774 iterations775 iterations776 iterations777 iterations778 iterations779 iterations780 iterations781 iterations782 iterations783 iterations784 iterations785 iterations786 iterations787 iterations788 iterations789 iterations790 iterations791 iterations792 iterations793 iterations794 iterations795 iterations796 iterations797 iterations798 iterations799 iterations800 iterations801 iterations802 iterations803 iterations804 iterations805 iterations806 iterations807 iterations808 iterations809 iterations810 iterations811 iterations812 iterations813 iterations814 iterations815 iterations816 iterations817 iterations818 iterations819 iterations820 iterations821 iterations822 iterations823 iterations824 iterations825 iterations826 iterations827 iterations828 iterations829 iterations830 iterations831 iterations832 iterations833 iterations834 iterations835 iterations836 iterations837 iterations838 iterations839 iterations840 iterations841 iterations842 iterations843 iterations844 iterations845 iterations846 iterations847 iterations848 iterations849 iterations850 iterations851 iterations852 iterations853 iterations854 iterations855 iterations856 iterations857 iterations858 iterations859 iterations860 iterations861 iterations862 iterations863 iterations864 iterations865 iterations866 iterations867 iterations868 iterations869 iterations870 iterations871 iterations872 iterations873 iterations874 iterations875 iterations876 iterations877 iterations878 iterations879 iterations880 iterations881 iterations882 iterations883 iterations884 iterations885 iterations886 iterations887 iterations888 iterations889 iterations890 iterations891 iterations892 iterations893 iterations894 iterations895 iterations896 iterations897 iterations898 iterations899 iterations900 iterations901 iterations902 iterations903 iterations904 iterations905 iterations906 iterations907 iterations908 iterations909 iterations910 iterations911 iterations912 iterations913 iterations914 iterations915 iterations916 iterations917 iterations918 iterations919 iterations920 iterations921 iterations922 iterations923 iterations924 iterations925 iterations926 iterations927 iterations928 iterations929 iterations930 iterations931 iterations932 iterations933 iterations934 iterations935 iterations936 iterations937 iterations938 iterations939 iterations940 iterations941 iterations942 iterations943 iterations944 iterations945 iterations946 iterations947 iterations948 iterations949 iterations950 iterations951 iterations952 iterations953 iterations954 iterations955 iterations956 iterations957 iterations958 iterations959 iterations960 iterations961 iterations962 iterations963 iterations964 iterations965 iterations966 iterations967 iterations968 iterations969 iterations970 iterations971 iterations972 iterations973 iterations974 iterations975 iterations976 iterations977 iterations978 iterations979 iterations980 iterations981 iterations982 iterations983 iterations984 iterations985 iterations986 iterations987 iterations988 iterations989 iterations990 iterations991 iterations992 iterations993 iterations994 iterations995 iterations996 iterations997 iterations998 iterations999 iterations1000 iterations
+{Undefined function 'titel' for input arguments of type 'char'.
+} 
+color = hsc(3);
+{Undefined function 'hsc' for input arguments of type 'double'.
+} 
+color = hsv(3);
+size(color
+ size(color
+           |
+{Error: Expression or statement is incorrect--possibly unbalanced (, {, or [.
+} 
+size(color)
+
+ans =
+
+     3     3
+
+size([1 2 3 4 5 ])
+
+ans =
+
+     1     5
+
+grid on
+box on
+
+ans =
+
+    0.8468
+
+
+ans =
+
+    0.8468
+
+1 iterations2 iterations3 iterations4 iterations5 iterations6 iterations7 iterations8 iterations9 iterations10 iterations11 iterations12 iterations13 iterations14 iterations15 iterations16 iterations17 iterations18 iterations19 iterations20 iterations21 iterations22 iterations23 iterations24 iterations25 iterations26 iterations27 iterations28 iterations29 iterations30 iterations31 iterations32 iterations33 iterations34 iterations35 iterations36 iterations37 iterations38 iterations39 iterations40 iterations41 iterations42 iterations43 iterations44 iterations45 iterations46 iterations47 iterations48 iterations49 iterations50 iterations51 iterations52 iterations53 iterations54 iterations55 iterations56 iterations57 iterations58 iterations59 iterations60 iterations61 iterations62 iterations63 iterations64 iterations65 iterations66 iterations67 iterations68 iterations69 iterations70 iterations71 iterations72 iterations73 iterations74 iterations75 iterations76 iterations77 iterations78 iterations79 iterations80 iterations81 iterations82 iterations83 iterations84 iterations85 iterations86 iterations87 iterations88 iterations89 iterations90 iterations91 iterations92 iterations93 iterations94 iterations95 iterations96 iterations97 iterations98 iterations99 iterations100 iterations101 iterations102 iterations103 iterations104 iterations105 iterations106 iterations107 iterations108 iterations109 iterations110 iterations111 iterations112 iterations113 iterations114 iterations115 iterations116 iterations117 iterations118 iterations119 iterations120 iterations121 iterations122 iterations123 iterations124 iterations125 iterations126 iterations127 iterations128 iterations129 iterations130 iterations131 iterations132 iterations133 iterations134 iterations135 iterations136 iterations137 iterations138 iterations139 iterations140 iterations141 iterations142 iterations143 iterations144 iterations145 iterations146 iterations147 iterations148 iterations149 iterations150 iterations151 iterations152 iterations153 iterations154 iterations155 iterations156 iterations157 iterations158 iterations159 iterations160 iterations161 iterations162 iterations163 iterations164 iterations165 iterations166 iterations167 iterations168 iterations169 iterations170 iterations171 iterations172 iterations173 iterations174 iterations175 iterations176 iterations177 iterations178 iterations179 iterations180 iterations181 iterations182 iterations183 iterations184 iterations185 iterations186 iterations187 iterations188 iterations189 iterations190 iterations191 iterations192 iterations193 iterations194 iterations195 iterations196 iterations197 iterations198 iterations199 iterations200 iterations201 iterations202 iterations203 iterations204 iterations205 iterations206 iterations207 iterations208 iterations209 iterations210 iterations211 iterations212 iterations213 iterations214 iterations215 iterations216 iterations217 iterations218 iterations219 iterations220 iterations221 iterations222 iterations223 iterations224 iterations225 iterations226 iterations227 iterations228 iterations229 iterations230 iterations231 iterations232 iterations233 iterations234 iterations235 iterations236 iterations237 iterations238 iterations239 iterations240 iterations241 iterations242 iterations243 iterations244 iterations245 iterations246 iterations247 iterations248 iterations249 iterations250 iterations251 iterations252 iterations253 iterations254 iterations255 iterations256 iterations257 iterations258 iterations259 iterations260 iterations261 iterations262 iterations263 iterations264 iterations265 iterations266 iterations267 iterations268 iterations269 iterations270 iterations271 iterations272 iterations273 iterations274 iterations275 iterations276 iterations277 iterations278 iterations279 iterations280 iterations281 iterations282 iterations283 iterations284 iterations285 iterations286 iterations287 iterations288 iterations289 iterations290 iterations291 iterations292 iterations293 iterations294 iterations295 iterations296 iterations297 iterations298 iterations299 iterations300 iterations301 iterations302 iterations303 iterations304 iterations305 iterations306 iterations307 iterations308 iterations309 iterations310 iterations311 iterations312 iterations313 iterations314 iterations315 iterations316 iterations317 iterations318 iterations319 iterations320 iterations321 iterations322 iterations323 iterations324 iterations325 iterations326 iterations327 iterations328 iterations329 iterations330 iterations331 iterations332 iterations333 iterations334 iterations335 iterations336 iterations337 iterations338 iterations339 iterations340 iterations341 iterations342 iterations343 iterations344 iterations345 iterations346 iterations347 iterations348 iterations349 iterations350 iterations351 iterations352 iterations353 iterations354 iterations355 iterations356 iterations357 iterations358 iterations359 iterations360 iterations361 iterations362 iterations363 iterations364 iterations365 iterations366 iterations367 iterations368 iterations369 iterations370 iterations371 iterations372 iterations373 iterations374 iterations375 iterations376 iterations377 iterations378 iterations379 iterations380 iterations381 iterations382 iterations383 iterations384 iterations385 iterations386 iterations387 iterations388 iterations389 iterations390 iterations391 iterations392 iterations393 iterations394 iterations395 iterations396 iterations397 iterations398 iterations399 iterations400 iterations401 iterations402 iterations403 iterations404 iterations405 iterations406 iterations407 iterations408 iterations409 iterations410 iterations411 iterations412 iterations413 iterations414 iterations415 iterations416 iterations417 iterations418 iterations419 iterations420 iterations421 iterations422 iterations423 iterations424 iterations425 iterations426 iterations427 iterations428 iterations429 iterations430 iterations431 iterations432 iterations433 iterations434 iterations435 iterations436 iterations437 iterations438 iterations439 iterations440 iterations441 iterations442 iterations443 iterations444 iterations445 iterations446 iterations447 iterations448 iterations449 iterations450 iterations451 iterations452 iterations453 iterations454 iterations455 iterations456 iterations457 iterations458 iterations459 iterations460 iterations461 iterations462 iterations463 iterations464 iterations465 iterations466 iterations467 iterations468 iterations469 iterations470 iterations471 iterations472 iterations473 iterations474 iterations475 iterations476 iterations477 iterations478 iterations479 iterations480 iterations481 iterations482 iterations483 iterations484 iterations485 iterations486 iterations487 iterations488 iterations489 iterations490 iterations491 iterations492 iterations493 iterations494 iterations495 iterations496 iterations497 iterations498 iterations499 iterations500 iterations501 iterations502 iterations503 iterations504 iterations505 iterations506 iterations507 iterations508 iterations509 iterations510 iterations511 iterations512 iterations513 iterations514 iterations515 iterations516 iterations517 iterations518 iterations519 iterations520 iterations521 iterations522 iterations523 iterations524 iterations525 iterations526 iterations527 iterations528 iterations529 iterations530 iterations531 iterations532 iterations533 iterations534 iterations535 iterations536 iterations537 iterations538 iterations539 iterations540 iterations541 iterations542 iterations543 iterations544 iterations545 iterations546 iterations547 iterations548 iterations549 iterations550 iterations551 iterations552 iterations553 iterations554 iterations555 iterations556 iterations557 iterations558 iterations559 iterations560 iterations561 iterations562 iterations563 iterations564 iterations565 iterations566 iterations567 iterations568 iterations569 iterations570 iterations571 iterations572 iterations573 iterations574 iterations575 iterations576 iterations577 iterations578 iterations579 iterations580 iterations581 iterations582 iterations583 iterations584 iterations585 iterations586 iterations587 iterations588 iterations589 iterations590 iterations591 iterations592 iterations593 iterations594 iterations595 iterations596 iterations597 iterations598 iterations599 iterations600 iterations601 iterations602 iterations603 iterations604 iterations605 iterations606 iterations607 iterations608 iterations609 iterations610 iterations611 iterations612 iterations613 iterations614 iterations615 iterations616 iterations617 iterations618 iterations619 iterations620 iterations621 iterations622 iterations623 iterations624 iterations625 iterations626 iterations627 iterations628 iterations629 iterations630 iterations631 iterations632 iterations633 iterations634 iterations635 iterations636 iterations637 iterations638 iterations639 iterations640 iterations641 iterations642 iterations643 iterations644 iterations645 iterations646 iterations647 iterations648 iterations649 iterations650 iterations651 iterations652 iterations653 iterations654 iterations655 iterations656 iterations657 iterations658 iterations659 iterations660 iterations661 iterations662 iterations663 iterations664 iterations665 iterations666 iterations667 iterations668 iterations669 iterations670 iterations671 iterations672 iterations673 iterations674 iterations675 iterations676 iterations677 iterations678 iterations679 iterations680 iterations681 iterations682 iterations683 iterations684 iterations685 iterations686 iterations687 iterations688 iterations689 iterations690 iterations691 iterations692 iterations693 iterations694 iterations695 iterations696 iterations697 iterations698 iterations699 iterations700 iterations701 iterations702 iterations703 iterations704 iterations705 iterations706 iterations707 iterations708 iterations709 iterations710 iterations711 iterations712 iterations713 iterations714 iterations715 iterations716 iterations717 iterations718 iterations719 iterations720 iterations721 iterations722 iterations723 iterations724 iterations725 iterations726 iterations727 iterations728 iterations729 iterations730 iterations731 iterations732 iterations733 iterations734 iterations735 iterations736 iterations737 iterations738 iterations739 iterations740 iterations741 iterations742 iterations743 iterations744 iterations745 iterations746 iterations747 iterations748 iterations749 iterations750 iterations751 iterations752 iterations753 iterations754 iterations755 iterations756 iterations757 iterations758 iterations759 iterations760 iterations761 iterations762 iterations763 iterations764 iterations765 iterations766 iterations767 iterations768 iterations769 iterations770 iterations771 iterations772 iterations773 iterations774 iterations775 iterations776 iterations777 iterations778 iterations779 iterations780 iterations781 iterations782 iterations783 iterations784 iterations785 iterations786 iterations787 iterations788 iterations789 iterations790 iterations791 iterations792 iterations793 iterations794 iterations795 iterations796 iterations797 iterations798 iterations799 iterations800 iterations801 iterations802 iterations803 iterations804 iterations805 iterations806 iterations807 iterations808 iterations809 iterations810 iterations811 iterations812 iterations813 iterations814 iterations815 iterations816 iterations817 iterations818 iterations819 iterations820 iterations821 iterations822 iterations823 iterations824 iterations825 iterations826 iterations827 iterations828 iterations829 iterations830 iterations831 iterations832 iterations833 iterations834 iterations835 iterations836 iterations837 iterations838 iterations839 iterations840 iterations841 iterations842 iterations843 iterations844 iterations845 iterations846 iterations847 iterations848 iterations849 iterations850 iterations851 iterations852 iterations853 iterations854 iterations855 iterations856 iterations857 iterations858 iterations859 iterations860 iterations861 iterations862 iterations863 iterations864 iterations865 iterations866 iterations867 iterations868 iterations869 iterations870 iterations871 iterations872 iterations873 iterations874 iterations875 iterations876 iterations877 iterations878 iterations879 iterations880 iterations881 iterations882 iterations883 iterations884 iterations885 iterations886 iterations887 iterations888 iterations889 iterations890 iterations891 iterations892 iterations893 iterations894 iterations895 iterations896 iterations897 iterations898 iterations899 iterations900 iterations901 iterations902 iterations903 iterations904 iterations905 iterations906 iterations907 iterations908 iterations909 iterations910 iterations911 iterations912 iterations913 iterations914 iterations915 iterations916 iterations917 iterations918 iterations919 iterations920 iterations921 iterations922 iterations923 iterations924 iterations925 iterations926 iterations927 iterations928 iterations929 iterations930 iterations931 iterations932 iterations933 iterations934 iterations935 iterations936 iterations937 iterations938 iterations939 iterations940 iterations941 iterations942 iterations943 iterations944 iterations945 iterations946 iterations947 iterations948 iterations949 iterations950 iterations951 iterations952 iterations953 iterations954 iterations955 iterations956 iterations957 iterations958 iterations959 iterations960 iterations961 iterations962 iterations963 iterations964 iterations965 iterations966 iterations967 iterations968 iterations969 iterations970 iterations971 iterations972 iterations973 iterations974 iterations975 iterations976 iterations977 iterations978 iterations979 iterations980 iterations981 iterations982 iterations983 iterations984 iterations985 iterations986 iterations987 iterations988 iterations989 iterations990 iterations991 iterations992 iterations993 iterations994 iterations995 iterations996 iterations997 iterations998 iterations999 iterations1000 iterations
+
+ans =
+
+    0.8547
+
+
+ans =
+
+    0.8468
+
+
+ans =
+
+    0.8547
+
+
+ans =
+
+    0.8468
+
+clc
+
+ans =
+
+    0.8468
+
+
+ans =
+
+    0.8547
+
+
+ans =
+
+    0.8468
+
+
+ans =
+
+    0.8673
+
+
+ans =
+
+    0.8547
+
+
+ans =
+
+    0.8468
+
+clc
+
+ans =
+
+    0.8673
+
+
+ans =
+
+    0.8547
+
+
+ans =
+
+    0.8468
+
+clc
+
+ans =
+
+    0.8730
+
+ShowResults
+Gen: 1001. 	 Fit: 96.003160 
+ 	 Agr 1: 	 0.5*((((1*(X(:,12)))+(1*(X(:,7))))-(1*(X(:,13))))-((2*(X(:,10)))+((1*(X(:,13)))+(1*(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*(((3*(X(:,7)))+((1*(X(:,5)))+(1*(X(:,12)))))+(1*(((X(:,1))+(X(:,6))).*(X(:,9)))))
+
+correct =
+
+   100
+
+
+ans =
+
+     1     0     1
+
+
+ans =
+
+     2     1     2
+
+
+ans =
+
+     3     1     2
+
+
+ans =
+
+     4     2     1
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     6     3     2
+
+
+ans =
+
+     7     3     2
+
+
+ans =
+
+     8     0     1
+
+
+ans =
+
+     9     1     1
+
+
+ans =
+
+    10     1     1
+
+
+ans =
+
+    11     2     2
+
+
+ans =
+
+    12     2     2
+
+
+ans =
+
+    13     3     2
+
+
+ans =
+
+     1     0     1
+
+
+ans =
+
+     2     1     2
+
+
+ans =
+
+     3     1     2
+
+
+ans =
+
+     4     2     1
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     6     3     2
+
+
+ans =
+
+     7     3     2
+
+
+ans =
+
+     8     0     1
+
+
+ans =
+
+     9     1     1
+
+
+ans =
+
+    10     1     1
+
+
+ans =
+
+    11     2     2
+
+
+ans =
+
+    12     2     2
+
+
+ans =
+
+    13     3     2
+
+
+ans =
+
+     1     0     1
+
+
+ans =
+
+     2     1     2
+
+
+ans =
+
+     3     1     2
+
+
+ans =
+
+     4     2     1
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     6     3     2
+
+
+ans =
+
+     7     3     2
+
+
+ans =
+
+     8     0     1
+
+
+ans =
+
+     9     1     1
+
+
+ans =
+
+    10     1     1
+
+
+ans =
+
+    11     2     2
+
+
+ans =
+
+    12     2     2
+
+
+ans =
+
+    13     3     2
+
+marker = '+*d';
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+
+ans =
+
+     1     0     1
+
+
+ans =
+
+     2     1     2
+
+
+ans =
+
+     3     1     2
+
+
+ans =
+
+     4     2     1
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     6     3     2
+
+
+ans =
+
+     7     3     2
+
+
+ans =
+
+     8     0     1
+
+
+ans =
+
+     9     1     1
+
+
+ans =
+
+    10     1     1
+
+
+ans =
+
+    11     2     2
+
+
+ans =
+
+    12     2     2
+
+
+ans =
+
+    13     3     2
+
+
+ans =
+
+     1     0     1
+
+
+ans =
+
+     2     1     2
+
+
+ans =
+
+     3     1     2
+
+
+ans =
+
+     4     2     1
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     6     3     2
+
+
+ans =
+
+     7     3     2
+
+
+ans =
+
+     8     0     1
+
+
+ans =
+
+     9     1     1
+
+
+ans =
+
+    10     1     1
+
+
+ans =
+
+    11     2     2
+
+
+ans =
+
+    12     2     2
+
+
+ans =
+
+    13     3     2
+
+run('C:\Users\Harley\Copy\PhdThesisProg\Thesis_01\B_Classification\Wine\MultiCrom_Mapping\Eredmenyek.m')
+1 iterations2 iterations3 iterations4 iterations5 iterations6 iterations7 iterations8 iterations9 iterations10 iterations11 iterations12 iterations13 iterations14 iterations15 iterations16 iterations17 iterations18 iterations19 iterations20 iterations21 iterations22 iterations23 iterations24 iterations25 iterations26 iterations27 iterations28 iterations29 iterations30 iterations31 iterations32 iterations33 iterations34 iterations35 iterations36 iterations37 iterations38 iterations39 iterations40 iterations41 iterations42 iterations43 iterations44 iterations45 iterations46 iterations47 iterations48 iterations49 iterations50 iterations51 iterations52 iterations53 iterations54 iterations55 iterations56 iterations57 iterations58 iterations59 iterations60 iterations61 iterations62 iterations63 iterations64 iterations65 iterations66 iterations67 iterations68 iterations69 iterations70 iterations71 iterations72 iterations73 iterations74 iterations75 iterations76 iterations77 iterations78 iterations79 iterations80 iterations81 iterations82 iterations83 iterations84 iterations85 iterations86 iterations87 iterations88 iterations89 iterations90 iterations91 iterations92 iterations93 iterations94 iterations95 iterations96 iterations97 iterations98 iterations99 iterations100 iterations101 iterations102 iterations103 iterations104 iterations105 iterations106 iterations107 iterations108 iterations109 iterations110 iterations111 iterations112 iterations113 iterations114 iterations115 iterations116 iterations117 iterations118 iterations119 iterations120 iterations121 iterations122 iterations123 iterations124 iterations125 iterations126 iterations127 iterations128 iterations129 iterations130 iterations131 iterations132 iterations133 iterations134 iterations135 iterations136 iterations137 iterations138 iterations139 iterations140 iterations141 iterations142 iterations143 iterations144 iterations145 iterations146 iterations147 iterations148 iterations149 iterations150 iterations151 iterations152 iterations153 iterations154 iterations155 iterations156 iterations157 iterations158 iterations159 iterations160 iterations161 iterations162 iterations163 iterations164 iterations165 iterations166 iterations167 iterations168 iterations169 iterations170 iterations171 iterations172 iterations173 iterations174 iterations175 iterations176 iterations177 iterations178 iterations179 iterations180 iterations181 iterations182 iterations183 iterations184 iterations185 iterations186 iterations187 iterations188 iterations189 iterations190 iterations191 iterations192 iterations193 iterations194 iterations195 iterations196 iterations197 iterations198 iterations199 iterations200 iterations201 iterations202 iterations203 iterations204 iterations205 iterations206 iterations207 iterations208 iterations209 iterations210 iterations211 iterations212 iterations213 iterations214 iterations215 iterations216 iterations217 iterations218 iterations219 iterations220 iterations221 iterations222 iterations223 iterations224 iterations225 iterations226 iterations227 iterations228 iterations229 iterations230 iterations231 iterations232 iterations233 iterations234 iterations235 iterations236 iterations237 iterations238 iterations239 iterations240 iterations241 iterations242 iterations243 iterations244 iterations245 iterations246 iterations247 iterations248 iterations249 iterations250 iterations251 iterations252 iterations253 iterations254 iterations255 iterations256 iterations257 iterations258 iterations259 iterations260 iterations261 iterations262 iterations263 iterations264 iterations265 iterations266 iterations267 iterations268 iterations269 iterations270 iterations271 iterations272 iterations273 iterations274 iterations275 iterations276 iterations277 iterations278 iterations279 iterations280 iterations281 iterations282 iterations283 iterations284 iterations285 iterations286 iterations287 iterations288 iterations289 iterations290 iterations291 iterations292 iterations293 iterations294 iterations295 iterations296 iterations297 iterations298 iterations299 iterations300 iterations301 iterations302 iterations303 iterations304 iterations305 iterations306 iterations307 iterations308 iterations309 iterations310 iterations311 iterations312 iterations313 iterations314 iterations315 iterations316 iterations317 iterations318 iterations319 iterations320 iterations321 iterations322 iterations323 iterations324 iterations325 iterations326 iterations327 iterations328 iterations329 iterations330 iterations331 iterations332 iterations333 iterations334 iterations335 iterations336 iterations337 iterations338 iterations339 iterations340 iterations341 iterations342 iterations343 iterations344 iterations345 iterations346 iterations347 iterations348 iterations349 iterations350 iterations351 iterations352 iterations353 iterations354 iterations355 iterations356 iterations357 iterations358 iterations359 iterations360 iterations361 iterations362 iterations363 iterations364 iterations365 iterations366 iterations367 iterations368 iterations369 iterations370 iterations371 iterations372 iterations373 iterations374 iterations375 iterations376 iterations377 iterations378 iterations379 iterations380 iterations381 iterations382 iterations383 iterations384 iterations385 iterations386 iterations387 iterations388 iterations389 iterations390 iterations391 iterations392 iterations393 iterations394 iterations395 iterations396 iterations397 iterations398 iterations399 iterations400 iterations401 iterations402 iterations403 iterations404 iterations405 iterations406 iterations407 iterations408 iterations409 iterations410 iterations411 iterations412 iterations413 iterations414 iterations415 iterations416 iterations417 iterations418 iterations419 iterations420 iterations421 iterations422 iterations423 iterations424 iterations425 iterations426 iterations427 iterations428 iterations429 iterations430 iterations431 iterations432 iterations433 iterations434 iterations435 iterations436 iterations437 iterations438 iterations439 iterations440 iterations441 iterations442 iterations443 iterations444 iterations445 iterations446 iterations447 iterations448 iterations449 iterations450 iterations451 iterations452 iterations453 iterations454 iterations455 iterations456 iterations457 iterations458 iterations459 iterations460 iterations461 iterations462 iterations463 iterations464 iterations465 iterations466 iterations467 iterations468 iterations469 iterations470 iterations471 iterations472 iterations473 iterations474 iterations475 iterations476 iterations477 iterations478 iterations479 iterations480 iterations481 iterations482 iterations483 iterations484 iterations485 iterations486 iterations487 iterations488 iterations489 iterations490 iterations491 iterations492 iterations493 iterations494 iterations495 iterations496 iterations497 iterations498 iterations499 iterations500 iterations501 iterations502 iterations503 iterations504 iterations505 iterations506 iterations507 iterations508 iterations509 iterations510 iterations511 iterations512 iterations513 iterations514 iterations515 iterations516 iterations517 iterations518 iterations519 iterations520 iterations521 iterations522 iterations523 iterations524 iterations525 iterations526 iterations527 iterations528 iterations529 iterations530 iterations531 iterations532 iterations533 iterations534 iterations535 iterations536 iterations537 iterations538 iterations539 iterations540 iterations541 iterations542 iterations543 iterations544 iterations545 iterations546 iterations547 iterations548 iterations549 iterations550 iterations551 iterations552 iterations553 iterations554 iterations555 iterations556 iterations557 iterations558 iterations559 iterations560 iterations561 iterations562 iterations563 iterations564 iterations565 iterations566 iterations567 iterations568 iterations569 iterations570 iterations571 iterations572 iterations573 iterations574 iterations575 iterations576 iterations577 iterations578 iterations579 iterations580 iterations581 iterations582 iterations583 iterations584 iterations585 iterations586 iterations587 iterations588 iterations589 iterations590 iterations591 iterations592 iterations593 iterations594 iterations595 iterations596 iterations597 iterations598 iterations599 iterations600 iterations601 iterations602 iterations603 iterations604 iterations605 iterations606 iterations607 iterations608 iterations609 iterations610 iterations611 iterations612 iterations613 iterations614 iterations615 iterations616 iterations617 iterations618 iterations619 iterations620 iterations621 iterations622 iterations623 iterations624 iterations625 iterations626 iterations627 iterations628 iterations629 iterations630 iterations631 iterations632 iterations633 iterations634 iterations635 iterations636 iterations637 iterations638 iterations639 iterations640 iterations641 iterations642 iterations643 iterations644 iterations645 iterations646 iterations647 iterations648 iterations649 iterations650 iterations651 iterations652 iterations653 iterations654 iterations655 iterations656 iterations657 iterations658 iterations659 iterations660 iterations661 iterations662 iterations663 iterations664 iterations665 iterations666 iterations667 iterations668 iterations669 iterations670 iterations671 iterations672 iterations673 iterations674 iterations675 iterations676 iterations677 iterations678 iterations679 iterations680 iterations681 iterations682 iterations683 iterations684 iterations685 iterations686 iterations687 iterations688 iterations689 iterations690 iterations691 iterations692 iterations693 iterations694 iterations695 iterations696 iterations697 iterations698 iterations699 iterations700 iterations701 iterations702 iterations703 iterations704 iterations705 iterations706 iterations707 iterations708 iterations709 iterations710 iterations711 iterations712 iterations713 iterations714 iterations715 iterations716 iterations717 iterations718 iterations719 iterations720 iterations721 iterations722 iterations723 iterations724 iterations725 iterations726 iterations727 iterations728 iterations729 iterations730 iterations731 iterations732 iterations733 iterations734 iterations735 iterations736 iterations737 iterations738 iterations739 iterations740 iterations741 iterations742 iterations743 iterations744 iterations745 iterations746 iterations747 iterations748 iterations749 iterations750 iterations751 iterations752 iterations753 iterations754 iterations755 iterations756 iterations757 iterations758 iterations759 iterations760 iterations761 iterations762 iterations763 iterations764 iterations765 iterations766 iterations767 iterations768 iterations769 iterations770 iterations771 iterations772 iterations773 iterations774 iterations775 iterations776 iterations777 iterations778 iterations779 iterations780 iterations781 iterations782 iterations783 iterations784 iterations785 iterations786 iterations787 iterations788 iterations789 iterations790 iterations791 iterations792 iterations793 iterations794 iterations795 iterations796 iterations797 iterations798 iterations799 iterations800 iterations801 iterations802 iterations803 iterations804 iterations805 iterations806 iterations807 iterations808 iterations809 iterations810 iterations811 iterations812 iterations813 iterations814 iterations815 iterations816 iterations817 iterations818 iterations819 iterations820 iterations821 iterations822 iterations823 iterations824 iterations825 iterations826 iterations827 iterations828 iterations829 iterations830 iterations831 iterations832 iterations833 iterations834 iterations835 iterations836 iterations837 iterations838 iterations839 iterations840 iterations841 iterations842 iterations843 iterations844 iterations845 iterations846 iterations847 iterations848 iterations849 iterations850 iterations851 iterations852 iterations853 iterations854 iterations855 iterations856 iterations857 iterations858 iterations859 iterations860 iterations861 iterations862 iterations863 iterations864 iterations865 iterations866 iterations867 iterations868 iterations869 iterations870 iterations871 iterations872 iterations873 iterations874 iterations875 iterations876 iterations877 iterations878 iterations879 iterations880 iterations881 iterations882 iterations883 iterations884 iterations885 iterations886 iterations887 iterations888 iterations889 iterations890 iterations891 iterations892 iterations893 iterations894 iterations895 iterations896 iterations897 iterations898 iterations899 iterations900 iterations901 iterations902 iterations903 iterations904 iterations905 iterations906 iterations907 iterations908 iterations909 iterations910 iterations911 iterations912 iterations913 iterations914 iterations915 iterations916 iterations917 iterations918 iterations919 iterations920 iterations921 iterations922 iterations923 iterations924 iterations925 iterations926 iterations927 iterations928 iterations929 iterations930 iterations931 iterations932 iterations933 iterations934 iterations935 iterations936 iterations937 iterations938 iterations939 iterations940 iterations941 iterations942 iterations943 iterations944 iterations945 iterations946 iterations947 iterations948 iterations949 iterations950 iterations951 iterations952 iterations953 iterations954 iterations955 iterations956 iterations957 iterations958 iterations959 iterations960 iterations961 iterations962 iterations963 iterations964 iterations965 iterations966 iterations967 iterations968 iterations969 iterations970 iterations971 iterations972 iterations973 iterations974 iterations975 iterations976 iterations977 iterations978 iterations979 iterations980 iterations981 iterations982 iterations983 iterations984 iterations985 iterations986 iterations987 iterations988 iterations989 iterations990 iterations991 iterations992 iterations993 iterations994 iterations995 iterations996 iterations997 iterations998 iterations999 iterations1000 iterations
+
+ans =
+
+    0.8673
+
+
+ans =
+
+    0.8547
+
+
+ans =
+
+    0.8468
+
+
+ans =
+
+    0.8730
+
+ShowResults
+Gen: 1001. 	 Fit: 96.003160 
+ 	 Agr 1: 	 0.5*((((1*(X(:,12)))+(1*(X(:,7))))-(1*(X(:,13))))-((2*(X(:,10)))+((1*(X(:,13)))+(1*(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*(((3*(X(:,7)))+((1*(X(:,5)))+(1*(X(:,12)))))+(1*(((X(:,1))+(X(:,6))).*(X(:,9)))))
+
+correct =
+
+   100
+
+
+ans =
+
+     1     0     1
+
+
+ans =
+
+     2     1     2
+
+
+ans =
+
+     3     1     2
+
+
+ans =
+
+     4     2     1
+
+
+ans =
+
+     5     2     1
+
+
+ans =
+
+     6     3     2
+
+
+ans =
+
+     7     3     2
+
+
+ans =
+
+     8     0     1
+
+
+ans =
+
+     9     1     1
+
+
+ans =
+
+    10     1     1
+
+
+ans =
+
+    11     2     2
+
+
+ans =
+
+    12     2     2
+
+
+ans =
+
+    13     3     2
+
+clc
+{Undefined function or variable 'Y'.
+} 
+clc
+
+correct =
+
+    0.9775
+
+
+correct =
+
+    0.9775
+

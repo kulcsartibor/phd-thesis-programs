@@ -1,0 +1,1022 @@
+Model {
+  Name			  "gpcdel"
+  Version		  3.00
+  SimParamPage		  "Solver"
+  SampleTimeColors	  off
+  InvariantConstants	  off
+  WideVectorLines	  off
+  ShowLineWidths	  off
+  ShowPortDataTypes	  off
+  StartTime		  "0.0"
+  StopTime		  "250"
+  SolverMode		  "SingleTasking"
+  Solver		  "ode45"
+  RelTol		  "1e-3"
+  AbsTol		  "1e-3"
+  Refine		  "1"
+  MaxStep		  "auto"
+  InitialStep		  "auto"
+  FixedStep		  "auto"
+  MaxOrder		  5
+  OutputOption		  "RefineOutputTimes"
+  OutputTimes		  "[]"
+  LoadExternalInput	  off
+  ExternalInput		  "[t, u]"
+  SaveTime		  off
+  TimeSaveName		  "tout"
+  SaveState		  off
+  StateSaveName		  "xout"
+  SaveOutput		  off
+  OutputSaveName	  "yout"
+  LoadInitialState	  off
+  InitialState		  "xInitial"
+  SaveFinalState	  off
+  FinalStateName	  "xFinal"
+  SaveFormat		  "Matrix"
+  LimitMaxRows		  off
+  MaxRows		  "1000"
+  Decimation		  "1"
+  AlgebraicLoopMsg	  "warning"
+  MinStepSizeMsg	  "warning"
+  UnconnectedInputMsg	  "warning"
+  UnconnectedOutputMsg	  "warning"
+  UnconnectedLineMsg	  "warning"
+  InheritedTsInSrcMsg	  "warning"
+  IntegerOverflowMsg	  "warning"
+  UnnecessaryDatatypeConvMsg "none"
+  Int32ToFloatConvMsg	  "warning"
+  SignalLabelMismatchMsg  "none"
+  ConsistencyChecking	  "off"
+  ZeroCross		  on
+  SimulationMode	  "normal"
+  BlockDataTips		  on
+  BlockParametersDataTip  on
+  BlockAttributesDataTip  off
+  BlockPortWidthsDataTip  off
+  BlockDescriptionStringDataTip	off
+  BlockMaskParametersDataTip off
+  ToolBar		  off
+  StatusBar		  off
+  BrowserShowLibraryLinks off
+  BrowserLookUnderMasks	  off
+  OptimizeBlockIOStorage  on
+  BufferReuse		  on
+  BooleanDataType	  off
+  RTWSystemTargetFile	  "grt.tlc"
+  RTWInlineParameters	  off
+  RTWRetainRTWFile	  off
+  RTWTemplateMakefile	  "grt_vc.tmf"
+  RTWMakeCommand	  "make_rtw"
+  RTWGenerateCodeOnly	  off
+  ExtModeMexFile	  "ext_comm"
+  ExtModeBatchMode	  off
+  ExtModeTrigType	  "manual"
+  ExtModeTrigMode	  "oneshot"
+  ExtModeTrigPort	  "1"
+  ExtModeTrigElement	  "any"
+  ExtModeTrigDuration	  1000
+  ExtModeTrigHoldOff	  0
+  ExtModeTrigDelay	  0
+  ExtModeTrigDirection	  "rising"
+  ExtModeTrigLevel	  0
+  ExtModeArchiveMode	  "off"
+  ExtModeAutoIncOneShot	  off
+  ExtModeIncDirWhenArm	  off
+  ExtModeAddSuffixToVar	  off
+  ExtModeWriteAllDataToWs off
+  ExtModeArmWhenConnect	  off
+  Created		  "Thu Nov 04 11:22:49 1999"
+  UpdateHistory		  "UpdateHistoryNever"
+  ModifiedByFormat	  "%<Auto>"
+  LastModifiedBy	  "J.Abonyi"
+  ModifiedDateFormat	  "%<Auto>"
+  LastModifiedDate	  "Thu Nov 11 13:52:29 1999"
+  ModelVersionFormat	  "1.%<AutoIncrement:98>"
+  ConfigurationManager	  "none"
+  BlockDefaults {
+    Orientation		    "right"
+    ForegroundColor	    "black"
+    BackgroundColor	    "white"
+    DropShadow		    off
+    NamePlacement	    "normal"
+    FontName		    "Helvetica"
+    FontSize		    10
+    FontWeight		    "normal"
+    FontAngle		    "normal"
+    ShowName		    on
+  }
+  AnnotationDefaults {
+    HorizontalAlignment	    "center"
+    VerticalAlignment	    "middle"
+    ForegroundColor	    "black"
+    BackgroundColor	    "white"
+    DropShadow		    off
+    FontName		    "Helvetica"
+    FontSize		    10
+    FontWeight		    "normal"
+    FontAngle		    "normal"
+  }
+  LineDefaults {
+    FontName		    "Helvetica"
+    FontSize		    9
+    FontWeight		    "normal"
+    FontAngle		    "normal"
+  }
+  System {
+    Name		    "gpcdel"
+    Location		    [133, 227, 956, 554]
+    Open		    on
+    ModelBrowserVisibility  off
+    ModelBrowserWidth	    200
+    ScreenColor		    "white"
+    PaperOrientation	    "landscape"
+    PaperPositionMode	    "auto"
+    PaperType		    "usletter"
+    PaperUnits		    "inches"
+    ZoomFactor		    "100"
+    AutoZoom		    on
+    ReportName		    "simulink-default.rpt"
+    Block {
+      BlockType		      Constant
+      Name		      "Constant"
+      Position		      [405, 135, 425, 155]
+      Value		      "81"
+    }
+    Block {
+      BlockType		      Mux
+      Name		      "Mux"
+      Ports		      [4, 1, 0, 0, 0]
+      Position		      [670, 72, 690, 268]
+      Inputs		      "4"
+      DisplayOption	      "none"
+    }
+    Block {
+      BlockType		      Mux
+      Name		      "Mux1"
+      Ports		      [2, 1, 0, 0, 0]
+      Position		      [205, 132, 240, 168]
+      Inputs		      "2"
+      DisplayOption	      "none"
+    }
+    Block {
+      BlockType		      Mux
+      Name		      "Mux2"
+      Ports		      [2, 1, 0, 0, 0]
+      Position		      [350, 197, 385, 233]
+      Inputs		      "2"
+      DisplayOption	      "none"
+    }
+    Block {
+      BlockType		      Mux
+      Name		      "Mux3"
+      Ports		      [2, 1, 0, 0, 0]
+      Position		      [190, 12, 225, 48]
+      Inputs		      "2"
+      DisplayOption	      "none"
+    }
+    Block {
+      BlockType		      "S-Function"
+      Name		      "S-Function"
+      Ports		      [1, 1, 0, 0, 0]
+      Position		      [400, 200, 460, 230]
+      FunctionName	      "dels"
+      PortCounts	      "[]"
+      SFunctionModules	      "''"
+    }
+    Block {
+      BlockType		      "S-Function"
+      Name		      "S-Function1"
+      Ports		      [1, 1, 0, 0, 0]
+      Position		      [260, 135, 320, 165]
+      FunctionName	      "gpc"
+      PortCounts	      "[]"
+      SFunctionModules	      "''"
+    }
+    Block {
+      BlockType		      "S-Function"
+      Name		      "S-Function2"
+      Ports		      [1, 1, 0, 0, 0]
+      Position		      [245, 15, 305, 45]
+      FunctionName	      "e"
+      PortCounts	      "[]"
+      SFunctionModules	      "''"
+    }
+    Block {
+      BlockType		      Scope
+      Name		      "Scope1"
+      Ports		      [1, 0, 0, 0, 0]
+      Position		      [720, 115, 750, 145]
+      Floating		      off
+      Location		      [256, 348, 972, 709]
+      Open		      on
+      NumInputPorts	      "1"
+      TickLabels	      "on"
+      ZoomMode		      "on"
+      List {
+	ListType		AxesTitles
+	axes1			"%<SignalLabel>"
+      }
+      Grid		      "on"
+      TimeRange		      "auto"
+      YMin		      "6"
+      YMax		      "12"
+      SaveToWorkspace	      on
+      SaveName		      "pi"
+      DataFormat	      "Matrix"
+      LimitMaxRows	      on
+      MaxRows		      "5000"
+      Decimation	      "1"
+      SampleInput	      on
+      SampleTime	      "0"
+    }
+    Block {
+      BlockType		      Sum
+      Name		      "Sum"
+      Ports		      [2, 1, 0, 0, 0]
+      Position		      [570, 180, 590, 200]
+      ShowName		      off
+      IconShape		      "round"
+      Inputs		      "+|-"
+      SaturateOnIntegerOverflow	on
+    }
+    Block {
+      BlockType		      Sum
+      Name		      "Sum1"
+      Ports		      [2, 1, 0, 0, 0]
+      Position		      [105, 130, 125, 150]
+      ShowName		      off
+      IconShape		      "round"
+      Inputs		      "+|-"
+      SaturateOnIntegerOverflow	on
+    }
+    Block {
+      BlockType		      ToWorkspace
+      Name		      "To Workspace"
+      Position		      [730, 55, 790, 85]
+      VariableName	      "simout"
+      Buffer		      "inf"
+      Decimation	      "1"
+      SampleTime	      "0.2"
+      SaveFormat	      "Matrix"
+    }
+    Block {
+      BlockType		      UnitDelay
+      Name		      "Unit Delay"
+      Position		      [110, 15, 145, 55]
+      X0		      "7"
+      SampleTime	      "0.2"
+    }
+    Block {
+      BlockType		      UnitDelay
+      Name		      "Unit Delay2"
+      Position		      [25, 215, 60, 255]
+      X0		      "7"
+      SampleTime	      "0.2"
+    }
+    Block {
+      BlockType		      SubSystem
+      Name		      "error"
+      Ports		      [1, 0, 0, 0, 0]
+      Position		      [330, 23, 355, 67]
+      ShowPortLabels	      off
+      MaskDisplay	      "disp('IAE')"
+      MaskIconFrame	      on
+      MaskIconOpaque	      on
+      MaskIconRotate	      "none"
+      MaskIconUnits	      "autoscale"
+      System {
+	Name			"error"
+	Location		[117, 170, 682, 424]
+	Open			off
+	ModelBrowserVisibility	off
+	ModelBrowserWidth	200
+	ScreenColor		"white"
+	PaperOrientation	"landscape"
+	PaperPositionMode	"auto"
+	PaperType		"usletter"
+	PaperUnits		"inches"
+	ZoomFactor		"100"
+	AutoZoom		on
+	Block {
+	  BlockType		  Inport
+	  Name			  "in_1"
+	  Position		  [110, 30, 130, 50]
+	  Port			  "1"
+	  PortWidth		  "-1"
+	  SampleTime		  "-1"
+	  DataType		  "auto"
+	  SignalType		  "auto"
+	  Interpolate		  on
+	}
+	Block {
+	  BlockType		  Abs
+	  Name			  "Abs"
+	  Position		  [275, 83, 305, 107]
+	}
+	Block {
+	  BlockType		  Clock
+	  Name			  "Clock"
+	  Position		  [85, 110, 105, 130]
+	  DisplayTime		  off
+	  Decimation		  "10"
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "Constant1"
+	  Position		  [115, 170, 135, 190]
+	  Value			  "0"
+	}
+	Block {
+	  BlockType		  DiscreteIntegrator
+	  Name			  "Discrete-Time\nIntegrator"
+	  Ports			  [1, 1, 0, 0, 0]
+	  Position		  [380, 77, 420, 113]
+	  IntegratorMethod	  "ForwardEuler"
+	  ExternalReset		  "none"
+	  InitialConditionSource  "internal"
+	  InitialCondition	  "0"
+	  LimitOutput		  off
+	  UpperSaturationLimit	  "inf"
+	  LowerSaturationLimit	  "-inf"
+	  ShowSaturationPort	  off
+	  ShowStatePort		  off
+	  SampleTime		  "0.2"
+	}
+	Block {
+	  BlockType		  Switch
+	  Name			  "Switch"
+	  Position		  [170, 89, 200, 121]
+	  Threshold		  "0"
+	}
+	Block {
+	  BlockType		  ToWorkspace
+	  Name			  "hiba"
+	  Position		  [455, 87, 505, 103]
+	  VariableName		  "error"
+	  Buffer		  "1"
+	  Decimation		  "1"
+	  SampleTime		  "0"
+	  SaveFormat		  "Matrix"
+	}
+	Line {
+	  SrcBlock		  "Switch"
+	  SrcPort		  1
+	  Points		  [25, 0; 0, -10]
+	  DstBlock		  "Abs"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "in_1"
+	  SrcPort		  1
+	  Points		  [10, 0; 0, 55]
+	  DstBlock		  "Switch"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "Constant1"
+	  SrcPort		  1
+	  Points		  [5, 0; 0, -65]
+	  DstBlock		  "Switch"
+	  DstPort		  3
+	}
+	Line {
+	  SrcBlock		  "Clock"
+	  SrcPort		  1
+	  Points		  [20, 0; 5, -15]
+	  DstBlock		  "Switch"
+	  DstPort		  2
+	}
+	Line {
+	  SrcBlock		  "Abs"
+	  SrcPort		  1
+	  DstBlock		  "Discrete-Time\nIntegrator"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "Discrete-Time\nIntegrator"
+	  SrcPort		  1
+	  DstBlock		  "hiba"
+	  DstPort		  1
+	}
+      }
+    }
+    Block {
+      BlockType		      SubSystem
+      Name		      "pH process"
+      Ports		      [2, 1, 0, 0, 0]
+      Position		      [490, 132, 545, 183]
+      ShowPortLabels	      on
+      System {
+	Name			"pH process"
+	Location		[2, 100, 787, 645]
+	Open			off
+	ModelBrowserVisibility	off
+	ModelBrowserWidth	200
+	ScreenColor		"white"
+	PaperOrientation	"landscape"
+	PaperPositionMode	"auto"
+	PaperType		"usletter"
+	PaperUnits		"inches"
+	ZoomFactor		"100"
+	AutoZoom		on
+	Block {
+	  BlockType		  Inport
+	  Name			  "In1"
+	  Position		  [15, 45, 45, 60]
+	  Orientation		  "up"
+	  Port			  "1"
+	  PortWidth		  "-1"
+	  SampleTime		  "-1"
+	  DataType		  "auto"
+	  SignalType		  "auto"
+	  Interpolate		  on
+	}
+	Block {
+	  BlockType		  Inport
+	  Name			  "In2"
+	  Position		  [35, 118, 65, 132]
+	  Port			  "2"
+	  PortWidth		  "-1"
+	  SampleTime		  "-1"
+	  DataType		  "auto"
+	  SignalType		  "auto"
+	  Interpolate		  on
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "1"
+	  Position		  [435, 35, 455, 55]
+	  Value			  "1"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "=3.pol."
+	  Position		  [615, 335, 675, 365]
+	  Expr			  "u[1]*u[2]-u[3]*u[2]-u[4]"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "=4.pol."
+	  Position		  [620, 470, 680, 500]
+	  Expr			  "-u[1]*u[2]"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "=CHAC+Ac"
+	  Position		  [180, 110, 240, 140]
+	  Expr			  "(u[1]*u[2]-(u[1]+u[3])*u[4])/u[5]"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "=CNa"
+	  Position		  [190, 360, 250, 390]
+	  Expr			  "(u[1]*u[2]-(u[1]+u[3])*u[4])/u[5]"
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "CHACbe"
+	  Position		  [25, 77, 65, 93]
+	  Value			  "0.32"
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "CNaOHbe"
+	  Position		  [25, 323, 55, 347]
+	  Value			  "0.05"
+	}
+	Block {
+	  BlockType		  Display
+	  Name			  "Display"
+	  Ports			  [1, 0, 0, 0, 0]
+	  Position		  [695, 105, 760, 135]
+	  Format		  "short"
+	  Decimation		  "1"
+	  Floating		  off
+	  SampleTime		  "-1"
+	}
+	Block {
+	  BlockType		  Display
+	  Name			  "Display2"
+	  Ports			  [1, 0, 0, 0, 0]
+	  Position		  [190, 421, 290, 449]
+	  Format		  "short"
+	  Decimation		  "1"
+	  Floating		  off
+	  SampleTime		  "-1"
+	}
+	Block {
+	  BlockType		  Integrator
+	  Name			  "Integrator"
+	  Ports			  [1, 1, 0, 0, 0]
+	  Position		  [275, 110, 305, 140]
+	  ExternalReset		  "none"
+	  InitialConditionSource  "internal"
+	  InitialCondition	  "0.0435"
+	  LimitOutput		  off
+	  UpperSaturationLimit	  "inf"
+	  LowerSaturationLimit	  "-inf"
+	  ShowSaturationPort	  off
+	  ShowStatePort		  off
+	  AbsoluteTolerance	  "auto"
+	}
+	Block {
+	  BlockType		  Integrator
+	  Name			  "Integrator1"
+	  Ports			  [1, 1, 0, 0, 0]
+	  Position		  [285, 360, 315, 390]
+	  ExternalReset		  "none"
+	  InitialConditionSource  "internal"
+	  InitialCondition	  "0.0432"
+	  LimitOutput		  off
+	  UpperSaturationLimit	  "inf"
+	  LowerSaturationLimit	  "-inf"
+	  ShowSaturationPort	  off
+	  ShowStatePort		  off
+	  AbsoluteTolerance	  "auto"
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "Ka"
+	  Position		  [295, 71, 385, 99]
+	  Value			  "1.753e-5"
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "Kw"
+	  Position		  [460, 390, 490, 410]
+	  Value			  "1e-14"
+	}
+	Block {
+	  BlockType		  MATLABFcn
+	  Name			  "MATLAB Fcn"
+	  Position		  [600, 105, 660, 135]
+	  MATLABFcn		  "megold"
+	  OutputWidth		  "1"
+	  OutputSignalType	  "auto"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux"
+	  Ports			  [5, 1, 0, 0, 0]
+	  Position		  [100, 30, 140, 220]
+	  Inputs		  "5"
+	  DisplayOption		  "none"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux1"
+	  Ports			  [5, 1, 0, 0, 0]
+	  Position		  [100, 280, 140, 470]
+	  Inputs		  "5"
+	  DisplayOption		  "none"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux2"
+	  Ports			  [4, 1, 0, 0, 0]
+	  Position		  [515, 24, 555, 216]
+	  Inputs		  "4"
+	  DisplayOption		  "none"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux3"
+	  Ports			  [4, 1, 0, 0, 0]
+	  Position		  [530, 274, 570, 421]
+	  Inputs		  "4"
+	  DisplayOption		  "none"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux4"
+	  Ports			  [2, 1, 0, 0, 0]
+	  Position		  [545, 453, 575, 517]
+	  Inputs		  "2"
+	  DisplayOption		  "none"
+	}
+	Block {
+	  BlockType		  Sum
+	  Name			  "Sum"
+	  Ports			  [2, 1, 0, 0, 0]
+	  Position		  [460, 77, 490, 108]
+	  IconShape		  "rectangular"
+	  Inputs		  "++"
+	  SaturateOnIntegerOverflow on
+	}
+	Block {
+	  BlockType		  Constant
+	  Name			  "V"
+	  Position		  [35, 196, 65, 214]
+	  Value			  "1000"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "pH"
+	  Position		  [610, 180, 670, 210]
+	  Expr			  "-log10(u)"
+	}
+	Block {
+	  BlockType		  Outport
+	  Name			  "Out1"
+	  Position		  [695, 188, 725, 202]
+	  Port			  "1"
+	  OutputWhenDisabled	  "held"
+	  InitialOutput		  "0"
+	}
+	Line {
+	  SrcBlock		  "CHACbe"
+	  SrcPort		  1
+	  DstBlock		  "Mux"
+	  DstPort		  2
+	}
+	Line {
+	  SrcBlock		  "Mux"
+	  SrcPort		  1
+	  DstBlock		  "=CHAC+Ac"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "=CHAC+Ac"
+	  SrcPort		  1
+	  DstBlock		  "Integrator"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "In2"
+	  SrcPort		  1
+	  Points		  [15, 0]
+	  Branch {
+	    DstBlock		    "Mux"
+	    DstPort		    3
+	  }
+	  Branch {
+	    DstBlock		    "Mux1"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  SrcBlock		  "CNaOHbe"
+	  SrcPort		  1
+	  DstBlock		  "Mux1"
+	  DstPort		  2
+	}
+	Line {
+	  SrcBlock		  "In1"
+	  SrcPort		  1
+	  Points		  [45, 0; 0, 5]
+	  Branch {
+	    DstBlock		    "Mux"
+	    DstPort		    1
+	  }
+	  Branch {
+	    Points		    [0, 330]
+	    DstBlock		    "Mux1"
+	    DstPort		    3
+	  }
+	}
+	Line {
+	  SrcBlock		  "=CNa"
+	  SrcPort		  1
+	  DstBlock		  "Integrator1"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "Mux1"
+	  SrcPort		  1
+	  DstBlock		  "=CNa"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "V"
+	  SrcPort		  1
+	  Points		  [0, 0]
+	  Branch {
+	    DstBlock		    "Mux"
+	    DstPort		    5
+	  }
+	  Branch {
+	    Points		    [0, 250]
+	    DstBlock		    "Mux1"
+	    DstPort		    5
+	  }
+	}
+	Line {
+	  SrcBlock		  "1"
+	  SrcPort		  1
+	  DstBlock		  "Mux2"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "Integrator1"
+	  SrcPort		  1
+	  Points		  [0, 65]
+	  Branch {
+	    Points		    [0, 65; -145, 0]
+	    Branch {
+	      DstBlock		      "Display2"
+	      DstPort		      1
+	    }
+	    Branch {
+	      Points		      [-125, 0; 0, -90]
+	      DstBlock		      "Mux1"
+	      DstPort		      4
+	    }
+	  }
+	  Branch {
+	    Points		    [110, 0; 0, -145]
+	    Branch {
+	      Points		      [0, -195]
+	      DstBlock		      "Sum"
+	      DstPort		      2
+	    }
+	    Branch {
+	      DstBlock		      "Mux3"
+	      DstPort		      1
+	    }
+	  }
+	}
+	Line {
+	  SrcBlock		  "Mux3"
+	  SrcPort		  1
+	  DstBlock		  "=3.pol."
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "Integrator"
+	  SrcPort		  1
+	  Points		  [0, 60]
+	  Branch {
+	    Points		    [0, 65; -280, 0; 0, -85]
+	    DstBlock		    "Mux"
+	    DstPort		    4
+	  }
+	  Branch {
+	    Points		    [40, 0; 0, 180]
+	    DstBlock		    "Mux3"
+	    DstPort		    3
+	  }
+	}
+	Line {
+	  SrcBlock		  "Mux4"
+	  SrcPort		  1
+	  DstBlock		  "=4.pol."
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "Kw"
+	  SrcPort		  1
+	  Points		  [10, 0]
+	  Branch {
+	    DstBlock		    "Mux3"
+	    DstPort		    4
+	  }
+	  Branch {
+	    Points		    [0, 70]
+	    DstBlock		    "Mux4"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  SrcBlock		  "Ka"
+	  SrcPort		  1
+	  Points		  [5, 0]
+	  Branch {
+	    Points		    [15, 0]
+	    Branch {
+	      DstBlock		      "Sum"
+	      DstPort		      1
+	    }
+	    Branch {
+	      Points		      [0, 245]
+	      DstBlock		      "Mux3"
+	      DstPort		      2
+	    }
+	  }
+	  Branch {
+	    Points		    [0, 415]
+	    DstBlock		    "Mux4"
+	    DstPort		    2
+	  }
+	}
+	Line {
+	  SrcBlock		  "Sum"
+	  SrcPort		  1
+	  DstBlock		  "Mux2"
+	  DstPort		  2
+	}
+	Line {
+	  SrcBlock		  "=3.pol."
+	  SrcPort		  1
+	  Points		  [0, -90; -230, 0; 0, -115]
+	  DstBlock		  "Mux2"
+	  DstPort		  3
+	}
+	Line {
+	  SrcBlock		  "=4.pol."
+	  SrcPort		  1
+	  Points		  [10, 0; 0, -245; -210, 0; 0, -45]
+	  DstBlock		  "Mux2"
+	  DstPort		  4
+	}
+	Line {
+	  SrcBlock		  "Mux2"
+	  SrcPort		  1
+	  DstBlock		  "MATLAB Fcn"
+	  DstPort		  1
+	}
+	Line {
+	  SrcBlock		  "MATLAB Fcn"
+	  SrcPort		  1
+	  Points		  [0, 0]
+	  Branch {
+	    DstBlock		    "Display"
+	    DstPort		    1
+	  }
+	  Branch {
+	    Points		    [0, 35; -70, 0]
+	    DstBlock		    "pH"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  SrcBlock		  "pH"
+	  SrcPort		  1
+	  DstBlock		  "Out1"
+	  DstPort		  1
+	}
+      }
+    }
+    Block {
+      BlockType		      FromWorkspace
+      Name		      "setpoint1"
+      Position		      [20, 102, 65, 128]
+      VariableName	      "[[0 25 25 50 50 75 75 100 100 125 125 150 150 1"
+"75 175 200 200 225 225 250 250]', [7 8 8 9 9 8 8 9.5 9.4 7.5 7.5 8.5 8.5 8 8 "
+"9.5 9.5 7 7 7 7 ]']"
+      SampleTime	      "25"
+      Interpolate	      on
+      HoldFinalValue	      on
+    }
+    Line {
+      SrcBlock		      "Mux"
+      SrcPort		      1
+      Points		      [-5, 0; 0, -45]
+      Branch {
+	Points			[15, 0]
+	DstBlock		"Scope1"
+	DstPort			1
+      }
+      Branch {
+	Points			[0, -55]
+	DstBlock		"To Workspace"
+	DstPort			1
+      }
+    }
+    Line {
+      SrcBlock		      "Constant"
+      SrcPort		      1
+      DstBlock		      "pH process"
+      DstPort		      1
+    }
+    Line {
+      SrcBlock		      "setpoint1"
+      SrcPort		      1
+      Points		      [20, 0]
+      Branch {
+	Points			[0, 0]
+	DstBlock		"Sum1"
+	DstPort			1
+      }
+      Branch {
+	Points			[0, -20]
+	Branch {
+	  DstBlock		  "Mux"
+	  DstPort		  1
+	}
+	Branch {
+	  Points		  [0, -60]
+	  DstBlock		  "Unit Delay"
+	  DstPort		  1
+	}
+      }
+    }
+    Line {
+      SrcBlock		      "Mux2"
+      SrcPort		      1
+      DstBlock		      "S-Function"
+      DstPort		      1
+    }
+    Line {
+      SrcBlock		      "Mux1"
+      SrcPort		      1
+      DstBlock		      "S-Function1"
+      DstPort		      1
+    }
+    Line {
+      SrcBlock		      "S-Function1"
+      SrcPort		      1
+      Points		      [10, 0]
+      Branch {
+	Points			[0, 20; 120, 0]
+	Branch {
+	  Labels		  [3, 0]
+	  Points		  [-120, 0; 0, -50; 320, 0]
+	  DstBlock		  "Mux"
+	  DstPort		  3
+	}
+	Branch {
+	  DstBlock		  "pH process"
+	  DstPort		  2
+	}
+      }
+      Branch {
+	DstBlock		"Mux2"
+	DstPort			1
+      }
+    }
+    Line {
+      SrcBlock		      "pH process"
+      SrcPort		      1
+      Points		      [0, -15; 30, 0]
+      Branch {
+	DstBlock		"Mux"
+	DstPort			2
+      }
+      Branch {
+	Points			[0, 0]
+	Branch {
+	  Points		  [0, -60; -420, 0; 0, -45]
+	  DstBlock		  "Mux3"
+	  DstPort		  2
+	}
+	Branch {
+	  DstBlock		  "Sum"
+	  DstPort		  1
+	}
+      }
+    }
+    Line {
+      SrcBlock		      "S-Function2"
+      SrcPort		      1
+      Points		      [5, 0]
+      DstBlock		      "error"
+      DstPort		      1
+    }
+    Line {
+      SrcBlock		      "Mux3"
+      SrcPort		      1
+      DstBlock		      "S-Function2"
+      DstPort		      1
+    }
+    Line {
+      SrcBlock		      "Sum"
+      SrcPort		      1
+      Points		      [0, 95; -480, 0]
+      DstBlock		      "Sum1"
+      DstPort		      2
+    }
+    Line {
+      SrcBlock		      "Unit Delay"
+      SrcPort		      1
+      Points		      [0, -15]
+      DstBlock		      "Mux3"
+      DstPort		      1
+    }
+    Line {
+      SrcBlock		      "S-Function"
+      SrcPort		      1
+      Points		      [75, 0]
+      Branch {
+	Points			[40, 0]
+	Branch {
+	  Points		  [75, 0]
+	  DstBlock		  "Mux"
+	  DstPort		  4
+	}
+	Branch {
+	  DstBlock		  "Sum"
+	  DstPort		  2
+	}
+      }
+      Branch {
+	Points			[0, 50; -410, 0; 0, -80; 55, 0]
+	Branch {
+	  Points		  [0, -25]
+	  DstBlock		  "Mux1"
+	  DstPort		  2
+	}
+	Branch {
+	  Points		  [0, 40]
+	  DstBlock		  "Mux2"
+	  DstPort		  2
+	}
+      }
+    }
+    Line {
+      SrcBlock		      "Sum1"
+      SrcPort		      1
+      DstBlock		      "Mux1"
+      DstPort		      1
+    }
+  }
+}

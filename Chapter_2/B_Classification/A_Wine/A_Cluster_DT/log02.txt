@@ -1,0 +1,6740 @@
+   92.6966   99.4382
+   87.6404   98.8764
+   94.3820   98.8764
+   87.6404   98.8764
+   73.0337   98.3146
+   70.7865   98.3146
+   79.7753   98.3146
+   92.6966   98.8764
+   88.2022   96.6292
+   91.0112   99.4382
+   81.4607   87.0787
+   69.6629   90.4494
+   89.3258   91.0112
+   78.0899   80.3371
+   94.3820   96.0674
+   76.4045   97.1910
+   75.2809   89.3258
+   96.6292   99.4382
+   91.5730   96.6292
+   82.5843   91.0112
+   89.3258   93.8202
+   84.8315   95.5056
+   74.7191   93.2584
+   71.9101   97.7528
+   78.0899   85.3933
+   76.9663   97.1910
+   64.0449   96.6292
+   71.9101   82.5843
+   90.4494   95.5056
+   69.6629   97.1910
+   59.5506   87.0787
+   88.7640   88.7640
+   72.4719   77.5281
+   75.2809   98.3146
+   83.7079   94.9438
+   71.3483   96.6292
+   74.7191   96.0674
+   69.6629   96.0674
+   74.1573   93.8202
+   79.2135   98.8764
+Gen:   3. 	 Fit: 99.438202 
+ 	 Agr 1: 	 0.5*((2*(X(:,12)))-(((1*(X(:,4)))-(5*(X(:,7))))-(1.25*(X(:,5))))) 
+ 	 Agr 2: 	 0.5*(((9*(X(:,1)))+(0*(X(:,5))))-(1*(X(:,10))))
+   92.6966   99.4382
+   91.0112   99.4382
+   96.6292   99.4382
+   87.6404   98.8764
+   94.3820   98.8764
+   87.6404   98.8764
+   92.6966   98.8764
+   83.7079   98.8764
+   88.2022   97.7528
+   58.4270   96.6292
+   65.7303   98.8764
+   76.4045   88.2022
+   82.0225   97.7528
+   79.2135   97.1910
+   89.8876   96.0674
+   81.4607   97.7528
+   92.6966   97.1910
+   79.7753   98.3146
+   91.5730  100.0000
+   88.2022   93.2584
+   73.5955   98.8764
+   78.0899   78.6517
+   88.2022   88.7640
+   86.5169   98.8764
+   94.9438   98.3146
+   89.8876  100.0000
+   74.7191   98.8764
+   65.1685   88.7640
+   80.3371   96.0674
+   78.6517   98.3146
+   89.3258   93.2584
+   84.8315   97.1910
+   79.7753   99.4382
+   59.5506   94.3820
+   88.2022   98.3146
+   88.7640   97.1910
+   83.1461   97.7528
+   75.2809   95.5056
+   75.8427   95.5056
+   79.7753   96.6292
+Gen:   4. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.53125*((1*(X(:,4)))-(((2*(X(:,4)))-(4*(X(:,7))))-(2*(X(:,5))))) 
+ 	 Agr 2: 	 0.46875*(((1*(X(:,1)))+(1.125*(X(:,5))))-(1*(X(:,7))))
+   91.5730  100.0000
+   89.8876  100.0000
+   92.6966   99.4382
+   91.0112   99.4382
+   96.6292   99.4382
+   79.7753   99.4382
+   87.6404   98.8764
+   78.6517   97.1910
+   81.4607   96.6292
+   71.9101   94.3820
+   74.7191   78.6517
+   87.0787   98.8764
+   83.1461   98.3146
+   84.2697   98.3146
+   91.0112   92.6966
+   73.0337   99.4382
+   62.9213   96.6292
+   77.5281   98.8764
+   80.8989   99.4382
+   72.4719   98.3146
+   88.2022   97.7528
+   88.7640   99.4382
+   88.7640   99.4382
+   84.8315   99.4382
+   72.4719   98.8764
+   70.7865   96.6292
+   69.6629   96.6292
+   86.5169   95.5056
+   94.3820   97.7528
+   89.8876   98.8764
+   86.5169   92.6966
+   67.9775   96.0674
+   81.4607   96.6292
+   84.8315   97.1910
+   84.2697   98.3146
+   82.5843   98.3146
+   79.2135   95.5056
+   84.2697   98.3146
+   79.2135   97.7528
+   80.8989   97.1910
+Gen:   5. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.53125*((1*(X(:,4)))-(((2*(X(:,4)))-(4*(X(:,7))))-(2*(X(:,5))))) 
+ 	 Agr 2: 	 0.46875*(((1*(X(:,1)))+(1.125*(X(:,5))))-(1*(X(:,7))))
+   91.5730   99.4382
+   89.8876  100.0000
+   92.6966   99.4382
+   91.0112   99.4382
+   96.6292   99.4382
+   79.7753   99.4382
+   73.0337   99.4382
+   80.8989   92.1348
+   79.2135   94.9438
+   92.6966   95.5056
+   83.7079   91.0112
+   92.1348   97.7528
+   69.6629   89.3258
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('C45', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m', 70)" style="font-weight:bold">C45</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m',70,0)">line 70</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('breeding_agrres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m', 12)" style="font-weight:bold">breeding_agrres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m',12,0)">line 12</a>)
+tree=C45(agrpoints,Type);
+In <a href="matlab:helpUtils.errorDocCallback('optfun', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m', 8)" style="font-weight:bold">optfun</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m',8,0)">line 8</a>)
+f = breeding_agrres(agr1,agr2,l_X,l_DistM);
+In <a href="matlab:helpUtils.errorDocCallback('funevaluate', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m', 75)" style="font-weight:bold">funevaluate</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m',75,0)">line 75</a>)
+        f(~InCache) = feval(FUN,reshapeinput(Xin,X(:,~InCache)),varargin{:});
+In <a href="matlab:helpUtils.errorDocCallback('psnextfeasible', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m', 79)" style="font-weight:bold">psnextfeasible</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m',79,0)">line 79</a>)
+            [sites(k).f,count] = funevaluate(ObjFunc,Xin,sites(k).x,Cache, ...
+In <a href="matlab:helpUtils.errorDocCallback('poll', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m', 163)" style="font-weight:bold">poll</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m',163,0)">line 163</a>)
+[msg,nextIterate,dirNum,optimState.FunEval] = ...
+In <a href="matlab:helpUtils.errorDocCallback('pfminlcon', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m', 63)" style="font-weight:bold">pfminlcon</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m',63,0)">line 63</a>)
+        [successPoll,nextIterate,optimState] = poll(FUN,X,Iterate,MeshSize,Aineq,bineq, ...
+In <a href="matlab:helpUtils.errorDocCallback('patternsearch', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m', 370)" style="font-weight:bold">patternsearch</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m',370,0)">line 370</a>)
+        [X,FVAL,EXITFLAG,OUTPUT] = pfminlcon(FUN,objFcnArg,initialX,numberOfVariables,Iterate, ...
+In <a href="matlab:helpUtils.errorDocCallback('agr_opres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m', 156)" style="font-weight:bold">agr_opres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m',156,0)">line 156</a>)
+			prm = patternsearch(@optfun,...
+In <a href="matlab:helpUtils.errorDocCallback('breeding_evaluate', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m', 76)" style="font-weight:bold">breeding_evaluate</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m',76,0)">line 76</a>)
+	[fitness, param1, param2, k1, k2] = agr_opres(fs1,fs2, X , DistM);
+In <a href="matlab:helpUtils.errorDocCallback('breeding_mainloop', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_mainloop.m', 107)" style="font-weight:bold">breeding_mainloop</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_mainloop.m',107,0)">line 107</a>)
+[popu ] = breeding_evaluate(popu,1:popun,X,DistM,[]);
+In <a href="matlab:helpUtils.errorDocCallback('dummy', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\dummy.m', 8)" style="font-weight:bold">dummy</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\dummy.m',8,0)">line 8</a>)
+	[popu, evnum] = breeding_mainloop(popu,X,DistM,opt);} 
+TypeI
+TypeI = 
+    [59x1 double]    [71x1 double]    [48x1 double]
+h = figure(1);
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+{Undefined function 'a1' for input arguments of type 'double'.} 
+a1 = eval(resAgr1);
+	a2 = eval(resAgr2);
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+{Undefined variable color.} 
+color = hsv(TypeN);
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+hold on
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+Breeding
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('C45', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m', 70)" style="font-weight:bold">C45</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m',70,0)">line 70</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('breeding_agrres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m', 12)" style="font-weight:bold">breeding_agrres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m',12,0)">line 12</a>)
+tree=C45(agrpoints,Type);
+In <a href="matlab:helpUtils.errorDocCallback('optfun', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m', 8)" style="font-weight:bold">optfun</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m',8,0)">line 8</a>)
+f = breeding_agrres(agr1,agr2,l_X,l_DistM);
+In <a href="matlab:helpUtils.errorDocCallback('funevaluate', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m', 75)" style="font-weight:bold">funevaluate</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m',75,0)">line 75</a>)
+        f(~InCache) = feval(FUN,reshapeinput(Xin,X(:,~InCache)),varargin{:});
+In <a href="matlab:helpUtils.errorDocCallback('psnextfeasible', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m', 79)" style="font-weight:bold">psnextfeasible</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m',79,0)">line 79</a>)
+            [sites(k).f,count] = funevaluate(ObjFunc,Xin,sites(k).x,Cache, ...
+In <a href="matlab:helpUtils.errorDocCallback('poll', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m', 163)" style="font-weight:bold">poll</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m',163,0)">line 163</a>)
+[msg,nextIterate,dirNum,optimState.FunEval] = ...
+In <a href="matlab:helpUtils.errorDocCallback('pfminlcon', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m', 63)" style="font-weight:bold">pfminlcon</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m',63,0)">line 63</a>)
+        [successPoll,nextIterate,optimState] = poll(FUN,X,Iterate,MeshSize,Aineq,bineq, ...
+In <a href="matlab:helpUtils.errorDocCallback('patternsearch', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m', 370)" style="font-weight:bold">patternsearch</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m',370,0)">line 370</a>)
+        [X,FVAL,EXITFLAG,OUTPUT] = pfminlcon(FUN,objFcnArg,initialX,numberOfVariables,Iterate, ...
+In <a href="matlab:helpUtils.errorDocCallback('agr_opres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m', 156)" style="font-weight:bold">agr_opres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m',156,0)">line 156</a>)
+			prm = patternsearch(@optfun,...
+In <a href="matlab:helpUtils.errorDocCallback('breeding_evaluate', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m', 76)" style="font-weight:bold">breeding_evaluate</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m',76,0)">line 76</a>)
+	[fitness, param1, param2, k1, k2] = agr_opres(fs1,fs2, X , DistM);
+In <a href="matlab:helpUtils.errorDocCallback('Breeding', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding.m', 109)" style="font-weight:bold">Breeding</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding.m',109,0)">line 109</a>)
+[popu] = breeding_evaluate(popu,1:popusize,X,DistM,[]); } 
+Breeding
+   69.1011   89.3258
+   83.1461   88.7640
+   69.1011   98.3146
+   69.6629   97.7528
+   82.5843   88.2022
+   77.5281   84.8315
+   61.7978   76.9663
+   79.2135   86.5169
+   79.2135   87.6404
+   87.6404   92.6966
+   82.0225   90.4494
+   91.5730   94.9438
+   93.2584   99.4382
+   85.9551   97.1910
+   87.6404   90.4494
+   68.5393   91.5730
+   92.1348   97.1910
+   72.4719   79.2135
+   78.6517   91.0112
+   67.9775   83.1461
+   89.3258   97.1910
+   92.1348   94.9438
+   83.7079   93.8202
+   87.0787   95.5056
+   88.7640   96.6292
+   62.9213   80.3371
+   84.8315   88.7640
+   69.6629   83.7079
+   89.8876   93.8202
+   67.9775   97.7528
+   88.2022   95.5056
+   84.2697   97.1910
+   88.7640   92.1348
+   71.9101   89.8876
+   80.3371   87.6404
+   85.3933   90.4494
+   85.9551   89.8876
+   83.1461   83.1461
+   70.2247   84.8315
+   84.2697   94.9438
+Gen:   1. 	 Fit: 99.438202 
+ 	 Agr 1: 	 0.5*((8.5*((X(:,9)).*(X(:,13))))+(((1*(X(:,11)))-(1*(X(:,4))))+((3*(X(:,2)))+(9*(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,12)))+(9*(X(:,7))))
+=====================================================================================
+   93.2584   99.4382
+   69.1011   98.3146
+   69.6629   97.7528
+   67.9775   97.7528
+   85.9551   97.1910
+   92.1348   97.1910
+   89.3258   97.1910
+   77.5281   85.3933
+   80.3371   87.0787
+   85.3933   93.2584
+   83.1461   94.9438
+   83.7079   95.5056
+   92.6966   97.1910
+   79.7753   89.3258
+   84.8315   91.5730
+   79.2135   91.5730
+   93.8202   98.8764
+   88.2022   96.0674
+   85.9551   94.9438
+   82.5843   93.8202
+   80.8989   93.8202
+   74.7191   91.5730
+   92.1348   95.5056
+   91.0112   98.3146
+   67.4157   85.3933
+   69.6629   89.8876
+   79.2135   97.1910
+   65.1685   89.3258
+   82.0225   97.1910
+   89.8876   96.0674
+   79.2135   80.8989
+   82.0225   85.3933
+   84.2697   92.6966
+   87.6404   97.7528
+   78.0899   78.6517
+   81.4607   96.0674
+   72.4719   88.7640
+   85.3933   86.5169
+   76.9663   92.6966
+   75.2809   93.8202
+Gen:   2. 	 Fit: 99.438202 
+ 	 Agr 1: 	 0.5*((8.5*((X(:,9)).*(X(:,13))))+(((1*(X(:,11)))-(1*(X(:,4))))+((3*(X(:,2)))+(9*(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,12)))+(9*(X(:,7))))
+   93.2584   99.4382
+   93.8202   98.8764
+   69.1011   98.3146
+   91.0112   98.3146
+   69.6629   97.7528
+   67.9775   97.7528
+   87.6404   97.7528
+   86.5169   97.1910
+   96.0674   96.6292
+   77.5281   85.3933
+   70.7865   94.9438
+   91.5730   94.9438
+   81.4607   97.7528
+   87.0787   96.6292
+   76.9663   97.1910
+   69.6629   93.2584
+   72.4719   95.5056
+   86.5169   88.2022
+   81.4607   94.3820
+   87.0787   93.8202
+   79.2135   95.5056
+   71.3483   94.9438
+   75.8427   91.0112
+   94.3820   96.6292
+   70.2247   92.1348
+   85.3933   89.8876
+   87.6404   98.3146
+   78.6517   91.0112
+   64.0449   92.1348
+   70.2247   92.1348
+   61.7978   82.5843
+   71.9101   88.7640
+   75.8427   79.2135
+   88.7640   98.3146
+   86.5169   96.0674
+   80.8989   95.5056
+   78.6517   96.0674
+   76.9663   94.9438
+   83.1461  100.0000
+   88.7640   97.1910
+Gen:   3. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   93.8202   98.8764
+   69.1011   98.8764
+   91.0112   98.3146
+   87.6404   98.3146
+   88.7640   98.3146
+   85.3933   97.1910
+   81.4607   95.5056
+   91.0112   98.8764
+   72.4719   97.7528
+   80.3371   94.9438
+   73.5955   97.1910
+   67.9775   96.0674
+   68.5393   88.7640
+   85.3933   94.9438
+   90.4494   93.2584
+   92.1348   98.3146
+   71.3483   83.1461
+   64.6067   97.7528
+   76.4045   94.9438
+   79.7753   94.9438
+   74.7191   94.3820
+   74.7191   93.2584
+   55.0562   89.3258
+   71.3483   91.5730
+   72.4719   76.9663
+   71.3483   73.0337
+   73.0337   96.0674
+   87.6404   99.4382
+   79.2135   94.3820
+   83.7079   97.1910
+   84.8315   97.1910
+   79.2135   97.1910
+   48.3146   83.1461
+   62.9213   96.0674
+   72.4719   98.3146
+   64.6067   92.6966
+   86.5169   97.1910
+   79.7753   91.0112
+Gen:   4. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   87.6404   99.4382
+   93.8202   98.8764
+   69.1011   98.3146
+   91.0112   98.8764
+   91.0112   98.3146
+   60.1124   87.0787
+   70.7865   94.9438
+   85.3933   93.2584
+   66.2921   97.7528
+   82.0225   95.5056
+   82.5843   98.8764
+   88.7640   98.3146
+   65.7303   94.9438
+   94.3820   98.3146
+   91.5730   94.9438
+   70.2247   77.5281
+   80.8989   81.4607
+   94.3820   98.8764
+   71.3483   90.4494
+   73.5955   97.7528
+   67.9775   96.0674
+   93.8202   97.1910
+   66.2921   94.3820
+   82.5843   93.2584
+   67.9775   96.6292
+   87.6404   96.0674
+   90.4494   96.0674
+   79.2135   80.3371
+   72.4719   90.4494
+   76.9663   93.8202
+   71.3483   86.5169
+   83.1461   98.8764
+   66.2921   84.2697
+   73.0337   83.7079
+   89.3258   99.4382
+   83.7079   86.5169
+   82.0225   92.6966
+   85.3933   86.5169
+Gen:   5. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   87.6404   99.4382
+   89.3258   99.4382
+   93.8202   98.8764
+   91.0112   98.8764
+   82.5843   98.8764
+   94.9438   97.7528
+   65.7303   85.3933
+   75.2809   96.6292
+   66.2921   84.8315
+   76.9663   96.6292
+   91.0112   96.6292
+   85.9551   91.0112
+   94.3820   97.1910
+   71.3483   96.6292
+   93.8202   97.1910
+   84.8315   93.8202
+   75.8427   92.6966
+   67.9775   91.5730
+   84.2697   92.1348
+   74.7191   95.5056
+   79.7753   94.3820
+   84.8315   94.9438
+   96.0674   98.8764
+   71.9101   88.7640
+   80.8989   97.7528
+   92.1348   96.6292
+   59.5506   92.1348
+   90.4494   93.2584
+   83.1461   94.3820
+   75.2809   96.0674
+   77.5281   94.3820
+   80.3371   97.7528
+   65.7303   96.6292
+   70.2247   93.8202
+   75.8427   97.7528
+   96.6292   97.7528
+   65.7303   94.9438
+   82.5843   93.8202
+Gen:   6. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   87.6404   98.8764
+   89.3258   99.4382
+   93.8202   98.8764
+   91.0112   98.8764
+   82.5843   98.8764
+   80.3371   96.6292
+   85.3933   94.9438
+   73.0337   82.0225
+   77.5281   84.2697
+   96.6292   98.3146
+   91.5730   92.1348
+   84.8315   88.2022
+   69.1011   95.5056
+   71.9101   95.5056
+   69.6629   93.2584
+   91.0112   94.9438
+   93.8202   96.0674
+   84.2697   99.4382
+   89.3258   96.0674
+   92.1348   92.1348
+   64.0449   94.3820
+   82.0225   89.3258
+   79.2135   97.1910
+   89.8876   97.7528
+   81.4607   94.3820
+   83.7079   96.0674
+   86.5169   94.9438
+   70.7865   95.5056
+   82.5843   96.0674
+   82.5843   97.7528
+   92.6966   93.8202
+   93.2584   96.6292
+   87.6404   96.6292
+   79.7753   92.6966
+   70.7865   93.8202
+   96.0674   98.8764
+   83.1461   93.2584
+   86.5169   93.8202
+Gen:   7. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   87.6404   98.8764
+   93.8202   98.8764
+   91.0112   98.8764
+   65.7303   96.6292
+   89.3258   93.2584
+   91.5730   92.6966
+   76.9663   97.7528
+   80.8989   92.6966
+   78.0899   80.8989
+   80.8989   95.5056
+   89.8876   98.8764
+   85.9551   94.9438
+   64.0449   82.0225
+   86.5169   95.5056
+   89.3258   96.6292
+   88.2022   91.0112
+   86.5169   95.5056
+   84.2697   96.6292
+   86.5169   96.6292
+   89.3258   90.4494
+   78.6517   89.3258
+   84.2697   88.7640
+   86.5169   95.5056
+   81.4607   98.3146
+   88.7640   93.2584
+   97.7528   98.8764
+   81.4607   98.8764
+   93.8202   94.9438
+   77.5281   87.6404
+   80.8989   97.7528
+   76.9663   91.5730
+   91.0112   98.3146
+   67.4157   98.3146
+   72.4719   93.2584
+   93.2584   97.7528
+   93.2584   96.6292
+Gen:   8. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   87.6404   99.4382
+   93.8202   98.8764
+   91.0112   98.8764
+   92.1348   98.3146
+   83.1461   93.2584
+   85.3933   93.2584
+   83.1461   92.6966
+   91.5730   97.7528
+   85.9551   98.3146
+   84.8315   97.1910
+   79.2135   98.3146
+   61.7978   91.0112
+   79.7753   91.5730
+   80.3371   97.7528
+   82.0225   94.9438
+   93.8202   97.1910
+   75.2809   85.9551
+   77.5281   95.5056
+   73.5955   86.5169
+   78.0899   91.5730
+   97.1910   97.7528
+   80.8989   99.4382
+   92.1348   97.1910
+   79.7753   85.3933
+   95.5056   99.4382
+   83.7079   95.5056
+   91.0112   94.3820
+   77.5281   98.8764
+   74.7191   98.3146
+   76.9663   93.2584
+   88.7640   96.0674
+   75.2809   85.9551
+   93.8202   98.3146
+   92.1348   94.3820
+   90.4494   97.7528
+   91.0112   98.8764
+Gen:   9. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   87.6404   98.8764
+   80.8989   99.4382
+   95.5056   99.4382
+   92.1348   98.3146
+   86.5169   98.3146
+   68.5393   93.2584
+   95.5056   98.3146
+   82.0225   98.8764
+   95.5056   98.8764
+   85.3933   97.1910
+   89.8876   97.7528
+   85.9551   97.7528
+   94.9438   94.9438
+   90.4494   97.7528
+   82.0225   94.3820
+   70.2247   97.1910
+   87.6404   97.1910
+   82.0225   94.9438
+   88.7640   95.5056
+   78.0899   98.3146
+   85.9551   98.3146
+   91.0112   99.4382
+   71.9101   89.8876
+   92.1348   95.5056
+   92.1348   98.3146
+   93.2584   97.7528
+   89.8876   98.3146
+   85.3933   97.7528
+   77.5281   99.4382
+   78.6517   97.7528
+   95.5056   96.0674
+   91.5730   95.5056
+   64.6067   93.8202
+   89.8876   96.0674
+   87.0787   93.8202
+   85.3933   99.4382
+Gen:  10. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   99.4382
+   95.5056   99.4382
+   91.0112   99.4382
+   84.8315   96.0674
+   88.7640   97.7528
+   87.0787   97.7528
+   91.0112   96.6292
+   91.0112   96.0674
+   85.3933   93.8202
+   93.8202   93.8202
+   88.2022   98.8764
+   89.8876   99.4382
+   84.8315   94.9438
+   85.3933   91.5730
+   73.5955   97.7528
+   88.7640   98.3146
+   75.8427   83.7079
+   84.8315   91.5730
+   92.1348   97.7528
+   79.2135   91.5730
+   80.8989   87.0787
+   80.3371   93.8202
+   88.2022   94.9438
+   72.4719   97.1910
+   79.2135   91.0112
+   83.1461   97.7528
+   94.3820   97.1910
+   82.0225   82.0225
+   80.8989   95.5056
+   87.0787   94.9438
+   95.5056   95.5056
+   74.7191   88.2022
+   91.5730   96.0674
+   94.3820   94.3820
+   92.1348   96.0674
+   82.0225   96.0674
+Gen:  11. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   99.4382
+   95.5056   99.4382
+   91.0112   99.4382
+   74.7191   84.2697
+   73.0337   98.8764
+   85.3933   97.1910
+   76.4045   94.3820
+   69.6629   96.0674
+   97.1910   98.3146
+   82.0225   98.8764
+   80.8989   94.9438
+   76.4045   93.2584
+   82.0225   92.6966
+   91.5730   96.6292
+   73.5955   91.0112
+   88.7640   92.6966
+   82.5843   93.8202
+   69.1011   96.6292
+   89.3258   97.1910
+   66.2921   89.8876
+   74.1573   98.3146
+   97.1910   97.7528
+   91.5730  100.0000
+   84.2697   89.8876
+   92.1348   94.3820
+   87.0787   93.8202
+   62.3596   97.7528
+   73.5955   93.8202
+   79.7753   93.2584
+   82.5843   92.1348
+   91.5730   98.8764
+   91.5730   97.7528
+   71.9101   89.8876
+   82.5843   94.9438
+   76.4045   97.1910
+   91.0112   97.1910
+Gen:  12. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   99.4382
+   95.5056   99.4382
+   65.1685   89.3258
+   87.0787   98.3146
+   82.5843   98.3146
+   85.9551   96.0674
+   78.6517   98.3146
+   86.5169   96.0674
+   82.5843   97.7528
+   76.4045   89.8876
+   69.6629   93.2584
+   89.3258   93.2584
+   69.1011   97.1910
+   85.9551   89.8876
+   78.0899   85.3933
+   95.5056   98.8764
+   93.8202   98.3146
+   84.2697   93.8202
+   86.5169   98.8764
+   84.8315   92.1348
+   75.8427   86.5169
+   67.4157   95.5056
+   76.4045   92.6966
+   71.3483   98.8764
+   74.1573   90.4494
+   83.7079   97.7528
+   67.9775   95.5056
+   90.4494   98.3146
+   91.5730   98.8764
+   85.3933   92.1348
+   78.0899   97.7528
+   90.4494   92.1348
+   69.6629   91.0112
+   97.1910   97.7528
+   84.2697   97.7528
+Gen:  13. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   99.4382
+   95.5056   99.4382
+   80.8989   93.8202
+   91.5730   97.7528
+   70.7865   96.6292
+   91.0112   97.7528
+   77.5281   98.8764
+   94.3820   99.4382
+   92.1348   97.1910
+   88.7640   96.0674
+   76.9663   89.3258
+   83.7079   98.3146
+   98.3146   99.4382
+   74.1573   87.6404
+   76.9663   96.6292
+   74.1573   86.5169
+   42.6966   94.9438
+   92.1348   94.3820
+   81.4607   97.1910
+   80.3371   96.6292
+   71.3483   86.5169
+   88.7640   96.0674
+   72.4719   97.7528
+   81.4607   94.3820
+   92.1348   97.1910
+   81.4607   98.3146
+   87.6404   94.3820
+   75.8427   96.6292
+   79.2135   93.8202
+   90.4494   98.8764
+   84.2697   94.9438
+   80.8989   85.9551
+   89.8876   99.4382
+   70.2247   93.2584
+   84.2697   94.9438
+Gen:  14. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   99.4382
+   95.5056   99.4382
+   74.7191   96.0674
+   87.0787   97.1910
+   70.7865   92.6966
+   94.3820   96.0674
+   82.0225   93.8202
+   75.8427   89.3258
+   71.3483   94.9438
+   95.5056   95.5056
+   71.9101   97.1910
+   92.1348   96.6292
+   76.4045   93.8202
+   79.2135   96.6292
+   84.2697   91.5730
+   91.0112   96.6292
+   83.7079   92.6966
+   80.3371   97.7528
+   85.9551   95.5056
+   75.8427   88.2022
+   76.9663   91.0112
+   89.8876   96.6292
+   83.1461   92.6966
+   93.8202   97.1910
+   96.6292   98.8764
+   86.5169   92.6966
+   80.3371   93.2584
+   74.1573   91.0112
+   94.3820   98.8764
+   85.3933   96.6292
+   93.2584   98.8764
+   83.7079   97.7528
+   87.6404   98.3146
+   84.2697   93.2584
+   84.2697   98.3146
+Gen:  15. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   99.4382
+   95.5056   99.4382
+   92.1348   98.3146
+   87.6404   92.6966
+   75.2809   87.0787
+   92.1348  100.0000
+   67.4157   93.2584
+   81.4607   97.1910
+   93.8202   94.9438
+   75.8427   87.0787
+   82.0225   97.7528
+   71.9101  100.0000
+   75.2809   93.2584
+   70.2247   94.9438
+   78.6517   92.6966
+   87.0787   94.9438
+   70.7865   97.1910
+   83.7079   98.8764
+   96.6292   97.7528
+   86.5169   90.4494
+   84.8315   97.7528
+   91.5730   93.8202
+   66.2921   87.6404
+   80.8989   90.4494
+   80.3371   96.6292
+   64.0449   96.0674
+   85.9551   97.7528
+   94.3820   96.6292
+   75.8427   97.1910
+   96.6292   97.1910
+   82.5843   91.5730
+   88.7640   95.5056
+   78.6517   97.7528
+   80.3371   96.0674
+   80.3371   92.6966
+Gen:  16. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   89.8876   99.4382
+   82.0225   96.0674
+   69.1011   95.5056
+   87.0787   96.0674
+   81.4607   90.4494
+   69.1011   99.4382
+   62.9213   81.4607
+   92.1348   98.8764
+   75.8427   98.3146
+   89.3258   96.0674
+   79.7753   97.1910
+   87.6404   94.9438
+   78.6517   97.7528
+   83.1461   91.5730
+   83.1461   96.0674
+   89.3258   90.4494
+   89.8876   99.4382
+   93.2584   98.8764
+   89.3258   89.8876
+   76.9663   92.6966
+   91.0112   96.0674
+   82.0225   91.5730
+   67.4157   97.1910
+   93.8202   93.8202
+   94.3820   98.8764
+   88.7640   98.8764
+   87.0787   98.3146
+   91.0112   97.7528
+   56.7416   89.3258
+   78.0899   89.3258
+   93.8202   99.4382
+   85.3933   95.5056
+   72.4719   88.7640
+Gen:  17. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   80.8989   96.0674
+   82.0225   99.4382
+   93.2584   94.3820
+   93.2584   98.8764
+   84.8315   97.7528
+   80.8989   95.5056
+   86.5169   99.4382
+   73.0337   98.3146
+   89.3258   95.5056
+   69.6629   96.6292
+   88.7640   97.7528
+   71.3483   94.9438
+   67.4157   89.8876
+   82.5843   94.9438
+   76.9663   94.9438
+   71.9101   97.7528
+   79.7753   87.0787
+   65.1685   95.5056
+   87.0787   98.3146
+   84.2697   96.0674
+   79.7753   97.7528
+   69.1011   97.7528
+   85.9551   96.6292
+   73.0337   93.8202
+   75.2809   85.3933
+   80.8989   96.0674
+   71.3483   71.3483
+   58.9888   92.6966
+   91.5730   98.3146
+   91.5730   97.7528
+   68.5393   89.3258
+   77.5281   94.3820
+   78.0899   96.6292
+Gen:  18. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   83.1461   98.3146
+   85.9551   94.9438
+   70.7865   97.7528
+   77.5281   94.9438
+   92.6966   94.3820
+   78.0899   99.4382
+   83.7079   98.3146
+   78.0899   98.3146
+   98.8764   98.8764
+   85.3933   95.5056
+   87.0787   96.0674
+   71.3483   92.6966
+   78.0899   98.8764
+   79.2135   98.8764
+   89.3258   91.5730
+   79.2135   84.8315
+   69.6629   94.9438
+   81.4607   97.1910
+   93.2584   97.1910
+   69.1011   97.7528
+   71.9101   99.4382
+   93.2584   98.3146
+   76.4045   96.0674
+   78.6517   92.1348
+   80.3371   96.0674
+   85.9551   94.9438
+   92.1348   98.8764
+   67.9775   95.5056
+   75.8427   87.0787
+   82.5843   97.1910
+   79.7753   96.0674
+   89.8876   98.3146
+   67.9775   96.6292
+Gen:  19. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   93.2584   99.4382
+   89.3258   99.4382
+   84.2697   99.4382
+   82.0225   94.9438
+   88.2022   99.4382
+   89.3258   97.1910
+   95.5056   97.7528
+   86.5169   97.7528
+   76.9663   97.7528
+   79.2135   98.3146
+   89.8876   95.5056
+   82.5843   92.1348
+   90.4494   98.3146
+   83.7079   85.3933
+   79.7753   89.3258
+   78.0899   98.3146
+   84.8315  100.0000
+   80.8989   81.4607
+   87.0787  100.0000
+   76.4045   96.0674
+   75.2809   76.9663
+   78.0899   98.8764
+   71.9101   96.6292
+   94.3820   98.3146
+   78.6517   96.0674
+   79.7753  100.0000
+   87.6404   94.9438
+   75.2809   85.9551
+   82.5843   97.1910
+   79.2135   93.8202
+   90.4494   96.6292
+   78.6517   97.7528
+   83.7079   97.7528
+   81.4607   97.1910
+   82.5843   93.2584
+   93.2584   96.6292
+Gen:  20. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.0112   97.7528
+   82.0225   91.0112
+   67.9775   91.0112
+   75.2809   97.1910
+   67.4157   89.3258
+   88.7640   99.4382
+   84.8315   98.3146
+   96.6292   98.3146
+   69.6629   94.3820
+   77.5281   97.1910
+   89.8876   90.4494
+   95.5056   97.7528
+   86.5169   97.1910
+   74.7191   97.1910
+   70.2247   97.7528
+   79.2135   88.7640
+   78.6517   97.7528
+   89.3258   93.8202
+   92.6966   96.6292
+   96.6292   98.8764
+   70.2247   96.6292
+   91.5730   98.8764
+   78.6517   95.5056
+   88.2022   97.1910
+   80.8989   99.4382
+   80.3371   94.9438
+   87.6404   93.8202
+   85.3933   98.3146
+   69.6629   96.0674
+   75.8427   97.1910
+   86.5169   96.6292
+   66.2921   96.0674
+   85.9551   92.6966
+Gen:  21. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   84.2697   97.7528
+   82.5843   92.1348
+   79.2135   97.1910
+   66.8539   97.7528
+   82.5843   96.6292
+   82.0225   95.5056
+   87.6404   99.4382
+   88.2022   97.7528
+   70.7865   96.0674
+   87.0787   96.6292
+   81.4607   98.8764
+   69.1011   97.7528
+   94.3820   94.9438
+   78.0899   80.3371
+   85.9551  100.0000
+   72.4719   98.8764
+   79.7753   91.5730
+   74.7191   82.0225
+   70.7865   97.7528
+   72.4719   94.3820
+   91.5730   99.4382
+   77.5281   97.7528
+   78.0899   88.2022
+   86.5169   97.1910
+   85.9551   97.7528
+   60.1124   89.8876
+   80.3371   97.7528
+   93.8202   96.6292
+   97.1910   98.3146
+   96.0674   96.0674
+   95.5056   97.7528
+   79.2135   97.1910
+   70.2247   94.9438
+Gen:  22. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   89.8876   98.8764
+   86.5169   98.8764
+   83.1461   97.7528
+   91.0112   97.7528
+   81.4607   98.3146
+   92.6966   98.3146
+   82.0225   93.2584
+   79.2135   99.4382
+   67.4157   96.0674
+   76.4045   97.7528
+   67.4157   98.8764
+   75.8427   97.7528
+   84.2697   95.5056
+   92.1348   98.3146
+   82.5843   85.3933
+   82.5843   86.5169
+   82.0225   98.3146
+   79.2135   87.0787
+   92.6966   97.7528
+   79.7753   98.3146
+   94.9438   96.6292
+   69.6629   92.6966
+   74.7191   89.3258
+   89.8876   99.4382
+   80.3371   98.3146
+   83.7079   84.2697
+   89.3258   89.3258
+   85.3933   97.7528
+   96.0674  100.0000
+   83.1461   97.1910
+   85.9551   87.0787
+   66.8539   96.0674
+   72.4719   92.6966
+Gen:  23. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   80.3371   84.2697
+   85.3933   97.1910
+   79.7753   98.8764
+   87.6404   97.7528
+   74.7191   94.3820
+   88.2022   96.6292
+   84.8315   97.1910
+   73.5955   95.5056
+   82.5843   95.5056
+   72.4719   99.4382
+   94.9438   96.6292
+   60.1124   96.0674
+   81.4607   95.5056
+   97.1910   99.4382
+   91.0112   92.1348
+   87.0787   97.7528
+   93.8202   96.6292
+   83.7079   98.8764
+   79.7753   86.5169
+   75.2809   93.2584
+   85.9551   97.7528
+   51.1236   97.7528
+   74.1573   90.4494
+   86.5169   87.6404
+   82.0225   83.1461
+   90.4494   98.8764
+   83.1461   96.6292
+   92.6966   96.6292
+   89.3258   98.3146
+   88.7640   98.3146
+   87.0787   97.7528
+   51.1236   93.8202
+   75.2809   96.6292
+Gen:  24. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.0112   99.4382
+   90.4494   97.7528
+   76.4045   87.0787
+   78.0899   97.7528
+   92.6966   97.1910
+   78.6517   98.3146
+   73.0337   97.7528
+   71.9101   96.6292
+   84.2697   98.3146
+   88.7640   99.4382
+   68.5393   97.1910
+   64.0449   94.9438
+   94.9438   98.8764
+   90.4494   96.6292
+   85.3933   96.6292
+   78.6517   94.9438
+   89.8876   97.7528
+   80.3371   94.3820
+   92.6966   95.5056
+   78.6517  100.0000
+   96.0674   98.8764
+   66.8539   87.0787
+   80.3371   98.3146
+   89.3258   99.4382
+   96.0674   98.8764
+   61.7978   93.2584
+   82.0225   95.5056
+   91.0112   98.8764
+   80.3371   94.3820
+   79.2135   94.3820
+   85.9551   98.3146
+   85.3933   92.6966
+   84.2697   97.7528
+Gen:  25. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.5730   99.4382
+   69.6629   89.3258
+   73.0337   97.1910
+   87.6404   98.3146
+   75.2809   94.3820
+   94.3820   94.9438
+   85.9551  100.0000
+   75.8427   75.8427
+   69.1011   84.8315
+   93.8202   98.3146
+   91.0112   98.8764
+   80.3371   94.3820
+   79.2135   95.5056
+   90.4494   94.3820
+   76.4045   92.1348
+   92.1348   99.4382
+   87.6404   96.6292
+   87.6404   97.1910
+   81.4607   98.8764
+   89.3258   97.7528
+   72.4719   94.9438
+   67.9775   95.5056
+   91.5730   96.6292
+   70.2247   97.7528
+   84.2697   93.8202
+   83.7079   98.3146
+   77.5281   91.0112
+   75.2809   96.0674
+   82.5843   94.9438
+   76.4045   84.2697
+   88.2022   88.7640
+   81.4607   97.7528
+   83.1461   97.7528
+Gen:  26. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   96.0674   98.3146
+   86.5169   92.1348
+   84.8315   98.3146
+   96.6292   99.4382
+   96.0674   98.8764
+   88.2022   96.0674
+   84.2697   98.3146
+   79.7753   88.7640
+   89.8876   96.6292
+   89.8876   98.8764
+   88.2022   88.7640
+   68.5393   95.5056
+   70.7865   95.5056
+   58.9888   98.3146
+   71.3483   96.6292
+   78.0899   98.3146
+   76.9663   98.8764
+   71.3483   96.0674
+   86.5169   97.7528
+   93.8202   98.8764
+   67.9775   93.8202
+   91.0112   95.5056
+   90.4494   94.9438
+   82.0225   96.6292
+   94.3820   97.1910
+   83.1461   95.5056
+   61.7978   88.2022
+   92.6966   95.5056
+   92.1348   94.9438
+   85.3933   96.6292
+   85.9551   88.2022
+   79.7753   96.6292
+   96.0674   99.4382
+Gen:  27. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   96.6292  100.0000
+   83.1461   94.9438
+   81.4607   98.3146
+   80.8989   96.6292
+   68.5393   96.6292
+   81.4607   94.9438
+   75.2809   96.0674
+   89.8876   97.7528
+   84.8315   94.3820
+   82.0225   96.0674
+   96.0674   98.3146
+   92.1348   92.1348
+   91.0112   95.5056
+   76.4045   96.6292
+   78.6517   96.6292
+   96.0674   97.7528
+   80.3371   98.3146
+   94.3820   94.9438
+   87.6404   94.9438
+   69.6629   99.4382
+   76.4045   89.3258
+   83.7079   94.9438
+   79.7753   92.6966
+   73.0337   96.6292
+   85.9551   95.5056
+   76.9663   92.1348
+   93.2584   98.3146
+   87.6404   96.0674
+   84.2697   91.0112
+   88.2022   97.7528
+   87.6404   96.0674
+   81.4607   95.5056
+   89.8876   95.5056
+Gen:  28. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   83.1461   95.5056
+   73.0337   94.9438
+   86.5169   98.8764
+   73.0337   91.5730
+   78.6517   96.0674
+   92.1348   98.8764
+   89.3258   92.1348
+   52.8090   90.4494
+   92.6966   96.6292
+   84.8315   98.8764
+   70.7865   95.5056
+   81.4607   99.4382
+   82.0225   89.8876
+   93.2584   99.4382
+   89.8876   97.7528
+   75.8427   86.5169
+   83.1461   97.1910
+   76.4045   99.4382
+   75.8427   91.0112
+   85.9551   99.4382
+   84.8315   98.3146
+   84.2697   97.1910
+   87.0787   97.7528
+   76.4045   92.6966
+   91.0112   95.5056
+   58.9888   83.7079
+   75.8427   86.5169
+   89.8876   99.4382
+   80.3371   97.1910
+   91.5730   93.2584
+   86.5169   97.1910
+   82.0225   87.0787
+   89.3258   97.7528
+Gen:  29. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   74.1573   92.1348
+   92.1348   97.7528
+   58.4270   98.8764
+   67.9775   96.6292
+   60.6742   97.1910
+   85.9551   93.2584
+   85.3933   98.3146
+   90.4494   95.5056
+   84.8315   97.7528
+   63.4831   96.6292
+   67.4157   89.8876
+   88.2022   98.3146
+   57.3034   92.1348
+   89.3258   98.8764
+   92.1348   97.7528
+   61.7978   98.3146
+   88.7640   97.1910
+   92.1348   98.8764
+   67.9775   89.8876
+   78.0899  100.0000
+   87.0787   97.7528
+   82.0225   96.0674
+   95.5056   96.6292
+   87.6404   97.7528
+   91.0112   98.3146
+   84.8315   92.6966
+   87.6404   93.8202
+   84.8315   97.1910
+   87.0787   97.7528
+   88.7640   98.8764
+   85.9551  100.0000
+   85.9551   94.3820
+   87.6404   94.9438
+Gen:  30. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   62.3596   95.5056
+   82.0225   98.3146
+   94.9438   97.1910
+   84.8315   96.6292
+   78.6517   96.0674
+   82.5843   92.6966
+   74.7191   98.3146
+   83.1461   96.6292
+   92.1348   99.4382
+   64.0449   96.6292
+   62.9213   98.3146
+   70.2247   96.0674
+   93.2584   99.4382
+   82.0225   90.4494
+   93.8202   96.0674
+   83.1461   97.7528
+   83.1461   98.3146
+   74.7191   94.9438
+   74.7191   97.7528
+   89.3258   96.0674
+   86.5169   91.5730
+   80.8989   94.3820
+   82.5843   97.7528
+   82.0225   91.5730
+   76.9663   96.0674
+   81.4607   85.9551
+   94.9438   97.1910
+   52.2472   57.8652
+   92.1348   97.7528
+   94.9438   98.3146
+   83.1461   99.4382
+   83.7079   98.3146
+   76.9663   97.1910
+Gen:  31. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   73.5955   92.6966
+   87.6404   98.8764
+   82.0225   96.6292
+   84.2697   94.9438
+   76.9663   95.5056
+   89.8876   97.1910
+   74.1573   95.5056
+   93.2584   95.5056
+   83.7079   98.3146
+   67.4157   95.5056
+   61.7978   96.6292
+   78.0899   98.8764
+   71.9101   93.8202
+   75.2809   99.4382
+   85.3933   93.2584
+   65.1685   97.1910
+   76.4045   96.0674
+   84.2697   99.4382
+   75.8427   97.1910
+   88.7640   89.3258
+   86.5169   98.3146
+   89.3258   97.7528
+   65.1685   86.5169
+   73.0337   96.6292
+   74.7191   92.6966
+   86.5169   97.7528
+   97.7528   98.3146
+   75.8427   92.6966
+   93.2584   97.1910
+   91.0112   98.8764
+   91.5730   92.1348
+   81.4607   97.1910
+   66.8539   91.0112
+Gen:  32. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   69.1011   98.3146
+   84.2697   96.6292
+   88.7640   98.3146
+   71.3483  100.0000
+   82.0225   85.3933
+   78.6517   94.9438
+   71.3483   95.5056
+   81.4607   98.3146
+   85.3933   98.8764
+   80.8989   99.4382
+   92.6966   97.1910
+   90.4494   97.7528
+   77.5281   91.0112
+   79.2135   98.8764
+   64.6067   95.5056
+   75.2809   96.6292
+   94.3820   96.0674
+   65.7303   96.0674
+   80.3371   98.3146
+   80.8989   93.8202
+   83.1461   83.7079
+   71.3483   84.8315
+   72.4719   77.5281
+   95.5056   97.7528
+   85.3933   99.4382
+   69.1011   84.8315
+   91.0112   97.1910
+   78.0899   96.6292
+   84.8315  100.0000
+   88.7640   98.3146
+   57.3034   97.7528
+   81.4607   97.1910
+   89.8876   97.1910
+Gen:  33. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   78.6517   98.8764
+   70.7865   93.8202
+   89.3258   97.1910
+   84.2697   95.5056
+   73.5955   96.6292
+   96.6292   98.8764
+   89.3258   97.1910
+   89.8876   98.3146
+   82.5843   98.8764
+   90.4494   96.6292
+   97.1910   99.4382
+   61.7978   96.0674
+   94.9438   94.9438
+   88.7640   98.3146
+   81.4607   89.8876
+   85.3933   96.6292
+   76.4045   97.1910
+   67.9775   99.4382
+   75.8427   99.4382
+   80.3371   96.6292
+   73.5955   96.0674
+   70.7865   99.4382
+   74.7191  100.0000
+   88.7640   97.7528
+   78.6517   98.3146
+   82.5843   98.3146
+   88.7640   93.2584
+   79.2135   95.5056
+   86.5169   98.3146
+   83.7079   97.1910
+   88.7640   98.3146
+   65.1685   87.6404
+   76.4045   98.3146
+Gen:  34. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   71.9101   93.2584
+   65.7303   89.8876
+   84.8315   97.7528
+   86.5169   96.0674
+   88.2022   98.3146
+   82.0225   98.3146
+   87.6404   93.2584
+   68.5393   95.5056
+   84.2697   99.4382
+   71.9101   98.8764
+   91.0112   93.2584
+   87.6404   98.8764
+   89.3258   95.5056
+   74.7191   98.3146
+   79.7753   95.5056
+   93.2584   97.7528
+   65.7303   97.7528
+   59.5506   97.1910
+   83.7079   97.1910
+   81.4607   94.3820
+   89.8876   98.8764
+   79.2135   97.7528
+   78.0899   97.1910
+   80.8989   92.1348
+   80.3371   93.8202
+   80.8989   97.1910
+   85.3933   97.7528
+   83.7079   96.0674
+   87.0787  100.0000
+   89.8876   98.3146
+   87.0787   93.8202
+   83.1461   98.3146
+   96.6292  100.0000
+Gen:  35. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   80.3371   94.9438
+   58.4270   97.1910
+   85.9551   95.5056
+   70.7865   97.1910
+   85.3933   98.3146
+   77.5281   97.7528
+   83.1461   97.7528
+   90.4494   98.8764
+   91.5730   98.3146
+   86.5169   89.3258
+   84.2697   96.0674
+   95.5056   97.7528
+   91.5730   98.3146
+   76.9663   96.0674
+   82.5843   89.8876
+   86.5169   97.1910
+   85.3933   96.6292
+   68.5393   98.3146
+   84.2697   96.0674
+   77.5281   94.9438
+   68.5393   98.8764
+   75.2809   98.3146
+   88.2022   99.4382
+   87.6404   93.2584
+   71.3483   96.6292
+   82.5843   98.3146
+   74.7191   84.8315
+   78.0899   94.9438
+   69.6629   90.4494
+   83.1461   98.3146
+   75.2809   89.3258
+   91.5730   98.3146
+   88.7640   98.3146
+Gen:  36. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   90.4494   97.1910
+   85.9551   98.8764
+   75.2809   95.5056
+   78.0899   92.6966
+   84.2697   94.3820
+   78.0899   91.5730
+   82.0225   95.5056
+   91.5730   98.8764
+   75.8427   94.3820
+   92.1348   96.6292
+   96.0674   99.4382
+   81.4607   96.0674
+   69.1011   94.3820
+   86.5169   98.3146
+   85.9551   97.1910
+   83.1461   97.7528
+   82.5843   92.6966
+   71.3483   97.7528
+   86.5169   97.1910
+   75.2809   90.4494
+   84.2697   91.5730
+   71.3483   94.3820
+   86.5169   95.5056
+   78.6517   86.5169
+   75.2809   96.0674
+   91.0112   97.7528
+   74.1573   87.6404
+   87.0787   96.0674
+   93.8202   97.7528
+   85.9551   97.7528
+   65.7303   97.1910
+   79.2135   80.8989
+   71.9101   98.8764
+Gen:  37. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.9551   97.7528
+   89.3258   98.8764
+   87.6404   97.7528
+   85.3933   98.3146
+   90.4494   92.6966
+   88.7640   99.4382
+   68.5393   90.4494
+   66.2921   84.2697
+   91.5730   98.3146
+   91.0112   97.7528
+   88.7640   99.4382
+   84.2697   93.8202
+   82.0225   95.5056
+   93.8202   97.7528
+   88.7640   97.7528
+   84.8315   96.6292
+   87.6404   96.6292
+   74.7191   98.8764
+   83.7079  100.0000
+   88.7640   93.8202
+   82.5843   92.6966
+   85.3933   97.1910
+   87.6404   96.0674
+   90.4494   98.3146
+   65.1685   95.5056
+   79.2135   92.6966
+   82.0225   95.5056
+   80.3371   96.0674
+   71.9101   94.3820
+   82.5843   94.9438
+   83.7079   93.8202
+   76.9663   97.1910
+   74.7191   98.3146
+Gen:  38. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   75.8427   80.8989
+   83.1461   97.7528
+   86.5169   97.1910
+   91.5730   98.8764
+   71.9101   89.8876
+   81.4607   87.0787
+   83.1461   96.6292
+   74.1573   97.1910
+   85.3933   95.5056
+   80.8989   98.3146
+   84.8315   94.3820
+   93.2584   96.0674
+   88.2022   95.5056
+   87.6404   97.7528
+   91.5730   97.1910
+   66.2921   84.8315
+   92.1348   98.8764
+   82.5843   94.9438
+   71.3483   93.2584
+   81.4607   93.8202
+   85.3933   95.5056
+   79.7753   96.0674
+   87.0787   96.0674
+   62.9213   90.4494
+   89.3258   97.7528
+   77.5281   83.7079
+   89.3258   94.3820
+   78.6517   91.0112
+   92.1348   98.8764
+   80.8989   94.3820
+   89.3258   94.3820
+   85.9551   92.6966
+   79.2135   98.3146
+Gen:  39. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   72.4719   97.7528
+   66.8539   89.3258
+   85.9551   98.3146
+   88.2022   96.6292
+   83.1461   95.5056
+   73.0337   97.1910
+   52.2472   89.3258
+   65.7303   92.6966
+   86.5169   95.5056
+   78.6517   96.6292
+   90.4494   97.7528
+   89.3258   98.3146
+   96.0674   98.8764
+   80.8989   98.8764
+   87.0787   94.9438
+   97.1910   98.3146
+   93.2584   98.8764
+   91.5730   94.3820
+   60.1124   83.1461
+   84.8315   93.2584
+   89.3258   96.0674
+   80.8989   97.7528
+   92.1348   98.3146
+   72.4719   94.9438
+   69.1011   96.6292
+   96.0674  100.0000
+   82.0225   96.0674
+   91.0112   98.3146
+   80.3371   97.1910
+   83.1461   99.4382
+   84.8315   89.8876
+   85.3933   91.5730
+   75.2809   96.0674
+Gen:  40. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   83.1461   99.4382
+   78.6517   97.7528
+   80.8989   95.5056
+   76.4045   92.1348
+   69.6629   96.0674
+   85.9551   97.1910
+   90.4494   97.7528
+   96.0674  100.0000
+   82.5843   97.7528
+   76.9663   92.1348
+   92.6966   98.3146
+   85.3933   98.3146
+   86.5169   94.9438
+   85.3933   87.0787
+   67.4157   84.8315
+   76.9663   98.8764
+   76.9663   89.3258
+   82.5843   97.7528
+   76.9663   87.0787
+   92.1348   98.3146
+   69.1011   87.6404
+   89.8876   98.8764
+   82.5843   97.1910
+   67.4157   97.1910
+   73.0337   97.1910
+   76.9663   97.7528
+   81.4607   98.8764
+   82.5843   97.7528
+   78.6517   94.3820
+   84.8315   86.5169
+   83.7079   95.5056
+   77.5281   94.9438
+   79.2135   97.7528
+Gen:  41. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   86.5169   91.0112
+   79.2135   97.1910
+   91.5730   99.4382
+   88.7640   96.6292
+   92.1348   93.8202
+   88.2022   96.6292
+   96.6292   98.8764
+   89.8876   94.3820
+   87.0787   96.6292
+   89.3258   97.7528
+   88.2022   94.3820
+   89.8876   97.7528
+   92.1348   98.8764
+   74.1573   96.6292
+   83.1461   97.1910
+   73.0337   75.8427
+   91.0112   98.8764
+   86.5169   94.9438
+   85.9551   98.3146
+   88.2022   97.7528
+   78.0899   91.5730
+   82.5843   97.7528
+   89.3258   95.5056
+   87.6404   93.8202
+   80.3371   86.5169
+   75.8427   96.0674
+   86.5169   98.3146
+   90.4494   98.8764
+   84.8315   96.0674
+   78.6517   96.6292
+   84.8315   98.3146
+   79.7753   97.7528
+   80.8989  100.0000
+Gen:  42. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   70.2247   98.8764
+   79.2135   94.3820
+   93.8202   96.0674
+   94.9438   99.4382
+   75.2809   92.6966
+   76.4045   94.3820
+   79.2135   94.9438
+   80.3371   94.9438
+   74.1573   96.6292
+   91.5730   95.5056
+   79.2135   97.7528
+   64.0449   95.5056
+   93.8202   98.8764
+   87.6404   96.0674
+   91.0112   94.3820
+   68.5393   96.0674
+   75.8427   96.0674
+   93.8202   94.9438
+   85.9551   98.8764
+   88.7640   98.3146
+   85.3933   97.7528
+   67.9775   98.3146
+   91.0112   98.8764
+   90.4494   97.1910
+   87.6404   98.8764
+   83.1461   98.8764
+   92.6966   93.2584
+   92.6966   97.7528
+   77.5281   85.9551
+   93.8202   99.4382
+   81.4607   92.1348
+   98.3146  100.0000
+   95.5056   97.7528
+Gen:  43. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   76.9663   94.3820
+   93.8202   98.8764
+   71.9101  100.0000
+   58.9888   98.3146
+   86.5169   97.1910
+   96.6292   98.8764
+   82.0225   91.5730
+   94.3820   99.4382
+   67.4157   95.5056
+   75.8427   98.8764
+   94.3820   97.7528
+   88.7640   96.6292
+   88.7640   96.6292
+   86.5169   97.1910
+   82.0225   94.9438
+   75.8427   95.5056
+   79.2135   96.6292
+   87.0787   93.8202
+   87.6404   99.4382
+   83.7079   97.7528
+   94.9438   97.1910
+   64.6067   83.7079
+   90.4494   94.9438
+   87.6404   99.4382
+   70.2247   94.3820
+   78.6517   96.0674
+   92.6966   97.7528
+   89.8876   97.7528
+   92.1348   93.2584
+   76.4045   88.7640
+   96.6292   99.4382
+   92.1348   98.8764
+   76.4045   94.9438
+Gen:  44. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   87.0787   98.8764
+   80.3371   96.6292
+   86.5169   98.8764
+   88.2022   97.1910
+   74.7191   87.6404
+   74.1573   89.8876
+   80.3371   97.7528
+   83.7079   96.0674
+   82.5843   94.3820
+   91.5730   98.3146
+   86.5169   97.1910
+   88.7640   96.6292
+   75.2809   97.1910
+   93.2584   95.5056
+   75.2809   96.0674
+   82.0225   92.6966
+   92.1348   97.7528
+   87.0787   98.3146
+   80.3371   97.1910
+   97.1910   99.4382
+   79.2135   97.7528
+   90.4494   92.1348
+   78.6517   97.1910
+   94.3820   98.8764
+   89.3258   95.5056
+   68.5393   95.5056
+   91.0112   94.9438
+   89.3258   98.8764
+   87.6404   99.4382
+   93.2584   98.8764
+   83.1461   94.9438
+   88.2022   90.4494
+   95.5056   99.4382
+Gen:  45. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   64.6067   95.5056
+   87.6404   98.3146
+   79.2135   91.0112
+   87.0787  100.0000
+   82.0225   97.7528
+   81.4607   96.0674
+   74.7191   96.6292
+   83.1461   94.3820
+   74.7191   89.3258
+   70.2247   95.5056
+   87.0787   90.4494
+   64.6067   95.5056
+   64.0449   86.5169
+   79.2135   96.0674
+   96.0674   99.4382
+   87.6404   96.6292
+   89.8876   97.7528
+   83.7079   94.9438
+   92.1348   96.6292
+   87.6404   94.9438
+   94.3820   97.7528
+   73.0337   96.6292
+   85.9551   98.3146
+   75.8427   92.6966
+   64.6067   95.5056
+   74.1573   96.0674
+   79.7753   97.1910
+   88.7640   93.8202
+   84.8315   98.8764
+   91.0112   97.7528
+   85.3933   97.1910
+   86.5169   99.4382
+   93.8202   97.1910
+Gen:  46. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   97.1910
+   79.2135   97.7528
+   59.5506   96.0674
+   85.3933   98.3146
+   70.2247   95.5056
+   93.2584  100.0000
+   91.5730   97.7528
+   72.4719   82.5843
+   85.3933   94.9438
+   82.0225   88.2022
+   71.9101   97.7528
+   94.9438   96.0674
+   85.3933   97.7528
+   82.0225   97.7528
+   90.4494   95.5056
+   74.1573   89.8876
+   91.0112   98.8764
+   65.7303   96.6292
+   67.4157   94.3820
+   88.7640   92.1348
+   73.0337   98.8764
+   88.7640   93.8202
+   66.2921   88.7640
+   88.2022   99.4382
+   70.7865   99.4382
+   85.3933   87.0787
+   84.8315   94.3820
+   60.1124   89.3258
+   83.1461   91.0112
+   77.5281   98.3146
+   80.8989   97.1910
+   96.0674   99.4382
+   93.8202   97.1910
+Gen:  47. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   84.8315   96.6292
+   56.1798   96.6292
+   86.5169   96.6292
+   76.9663   98.3146
+   87.6404   95.5056
+   82.5843   97.1910
+   79.7753   98.8764
+   93.2584   96.6292
+   91.5730   96.6292
+   66.8539   74.7191
+   84.8315   93.8202
+   64.6067   97.1910
+   69.6629   98.3146
+   85.9551   96.0674
+   76.4045   97.1910
+   65.7303   70.2247
+   88.7640   89.3258
+   56.1798   98.8764
+   79.7753   91.5730
+   73.0337   91.0112
+   91.5730   93.2584
+   65.1685   92.1348
+   87.6404   97.7528
+   85.9551   96.6292
+   79.2135   87.6404
+   79.2135   94.3820
+   73.0337   92.1348
+   77.5281   98.8764
+   71.3483   92.6966
+   96.6292   97.1910
+   85.3933   96.6292
+   77.5281   89.8876
+   91.5730   98.8764
+Gen:  48. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   93.8202   98.3146
+   88.7640   95.5056
+   85.3933   94.3820
+   92.6966   99.4382
+   70.7865   92.1348
+   65.7303   66.8539
+   73.5955   87.6404
+   85.9551   98.8764
+   85.9551   93.2584
+   82.0225   96.0674
+   80.3371   97.7528
+   74.1573   89.3258
+   84.8315   97.7528
+   78.0899   97.1910
+   74.7191   98.3146
+   77.5281   99.4382
+   68.5393   97.1910
+   76.9663   97.7528
+   91.0112   97.1910
+   67.9775   95.5056
+   66.2921   66.2921
+   74.7191   97.7528
+   60.1124   86.5169
+   76.4045   94.3820
+   71.3483   94.3820
+   88.2022   96.0674
+   77.5281   97.1910
+   80.8989   98.8764
+   89.8876   96.0674
+   64.0449   92.1348
+   92.1348   97.1910
+   95.5056  100.0000
+   90.4494   97.7528
+Gen:  49. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   95.5056
+   80.3371   93.8202
+   81.4607   92.1348
+   69.6629   94.3820
+   87.0787   97.7528
+   96.6292   98.3146
+   83.7079   94.9438
+   89.8876   98.8764
+   83.7079   98.3146
+   91.5730   94.9438
+   79.7753   94.9438
+   93.2584   98.8764
+   91.0112   98.8764
+   85.9551   97.7528
+   72.4719   98.3146
+   80.8989   93.8202
+   81.4607  100.0000
+   88.7640   91.5730
+   74.1573   95.5056
+   75.2809   97.7528
+   71.9101   96.0674
+   93.8202   97.7528
+   84.8315   98.8764
+   78.0899   97.7528
+   75.2809   99.4382
+   92.1348   94.3820
+   82.5843   87.6404
+   69.6629   93.8202
+   83.1461   97.1910
+   97.7528   99.4382
+   84.8315   97.1910
+   77.5281   78.0899
+   80.8989   94.9438
+Gen:  50. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   77.5281   94.3820
+   91.0112   93.8202
+   77.5281   97.1910
+   71.9101   97.1910
+   82.5843   98.3146
+   72.4719  100.0000
+   86.5169   96.6292
+   83.7079   98.8764
+   79.7753   94.3820
+   91.5730   96.0674
+   83.1461   94.9438
+   92.1348   98.3146
+   95.5056   98.3146
+   93.8202   96.6292
+   88.2022   98.8764
+   92.1348   98.8764
+   75.8427   99.4382
+   88.7640   97.1910
+   98.3146   99.4382
+   96.0674   96.6292
+   89.8876   97.1910
+   79.7753   96.0674
+   91.5730   97.1910
+   79.2135   96.0674
+   84.2697   96.0674
+   78.0899   98.3146
+   68.5393   89.8876
+   85.9551   95.5056
+   83.1461   96.6292
+   85.3933   97.7528
+   75.2809   93.8202
+   80.3371   97.7528
+   82.5843   97.1910
+Gen:  51. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   79.7753   91.5730
+   88.2022   97.7528
+   83.1461   95.5056
+   87.0787   97.7528
+   82.0225   82.5843
+   87.6404   94.3820
+   83.7079   95.5056
+   87.0787   97.1910
+   70.7865   97.1910
+   85.3933   98.3146
+   90.4494   91.5730
+   93.8202   96.6292
+   92.6966   95.5056
+   84.2697   97.1910
+   87.6404   92.6966
+   75.2809   98.3146
+   70.2247   87.6404
+   92.6966   98.3146
+   78.0899   98.8764
+   80.8989   97.7528
+   70.7865   93.2584
+   70.7865   95.5056
+   88.7640   97.7528
+   88.7640   97.1910
+   66.8539   97.7528
+   88.2022   97.7528
+   65.1685   93.8202
+   71.9101   90.4494
+   89.3258   97.7528
+   82.0225   91.5730
+   94.9438   98.8764
+   78.0899   97.1910
+   78.6517   96.6292
+Gen:  52. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   82.5843   94.3820
+   94.9438   96.0674
+   93.8202   98.8764
+   78.0899   86.5169
+   84.8315   96.0674
+   84.8315   98.8764
+   73.5955   91.0112
+   97.1910   97.7528
+   84.8315   86.5169
+   83.1461   98.8764
+   78.0899   99.4382
+   81.4607   98.3146
+   88.2022   98.3146
+   78.0899   94.3820
+   94.3820   96.6292
+   86.5169   96.6292
+   84.2697   96.6292
+   83.1461   96.6292
+   94.9438   99.4382
+   56.7416   96.0674
+   67.9775   91.0112
+   85.3933   87.0787
+   81.4607   97.7528
+   95.5056   99.4382
+   81.4607   98.3146
+   80.3371   82.0225
+   71.3483   97.1910
+   95.5056   97.1910
+   85.9551   95.5056
+   87.6404   97.7528
+   78.6517   94.9438
+   89.3258   94.9438
+   83.1461   96.0674
+Gen:  53. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   83.1461   90.4494
+   73.0337   95.5056
+   80.8989   98.3146
+   92.6966  100.0000
+   67.4157   93.8202
+   90.4494   96.6292
+   70.7865   97.1910
+   91.0112   97.7528
+   78.6517   97.1910
+   65.1685   95.5056
+   89.3258   89.8876
+   88.2022   92.6966
+   91.5730   97.1910
+   79.7753   98.3146
+   75.2809   97.1910
+   81.4607   88.7640
+   71.9101   97.7528
+   87.6404   98.8764
+   71.9101   98.8764
+   77.5281   84.2697
+   69.6629   96.0674
+   74.7191   96.6292
+   80.3371   97.7528
+   91.0112   98.8764
+   87.0787   93.8202
+   77.5281   99.4382
+   83.1461   94.9438
+   92.6966   98.3146
+   87.0787   94.3820
+   80.8989   93.8202
+   93.8202   96.6292
+   80.3371   98.8764
+   94.3820   96.6292
+Gen:  54. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   70.7865   91.0112
+   98.8764  100.0000
+   92.6966   98.3146
+   71.9101   98.8764
+   88.7640   97.1910
+   80.8989   99.4382
+   92.1348   97.7528
+   83.1461   92.1348
+   79.2135   98.8764
+   72.4719   83.7079
+   81.4607   97.7528
+   85.3933   96.6292
+   88.2022   98.3146
+   92.1348   97.1910
+   78.0899   90.4494
+   81.4607   93.2584
+   92.6966   98.8764
+   87.6404   97.1910
+   85.9551   96.6292
+   80.3371   96.0674
+   63.4831   93.8202
+   73.0337   96.0674
+   91.0112   98.3146
+   88.7640   97.1910
+   70.2247   92.6966
+   88.7640   97.1910
+   84.8315   95.5056
+   85.3933   95.5056
+   92.1348   92.1348
+   80.3371   93.2584
+   78.6517   93.2584
+   66.2921   95.5056
+   75.8427   97.7528
+Gen:  55. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   82.0225   96.6292
+   79.7753   96.0674
+   87.6404   98.3146
+   75.8427   97.1910
+   78.0899   87.6404
+   69.6629   97.7528
+   75.8427   94.9438
+   80.8989   94.3820
+   91.5730   93.2584
+   96.0674   96.0674
+   88.2022  100.0000
+   92.6966  100.0000
+   78.0899   89.3258
+   70.7865   97.7528
+   92.6966   96.6292
+   86.5169   90.4494
+   79.2135   94.9438
+   79.7753   98.8764
+   79.2135   93.8202
+   69.6629   94.9438
+   65.7303   89.8876
+   83.7079   94.9438
+   78.0899   98.3146
+   78.6517   99.4382
+   84.8315   97.1910
+   84.2697   89.3258
+   52.2472   97.1910
+   94.3820   98.3146
+   94.9438   98.3146
+   96.0674   98.8764
+   92.1348   98.3146
+   78.0899   98.8764
+   65.1685   98.3146
+Gen:  56. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   82.0225   94.3820
+   66.8539   94.9438
+   96.6292   99.4382
+   78.6517   97.1910
+   95.5056   98.8764
+   87.0787   97.7528
+   90.4494   91.0112
+   70.7865   96.6292
+   75.2809   93.8202
+   72.4719   96.6292
+   89.8876   93.2584
+   78.6517   96.0674
+   85.9551   98.3146
+   85.3933   94.9438
+   92.6966   99.4382
+   75.2809   98.3146
+   86.5169   98.8764
+   74.1573   95.5056
+   84.2697   96.0674
+   69.1011   96.0674
+   76.4045   96.6292
+   87.6404   98.8764
+   74.1573   97.1910
+   84.2697   92.1348
+   91.0112   94.9438
+   94.9438   97.1910
+   86.5169   94.3820
+   96.6292   97.1910
+   70.7865   83.7079
+   80.8989   91.5730
+   75.8427   96.6292
+   81.4607   96.6292
+   76.4045   92.1348
+Gen:  57. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   87.6404   96.6292
+   71.3483   97.1910
+   93.8202   98.3146
+   70.7865   93.8202
+   83.1461   97.1910
+   92.1348   94.3820
+   83.7079   91.5730
+   85.3933   97.7528
+   80.3371   87.6404
+   82.0225   91.5730
+   88.7640   91.5730
+   79.2135   96.6292
+   89.3258   98.3146
+   80.8989   92.6966
+   67.9775   96.6292
+   82.5843   90.4494
+   94.3820   99.4382
+   96.6292   98.3146
+   92.6966   97.1910
+   86.5169   89.3258
+   65.1685   98.3146
+   70.7865   98.3146
+   79.2135   97.7528
+   71.3483   93.2584
+   91.0112   99.4382
+   86.5169   98.8764
+   71.3483   96.0674
+   77.5281   96.6292
+   83.7079   91.0112
+   94.3820   94.3820
+   79.7753   89.3258
+   88.2022   98.8764
+   68.5393   97.1910
+Gen:  58. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   98.3146   99.4382
+   94.9438   98.8764
+   67.4157   95.5056
+   84.8315   96.0674
+   52.2472   96.6292
+   84.8315   92.6966
+   90.4494   96.6292
+   80.3371   94.3820
+   80.8989   97.1910
+   76.9663   88.7640
+   84.2697   93.8202
+   91.5730   96.0674
+   85.9551   99.4382
+   94.9438   98.3146
+   76.4045   97.7528
+   87.6404   98.3146
+   83.1461   95.5056
+   87.0787   97.1910
+   73.5955   92.1348
+   78.0899   96.6292
+   82.0225   96.6292
+   74.7191   92.6966
+   76.9663   97.1910
+   78.6517   98.3146
+   91.5730   97.7528
+   85.9551   91.0112
+   93.8202   99.4382
+   91.5730   98.3146
+   67.9775   97.1910
+   93.8202  100.0000
+   84.2697   97.1910
+   85.9551   97.7528
+   86.5169   97.1910
+Gen:  59. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   89.3258   98.3146
+   79.2135   93.2584
+   84.2697   96.6292
+   89.8876   93.8202
+   75.8427   94.9438
+   89.8876   99.4382
+   82.5843   97.7528
+   80.8989   96.0674
+   89.3258   97.1910
+   89.3258   96.6292
+   88.2022   95.5056
+   83.1461   97.1910
+   87.6404   98.8764
+   75.8427   95.5056
+   83.1461   96.6292
+   87.0787   99.4382
+   87.6404   98.8764
+   73.0337   87.6404
+   97.7528   97.7528
+   91.5730   92.1348
+   97.1910   98.8764
+   84.8315   93.2584
+   78.6517   93.2584
+   74.7191   78.6517
+   94.9438   98.8764
+   82.5843   93.2584
+   78.6517   96.6292
+   88.7640   98.3146
+   89.3258   93.8202
+   62.3596   87.0787
+   64.6067   98.8764
+   93.8202   99.4382
+   93.8202   99.4382
+Gen:  60. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   70.7865   98.3146
+   70.2247   82.5843
+   82.0225   91.5730
+   91.5730   93.2584
+   85.3933   98.3146
+   85.3933   94.9438
+   97.7528   98.3146
+   86.5169   89.8876
+   82.5843   93.2584
+   75.8427   97.7528
+   94.3820   98.3146
+   76.4045   87.0787
+   85.3933   98.3146
+   70.7865   97.1910
+   67.4157   81.4607
+   88.2022   98.3146
+   91.5730   95.5056
+   82.5843   92.6966
+   96.0674   98.8764
+   93.2584   98.3146
+   89.8876   96.0674
+   89.3258   94.3820
+   92.1348   92.6966
+   71.9101   93.8202
+   79.7753   92.1348
+   87.0787   98.3146
+   85.3933   95.5056
+   67.9775   95.5056
+   90.4494   96.6292
+   82.0225   91.5730
+   94.9438   99.4382
+   82.0225   97.7528
+   63.4831   85.3933
+Gen:  61. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   72.4719   89.3258
+   84.8315   94.9438
+   93.8202   96.0674
+   82.5843   89.3258
+   81.4607   98.8764
+   85.9551   92.6966
+   83.1461   94.9438
+   74.1573   76.4045
+   91.0112   96.0674
+   94.9438   99.4382
+   94.3820   96.6292
+   96.0674   98.3146
+   68.5393   96.0674
+   84.8315   98.3146
+   74.7191   94.9438
+   94.3820   96.6292
+   92.6966   98.3146
+   84.2697   98.8764
+   74.1573   91.0112
+   93.8202   97.7528
+   88.2022   95.5056
+   83.7079   97.1910
+   88.2022   99.4382
+   87.0787   94.9438
+   83.7079   95.5056
+   74.7191   97.7528
+   79.7753   95.5056
+   87.0787   95.5056
+   73.0337   94.3820
+   93.2584   99.4382
+   74.7191   95.5056
+   76.9663   98.8764
+   97.7528   98.8764
+Gen:  62. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.5730   97.7528
+   76.9663   96.0674
+   65.1685   91.5730
+   92.6966   95.5056
+   83.1461   89.8876
+   85.9551   97.7528
+   92.1348   98.8764
+   44.3820   93.8202
+   73.0337   93.8202
+   84.2697   93.8202
+   76.9663   97.1910
+   92.6966   92.6966
+   75.8427   98.3146
+   88.7640   97.1910
+   96.0674   97.1910
+   91.5730   94.3820
+   82.0225   87.6404
+   96.6292   98.3146
+   75.8427   93.2584
+   82.0225   97.1910
+   88.2022   97.7528
+   90.4494   99.4382
+   87.6404   92.1348
+   85.9551   97.7528
+   91.5730   98.8764
+   82.0225   84.2697
+   86.5169   98.3146
+   83.7079   96.0674
+   80.3371   98.3146
+   79.7753   96.6292
+   70.7865   97.1910
+   83.7079   85.3933
+   83.7079   96.6292
+Gen:  63. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   74.7191   91.0112
+   77.5281   78.0899
+   80.3371   87.0787
+   80.8989   96.6292
+   80.8989   98.3146
+   84.2697   89.3258
+   78.6517   94.3820
+   90.4494   93.8202
+   77.5281   98.8764
+   78.6517   94.9438
+   92.1348   98.8764
+   71.9101   90.4494
+   76.4045   96.6292
+   87.6404   93.8202
+   81.4607   94.9438
+   81.4607   89.8876
+   79.7753   84.8315
+   92.1348   94.9438
+   93.2584   99.4382
+   83.7079   99.4382
+   70.7865   85.3933
+   76.9663   96.6292
+   72.4719   97.1910
+   82.0225   96.6292
+   76.9663   98.3146
+   91.0112   99.4382
+   90.4494   94.3820
+   89.3258   96.0674
+   64.0449   97.1910
+   93.2584   96.6292
+   81.4607   82.0225
+   85.9551   89.8876
+   87.0787   99.4382
+Gen:  64. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   75.8427   94.3820
+   74.7191   94.9438
+   71.3483   87.6404
+   64.6067   79.7753
+   76.9663   95.5056
+   84.2697   97.1910
+   85.9551   97.7528
+   67.9775   97.7528
+   70.2247   94.9438
+   80.3371   95.5056
+   74.7191   90.4494
+   91.5730   97.7528
+   94.9438   98.8764
+   93.2584   94.9438
+   92.6966   97.7528
+   76.4045   98.3146
+   74.7191   96.6292
+   58.4270   82.0225
+   97.1910  100.0000
+   80.8989   91.0112
+   69.1011   92.1348
+   73.0337   89.3258
+   85.9551   97.7528
+   69.6629   96.6292
+   92.6966   92.6966
+   85.9551   96.6292
+   93.8202   99.4382
+   62.9213   65.1685
+   85.9551   98.3146
+   80.8989   94.9438
+   85.9551   99.4382
+   83.1461   97.1910
+   81.4607   99.4382
+Gen:  65. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   87.0787   94.3820
+   80.8989   97.1910
+   74.1573   88.7640
+   87.6404   97.7528
+   93.8202   99.4382
+   87.6404   96.6292
+   93.8202   97.7528
+   70.7865   97.1910
+   68.5393   96.0674
+   79.7753   96.6292
+   86.5169   98.3146
+   94.9438   98.8764
+   86.5169   93.2584
+   78.0899   94.3820
+   96.6292   98.3146
+   78.6517   96.0674
+   82.5843   84.2697
+   74.7191   96.0674
+   79.7753   82.0225
+   58.9888   62.3596
+   91.5730   98.8764
+   78.6517   98.3146
+   75.2809   94.3820
+   84.8315   86.5169
+   84.8315   97.1910
+   96.0674   97.1910
+   90.4494   98.8764
+   82.5843   95.5056
+   85.3933   92.6966
+   71.9101   80.3371
+   79.7753   96.0674
+   87.0787   97.7528
+   86.5169   93.8202
+Gen:  66. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   74.7191   93.8202
+   85.9551   96.6292
+   84.2697   98.3146
+   96.6292   98.8764
+   76.4045   96.0674
+   84.2697   98.3146
+   88.2022   98.3146
+   92.1348   92.1348
+   79.7753   98.8764
+   86.5169   98.3146
+   85.3933   87.0787
+   91.5730   94.3820
+   77.5281   96.6292
+   96.6292   99.4382
+   85.9551   98.3146
+   93.8202   96.6292
+   75.2809   97.7528
+   90.4494   95.5056
+   70.2247   87.6404
+   80.8989   96.6292
+   78.0899   98.3146
+   98.3146   98.3146
+   92.6966   94.3820
+   70.2247   97.7528
+   86.5169   96.0674
+   75.2809   97.1910
+   73.5955   97.7528
+   91.0112   96.6292
+   80.3371   96.6292
+   62.3596   93.8202
+   89.8876   94.9438
+   85.3933   92.1348
+   80.8989   92.6966
+Gen:  67. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   82.0225   97.1910
+   93.2584   97.7528
+   79.7753  100.0000
+   76.9663   99.4382
+   69.1011   84.2697
+   82.0225   94.9438
+   94.3820   98.8764
+   71.9101   98.3146
+   82.5843   91.0112
+   77.5281   87.6404
+   76.4045   97.7528
+   75.8427   94.3820
+   82.0225   97.1910
+   82.0225   96.0674
+   85.3933   91.5730
+   84.2697   98.3146
+   79.2135   96.6292
+   78.0899   87.0787
+   75.2809   93.2584
+   65.7303   96.6292
+   91.0112   97.7528
+   89.3258   97.1910
+   80.8989   96.0674
+   92.1348   97.1910
+   94.3820   98.3146
+   86.5169   99.4382
+   78.6517   83.7079
+   73.0337   73.0337
+   91.0112   98.3146
+   76.4045   98.3146
+   71.3483   94.9438
+   90.4494   97.1910
+   95.5056   98.3146
+Gen:  68. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   80.8989   81.4607
+   89.3258   93.2584
+   79.2135   84.8315
+   69.6629   97.1910
+   93.8202   98.8764
+   92.6966   96.0674
+   80.3371   95.5056
+   81.4607   99.4382
+   76.4045   94.9438
+   78.6517   79.2135
+   90.4494   94.3820
+   78.6517   96.6292
+   89.3258   98.8764
+   88.2022   98.3146
+   88.2022   98.3146
+   95.5056   98.8764
+   81.4607   94.3820
+   98.3146   98.8764
+   91.5730   96.6292
+   87.6404   99.4382
+   97.1910   97.7528
+   84.8315   92.1348
+   89.3258   93.8202
+   97.1910   98.8764
+   75.8427   97.7528
+   94.3820   94.9438
+   94.3820   97.7528
+   91.0112   94.9438
+   73.0337   94.9438
+   78.6517   92.6966
+   87.0787   89.3258
+   94.9438   97.7528
+   77.5281   93.2584
+Gen:  69. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   92.6966   96.0674
+   91.5730  100.0000
+   93.2584   93.8202
+   82.0225   82.5843
+   91.0112   92.1348
+   81.4607   96.6292
+   81.4607   82.0225
+   92.6966   94.3820
+   93.8202   97.7528
+   78.6517   98.3146
+   76.9663   95.5056
+   83.7079   96.6292
+   84.8315   95.5056
+   92.1348   92.6966
+   94.3820   95.5056
+   92.1348   97.7528
+   91.0112   92.1348
+   85.3933   87.0787
+   82.0225   97.1910
+   70.2247   87.0787
+   80.3371   81.4607
+   88.7640   98.8764
+   94.3820   97.7528
+   72.4719   95.5056
+   78.6517   90.4494
+   92.1348   98.3146
+   85.3933   97.1910
+   82.5843   98.8764
+   81.4607   99.4382
+   92.6966   96.6292
+   77.5281   96.0674
+   75.8427   87.0787
+   85.9551   97.7528
+Gen:  70. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   83.1461   92.6966
+   80.8989   97.1910
+   96.0674   97.1910
+   89.8876   98.3146
+   80.3371   89.3258
+   78.0899   99.4382
+   85.9551   97.1910
+   84.2697   97.1910
+   61.2360   91.5730
+   79.7753   93.8202
+   95.5056   97.1910
+   84.2697   98.3146
+   83.7079   87.0787
+   83.7079   96.0674
+   75.8427   97.7528
+   62.3596   97.1910
+   84.2697   94.3820
+   87.6404   97.7528
+   77.5281   97.7528
+   91.5730   98.8764
+   88.7640   98.3146
+   76.9663   83.1461
+   87.6404   98.3146
+   87.0787   98.3146
+   96.0674   96.0674
+   93.2584   98.3146
+   85.9551   98.3146
+   74.7191   94.9438
+   85.9551   98.8764
+   84.2697   85.3933
+   90.4494   92.1348
+   70.2247   97.1910
+   84.8315   98.8764
+Gen:  71. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   90.4494   98.3146
+   90.4494   98.3146
+   83.7079   90.4494
+   85.3933   85.9551
+   80.3371   96.0674
+   72.4719   96.0674
+   83.1461   97.1910
+   83.1461  100.0000
+   91.5730  100.0000
+   89.8876   99.4382
+   77.5281   96.0674
+   70.7865   99.4382
+   93.8202   98.8764
+   88.7640   99.4382
+   82.5843   94.9438
+   73.5955   74.7191
+   66.8539   92.6966
+   81.4607   99.4382
+   82.0225   94.3820
+   70.2247   82.0225
+   97.1910   98.8764
+   75.8427   92.6966
+   86.5169   96.6292
+   91.0112   98.8764
+   73.5955   89.3258
+   76.9663   83.7079
+   87.0787   97.7528
+   89.8876   96.6292
+   78.6517   98.8764
+   93.2584   96.6292
+   97.1910   99.4382
+   84.2697   96.6292
+   85.9551   93.2584
+Gen:  72. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   92.6966   97.7528
+   77.5281   95.5056
+   82.5843   92.6966
+   74.1573   97.7528
+   95.5056   96.6292
+   85.3933   91.5730
+   88.7640   96.0674
+   74.7191   97.7528
+   90.4494   99.4382
+   83.7079   91.5730
+   88.2022   98.3146
+   79.2135   93.2584
+   93.2584   96.6292
+   79.2135   79.7753
+   97.7528   99.4382
+   75.8427   90.4494
+   69.1011   91.0112
+   89.8876   97.1910
+   74.7191   93.2584
+   77.5281   98.8764
+   89.3258   94.9438
+   90.4494   98.8764
+   75.2809   98.8764
+   84.2697   96.6292
+   98.3146   99.4382
+   91.0112   97.1910
+   88.7640   97.7528
+   82.0225   94.9438
+   87.6404   87.6404
+   78.6517   98.3146
+   97.1910   98.3146
+   72.4719   98.8764
+   73.0337   96.0674
+Gen:  73. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   78.6517   96.6292
+   78.0899   86.5169
+   85.9551   94.3820
+   78.6517   88.7640
+   71.9101   97.1910
+   93.2584   94.3820
+   90.4494  100.0000
+   90.4494   99.4382
+   90.4494   99.4382
+   85.3933   87.0787
+   87.6404   96.6292
+   63.4831   90.4494
+   83.1461   98.3146
+   87.6404   98.8764
+   80.8989   95.5056
+   74.1573   95.5056
+   82.5843   97.7528
+   78.0899   99.4382
+   85.3933   95.5056
+   80.3371   97.1910
+   86.5169   91.0112
+   61.7978   89.3258
+   92.6966   99.4382
+   89.3258   92.1348
+   84.2697   98.3146
+   91.0112   96.0674
+   60.1124   78.0899
+   85.3933   92.1348
+   76.4045   94.9438
+   69.1011   89.3258
+   87.0787   93.2584
+   71.9101   95.5056
+   75.8427   94.3820
+Gen:  74. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   53.9326   78.6517
+   92.6966   99.4382
+   92.6966   93.2584
+   78.6517  100.0000
+   97.1910  100.0000
+   89.3258   95.5056
+   79.2135   88.7640
+   65.7303   82.0225
+   91.5730   96.6292
+   69.6629   84.8315
+   80.8989   91.5730
+   86.5169   94.9438
+   82.5843   91.5730
+   93.8202   98.3146
+   67.9775   95.5056
+   96.6292   99.4382
+   73.0337   95.5056
+   91.0112   97.7528
+   75.2809   95.5056
+   85.9551   95.5056
+   64.6067   96.0674
+   80.3371   95.5056
+   76.4045   97.7528
+   92.6966   99.4382
+   89.3258   98.3146
+   87.6404   96.6292
+   74.7191   80.8989
+   96.6292  100.0000
+   83.7079   97.7528
+   88.2022   94.9438
+   78.6517   94.9438
+   79.2135   97.1910
+   59.5506   73.0337
+Gen:  75. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   79.2135   97.1910
+   92.1348   92.1348
+   80.3371   99.4382
+   63.4831   63.4831
+   69.1011   85.3933
+   76.4045   97.1910
+   85.9551   85.9551
+   91.5730   99.4382
+   76.4045   97.7528
+   91.5730   92.1348
+   79.2135   97.1910
+   84.8315   95.5056
+   78.0899   97.7528
+   84.2697   97.7528
+   91.0112   96.6292
+   71.3483   87.6404
+   86.5169   92.1348
+   81.4607   94.9438
+   84.2697   98.8764
+   85.9551   96.6292
+   79.7753   96.0674
+   92.6966   99.4382
+   91.5730  100.0000
+   75.2809   98.3146
+   91.5730   97.7528
+   80.8989   96.6292
+   76.9663   91.5730
+   70.2247   92.6966
+   91.5730   94.9438
+   85.9551   87.0787
+   81.4607   98.8764
+   85.9551   94.9438
+   72.4719   94.9438
+Gen:  76. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   74.1573   98.3146
+   88.2022   92.6966
+   76.4045   97.7528
+   78.6517   93.2584
+   69.1011   96.6292
+   75.2809   95.5056
+   91.0112   98.3146
+   84.2697   98.3146
+   79.2135   93.2584
+   88.2022   98.8764
+   92.6966   97.7528
+   85.9551   97.1910
+   81.4607   96.6292
+   76.9663   96.6292
+   75.2809   95.5056
+   92.1348   98.3146
+   84.2697   95.5056
+   89.8876   98.3146
+   75.2809   96.0674
+   91.5730  100.0000
+   87.6404   98.8764
+   82.0225   84.8315
+   88.7640   94.9438
+   78.0899   96.6292
+   94.3820   98.3146
+   84.2697   97.1910
+   85.3933   98.3146
+   91.0112   96.0674
+   71.9101   99.4382
+   92.1348   98.3146
+   84.8315   96.0674
+   82.0225   97.1910
+   91.5730   94.9438
+Gen:  77. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.0112   97.1910
+   96.0674   98.8764
+   85.9551   98.3146
+   87.0787   99.4382
+   93.8202   98.8764
+   93.8202   96.0674
+   84.8315   98.8764
+   84.8315   97.7528
+   83.1461   92.6966
+   90.4494   93.8202
+   80.3371   97.7528
+   87.6404   94.9438
+   65.7303   98.8764
+   92.1348   98.3146
+   76.4045  100.0000
+   92.6966   99.4382
+   82.5843   96.6292
+   80.8989   87.6404
+   94.9438   97.1910
+   89.8876   98.8764
+   89.3258   94.9438
+   71.3483   97.1910
+   86.5169   97.7528
+   92.1348   97.7528
+   89.8876   98.3146
+   89.8876   97.7528
+   88.7640   96.0674
+   91.0112   97.1910
+   64.0449   94.3820
+   82.0225   96.6292
+   82.5843   98.3146
+   88.7640   97.1910
+   86.5169   94.3820
+Gen:  78. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   82.0225   96.0674
+   64.6067   84.2697
+   88.7640   99.4382
+   80.3371   97.7528
+   93.8202   98.3146
+   88.7640   98.8764
+   67.9775   96.6292
+   58.9888   88.7640
+   78.6517   94.9438
+   71.9101   97.1910
+   93.2584   99.4382
+   71.9101   98.8764
+   78.6517   96.0674
+   71.9101   96.0674
+   88.2022   96.6292
+   84.8315   97.1910
+   64.6067   97.1910
+   90.4494   98.3146
+   76.9663   91.5730
+   96.0674   97.1910
+   91.0112   98.8764
+   92.1348   98.8764
+   84.2697   97.7528
+   93.2584   99.4382
+   90.4494   99.4382
+   84.8315   96.6292
+   89.8876   96.6292
+   93.2584   96.6292
+   91.5730   94.3820
+   84.8315   96.6292
+   77.5281   97.7528
+   88.7640   98.3146
+   86.5169   98.8764
+Gen:  79. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   84.8315   98.8764
+   93.8202   99.4382
+   72.4719   96.6292
+   87.6404   94.9438
+   76.9663   98.3146
+   75.8427   95.5056
+   92.6966   97.7528
+   88.7640   95.5056
+   63.4831   98.8764
+   74.7191   93.2584
+   62.9213   94.9438
+   80.8989   96.6292
+   91.0112   98.8764
+   93.2584   93.8202
+   84.2697   97.7528
+   73.0337   95.5056
+   96.0674   96.0674
+   84.8315   97.7528
+   91.5730   96.0674
+   70.2247   97.7528
+   89.3258   96.6292
+   92.6966   96.0674
+   75.8427   97.7528
+   92.1348   98.8764
+   87.0787   94.3820
+   69.1011   90.4494
+   62.9213   99.4382
+   69.6629   89.8876
+   80.3371   97.1910
+   84.8315   94.9438
+   77.5281   97.7528
+   91.0112   95.5056
+   93.2584   98.3146
+Gen:  80. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   67.9775   92.1348
+   78.6517   99.4382
+   92.6966   98.8764
+   79.2135   96.0674
+   78.0899   97.1910
+   83.7079   98.3146
+   76.4045   96.6292
+   84.2697   98.3146
+   75.8427   97.7528
+   87.0787   87.0787
+   85.9551   93.2584
+   90.4494   93.8202
+   86.5169   96.6292
+   91.0112   96.6292
+   75.8427   95.5056
+   74.7191   98.8764
+   92.6966   98.3146
+   83.7079   90.4494
+   98.3146   99.4382
+   80.3371   93.2584
+   96.0674   97.7528
+   71.3483   83.7079
+   89.3258   93.8202
+   89.8876   98.3146
+   85.9551   98.3146
+   92.6966   99.4382
+   77.5281   98.8764
+   55.6180   84.2697
+   86.5169   90.4494
+   91.0112   95.5056
+   82.0225   89.3258
+   93.2584   98.3146
+   71.9101   97.1910
+Gen:  81. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   93.8202   99.4382
+   77.5281   98.8764
+   65.7303   92.6966
+   83.1461   96.6292
+   83.1461   98.3146
+   76.4045   97.1910
+   87.6404   97.7528
+   97.1910   98.3146
+   92.1348   97.7528
+   86.5169   97.7528
+   93.8202   97.1910
+   89.8876   91.5730
+   83.1461   92.6966
+   87.6404   98.3146
+   94.3820   98.3146
+   88.7640   96.6292
+   81.4607   97.7528
+   94.3820   98.3146
+   75.8427   96.6292
+   82.5843   89.8876
+   84.2697   98.3146
+   70.2247   96.0674
+   88.7640   94.9438
+   78.0899   97.7528
+   85.3933   94.9438
+   83.7079   98.8764
+   84.2697   93.8202
+   88.7640   96.0674
+   77.5281   94.3820
+   88.2022   97.1910
+   73.5955   97.1910
+   92.6966   98.8764
+   87.0787   87.6404
+Gen:  82. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.5730   97.1910
+   68.5393   96.0674
+   78.6517   97.1910
+   79.2135   93.2584
+   85.9551   97.7528
+   68.5393   98.3146
+   89.8876   90.4494
+   77.5281   94.3820
+   76.9663   97.1910
+   96.0674   97.1910
+   76.9663   96.6292
+   72.4719   89.3258
+   85.3933   97.1910
+   65.1685   97.1910
+   94.3820   99.4382
+   87.6404   96.0674
+   94.3820   98.3146
+   74.1573   97.7528
+   86.5169   97.7528
+   77.5281   97.7528
+   76.4045   96.0674
+   86.5169   98.8764
+   87.6404   97.1910
+   71.9101   96.0674
+   70.7865   96.6292
+   70.7865   96.6292
+   94.3820   99.4382
+   80.8989   98.3146
+   84.8315   98.3146
+   64.0449   95.5056
+   78.6517   97.7528
+   73.5955   97.1910
+   75.8427   98.8764
+Gen:  83. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820  100.0000
+   80.3371   93.8202
+   71.9101   94.9438
+   74.1573   96.0674
+   93.2584   97.7528
+   79.2135   98.3146
+   79.2135   98.3146
+   87.0787   95.5056
+   75.2809   97.1910
+   76.4045   94.9438
+   88.2022   96.6292
+   75.2809   97.1910
+   69.1011   96.0674
+   78.0899   93.2584
+   78.0899   92.6966
+   85.9551   95.5056
+   80.3371   97.7528
+   80.8989   98.8764
+   62.3596   97.7528
+   93.2584   97.1910
+   79.7753   95.5056
+   76.4045   94.3820
+   88.7640   98.8764
+   85.3933   97.1910
+   76.4045   96.6292
+   83.1461   96.6292
+   97.7528   98.8764
+   68.5393   93.2584
+   85.9551   97.1910
+   85.3933   97.1910
+   71.9101   98.8764
+   75.2809   98.3146
+   80.3371   96.0674
+Gen:  84. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   56.1798   92.1348
+   68.5393   94.3820
+   77.5281   94.3820
+   79.7753   95.5056
+   79.7753   98.8764
+   88.2022   98.8764
+   87.0787   89.3258
+   84.8315   94.9438
+   82.5843   93.2584
+   89.3258   98.3146
+   75.2809   98.3146
+   87.6404   98.8764
+   83.7079   94.3820
+   69.1011   95.5056
+   96.6292   98.3146
+   80.3371   98.8764
+   84.8315   97.7528
+   78.0899   96.6292
+   79.2135   94.9438
+   96.0674   98.8764
+   74.7191   98.8764
+   78.0899   88.7640
+   89.8876  100.0000
+   85.3933   94.9438
+   68.5393   95.5056
+   95.5056   99.4382
+   88.2022   96.6292
+   58.9888   85.9551
+   83.1461   98.8764
+   70.2247   98.3146
+   77.5281   78.6517
+   75.2809   97.7528
+   71.3483   77.5281
+Gen:  85. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   80.8989   97.1910
+   92.1348   99.4382
+   71.9101   98.8764
+   69.6629   90.4494
+   80.3371   87.0787
+   79.2135   98.3146
+   80.3371   95.5056
+   77.5281   93.2584
+   74.7191   97.1910
+   84.8315   95.5056
+   59.5506   94.9438
+   85.9551   94.3820
+   85.9551   97.7528
+   90.4494   98.3146
+   94.3820   96.6292
+   80.8989   97.1910
+   66.2921   97.7528
+   84.2697   93.8202
+   69.6629   97.1910
+   93.2584   97.1910
+   73.5955   92.6966
+   78.6517   93.2584
+   71.9101   97.7528
+   94.9438   97.1910
+   94.3820   98.3146
+   86.5169   96.6292
+   76.9663   97.7528
+   73.0337   95.5056
+   82.5843   96.6292
+   87.0787   98.3146
+   73.0337   97.1910
+   88.7640   92.1348
+   75.2809   94.9438
+Gen:  86. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   89.8876   95.5056
+   89.8876   96.6292
+   67.9775   97.1910
+   82.0225   96.6292
+   84.2697   99.4382
+   61.7978   92.1348
+   82.5843   99.4382
+   71.9101   96.0674
+   85.9551   98.3146
+   70.7865   95.5056
+   83.7079   96.0674
+   82.0225   96.0674
+   82.0225   97.7528
+   69.1011   97.1910
+   81.4607   86.5169
+   86.5169   98.3146
+   79.7753   95.5056
+   74.1573   93.2584
+   57.8652   93.8202
+   76.4045   96.0674
+   77.5281   92.1348
+   75.8427   97.7528
+   76.9663   94.3820
+   83.1461   93.2584
+   79.7753   92.6966
+   90.4494   96.6292
+   83.7079   95.5056
+   85.3933   97.7528
+   76.9663   91.0112
+   97.1910   97.7528
+   80.8989   87.0787
+   87.6404   96.6292
+   76.9663   86.5169
+Gen:  87. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   89.3258   97.1910
+   82.5843   97.1910
+   82.5843   98.3146
+   62.9213   86.5169
+   87.0787   94.3820
+   80.3371   99.4382
+   84.8315   98.3146
+   78.6517   97.7528
+   77.5281   92.1348
+   87.6404   94.9438
+   76.9663   96.0674
+   85.9551   95.5056
+   93.2584   98.8764
+   93.2584   93.8202
+   73.5955   91.0112
+   78.6517   96.0674
+   90.4494   97.7528
+   86.5169   95.5056
+   76.4045   94.3820
+   62.9213   97.7528
+   71.9101   96.0674
+   85.9551   91.0112
+   74.7191   95.5056
+   55.6180   96.0674
+   69.6629   97.1910
+   75.8427   79.2135
+   70.7865   93.2584
+   84.8315   94.3820
+   78.0899   97.1910
+   69.6629   96.0674
+   70.2247   99.4382
+   87.0787   98.8764
+   76.4045   94.9438
+Gen:  88. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   69.6629   89.8876
+   73.5955   95.5056
+   82.0225   99.4382
+   69.1011   87.0787
+   96.0674   98.8764
+   72.4719   97.1910
+   70.2247   92.1348
+   89.3258   97.7528
+   73.0337   99.4382
+   71.9101   94.3820
+   75.2809   97.1910
+   65.7303   93.2584
+   89.8876   96.6292
+   78.0899   89.8876
+   89.8876   96.6292
+   88.7640   92.6966
+   96.0674   98.3146
+   71.9101   97.7528
+   76.9663   94.9438
+   84.8315   96.6292
+   91.5730   99.4382
+   71.3483   98.8764
+   59.5506   97.1910
+   88.2022   96.6292
+   93.8202   99.4382
+   66.2921   97.1910
+   91.5730   98.3146
+   71.9101   92.6966
+   85.9551   98.8764
+   94.9438   98.3146
+   80.3371   96.6292
+   80.8989   99.4382
+   84.8315   98.8764
+Gen:  89. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   61.2360   90.4494
+   97.1910   99.4382
+   76.4045   96.0674
+   81.4607   99.4382
+   72.4719   96.0674
+   90.4494   97.7528
+   75.2809   96.0674
+   89.8876   95.5056
+   87.6404   96.0674
+   84.8315   97.7528
+   73.0337   91.5730
+   86.5169   99.4382
+   80.3371   89.8876
+   79.7753   96.6292
+   87.0787   98.3146
+   66.2921   93.8202
+   87.6404   96.0674
+   87.6404   90.4494
+   84.8315   97.7528
+   65.7303   97.1910
+   83.1461   95.5056
+   70.2247   84.2697
+   83.7079   88.2022
+   80.8989   95.5056
+   84.2697   96.0674
+   87.0787   97.1910
+   76.9663   97.1910
+   81.4607   91.0112
+   91.5730   98.3146
+   94.9438   97.1910
+   94.3820   95.5056
+   79.2135   91.5730
+   76.4045   94.9438
+Gen:  90. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   71.9101   93.2584
+   91.5730   96.0674
+   83.1461   96.0674
+   71.3483   95.5056
+   77.5281   95.5056
+   81.4607   93.8202
+   93.2584   93.8202
+   84.8315   97.1910
+   78.6517   83.1461
+   71.9101   96.0674
+   80.3371   93.2584
+   94.3820   96.0674
+   84.8315  100.0000
+   85.3933   95.5056
+   84.2697   91.0112
+   79.2135   92.6966
+   73.0337   97.1910
+   75.8427   94.9438
+   87.6404   97.7528
+   89.8876   98.3146
+   79.2135   79.7753
+   92.1348   92.6966
+   73.5955   93.8202
+   87.6404   98.3146
+   69.1011   93.8202
+   95.5056   96.0674
+   85.3933   91.0112
+   77.5281   97.7528
+   75.8427   95.5056
+   85.3933   91.5730
+   86.5169   88.2022
+   73.5955   89.8876
+   74.1573   98.8764
+Gen:  91. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   79.2135   97.7528
+   90.4494   96.6292
+   73.0337   89.3258
+   63.4831   97.1910
+   96.6292   97.1910
+   78.6517   97.1910
+   71.9101   94.9438
+   75.2809   94.3820
+   78.0899   96.6292
+   79.7753   80.8989
+   75.8427   96.0674
+   70.2247   91.5730
+   89.8876   99.4382
+   78.6517   96.6292
+   91.5730   98.3146
+   67.9775   92.1348
+   78.6517   89.3258
+   84.8315   99.4382
+   81.4607   97.7528
+   73.5955   92.6966
+   65.7303   88.2022
+   64.6067   88.2022
+   75.8427   90.4494
+   83.1461   97.1910
+   66.2921   98.8764
+   80.8989   97.7528
+   83.7079   97.1910
+   92.6966   93.2584
+   90.4494   98.3146
+   60.1124   95.5056
+   90.4494   96.0674
+   90.4494   99.4382
+   72.4719   90.4494
+Gen:  92. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.3933   98.3146
+   90.4494   97.1910
+   83.1461   98.8764
+   82.0225   98.3146
+   97.7528  100.0000
+   85.9551   92.1348
+   75.8427   83.7079
+   90.4494   98.8764
+   76.4045   94.9438
+   84.8315   99.4382
+   56.1798   92.6966
+   90.4494   98.8764
+   95.5056  100.0000
+   70.2247   95.5056
+   85.9551   96.0674
+   89.3258   98.8764
+   82.0225   97.7528
+   78.6517   93.8202
+   74.7191   98.8764
+   87.0787   87.6404
+   88.7640   96.6292
+   78.6517   98.8764
+   76.4045   96.6292
+   86.5169   96.0674
+   80.8989   96.6292
+   78.0899   92.1348
+   69.6629   96.0674
+   89.8876   97.1910
+   81.4607   96.6292
+   73.5955   98.3146
+   93.2584  100.0000
+   82.5843   99.4382
+   79.7753   96.6292
+Gen:  93. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   97.1910
+   88.2022   94.3820
+   82.5843   98.8764
+   88.2022   98.3146
+   72.4719   93.2584
+   62.3596   93.8202
+   81.4607   95.5056
+   92.1348   95.5056
+   87.6404   97.7528
+   67.9775   96.0674
+   82.5843   94.3820
+   66.2921   86.5169
+   74.7191   98.3146
+   69.6629   89.8876
+   92.6966   98.3146
+   91.5730   99.4382
+   91.0112   95.5056
+   70.2247   97.1910
+   79.7753   95.5056
+   82.0225   97.7528
+   78.0899   94.3820
+   87.6404   91.5730
+   74.1573   96.0674
+   96.6292   98.8764
+   75.2809   95.5056
+   77.5281   90.4494
+   89.8876   98.3146
+   80.3371   98.8764
+   92.6966   95.5056
+   78.6517   98.3146
+   87.6404   96.0674
+   78.0899   90.4494
+   88.7640   97.7528
+Gen:  94. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   89.3258   91.0112
+   64.6067   84.2697
+   76.4045   96.0674
+   83.7079   94.9438
+   81.4607   94.9438
+   71.9101   93.8202
+   87.6404   96.0674
+   82.0225   83.7079
+   89.3258   93.8202
+   94.9438   99.4382
+   91.0112   98.3146
+   83.1461   94.9438
+   71.9101   98.3146
+   69.6629   97.7528
+   96.6292   98.8764
+   85.9551   97.1910
+   89.3258   98.3146
+   90.4494   97.1910
+   89.3258   97.1910
+   78.0899   98.3146
+   75.2809   98.3146
+   82.5843   97.1910
+   82.5843   96.6292
+   76.4045   89.8876
+   85.3933   97.1910
+   60.6742   96.6292
+   79.7753   96.6292
+   76.4045   98.8764
+   86.5169   97.7528
+   66.2921   85.9551
+   92.6966   98.3146
+   89.8876   96.0674
+   93.8202   98.8764
+Gen:  95. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   78.6517   97.1910
+   82.0225   98.8764
+   65.7303   97.1910
+   79.2135   91.0112
+   98.8764   99.4382
+   77.5281   98.3146
+   81.4607   97.7528
+   88.7640   99.4382
+   85.9551   98.3146
+   91.5730   95.5056
+   96.6292  100.0000
+   64.6067   98.3146
+   96.6292   97.7528
+   82.0225   97.1910
+   73.0337   93.8202
+   86.5169   97.7528
+   82.5843   94.9438
+   70.7865   91.5730
+   79.7753   95.5056
+   73.0337   95.5056
+   92.6966   94.9438
+   92.6966   98.3146
+   90.4494   95.5056
+   61.7978   80.3371
+   83.1461   97.1910
+   58.9888   62.3596
+   85.3933   98.3146
+   84.2697   97.1910
+   92.1348   97.7528
+   93.2584   98.8764
+   73.0337   94.3820
+   79.2135   94.3820
+   67.4157   94.3820
+Gen:  96. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.0112   95.5056
+   73.5955   96.6292
+   76.4045   94.9438
+   95.5056   98.3146
+   84.8315   97.1910
+   69.6629   88.2022
+   97.1910   98.8764
+   75.8427   93.2584
+   86.5169   97.7528
+   88.2022   97.1910
+   79.7753   95.5056
+   69.1011   94.3820
+   78.6517   83.7079
+   67.4157   97.1910
+   90.4494   95.5056
+   92.1348   98.3146
+   85.3933   98.3146
+   79.7753   97.7528
+   94.3820   98.3146
+   91.5730   99.4382
+   82.5843  100.0000
+   92.6966   97.7528
+   93.2584   97.1910
+   94.3820   95.5056
+   67.4157   90.4494
+   85.3933   98.8764
+   91.0112   98.3146
+   93.2584   96.6292
+   75.2809   91.0112
+   97.1910   98.3146
+   92.6966   96.0674
+   91.0112   96.0674
+   93.2584   97.1910
+Gen:  97. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   75.2809   98.8764
+   99.4382  100.0000
+   92.6966   98.3146
+   80.3371   91.5730
+   69.1011   95.5056
+   88.7640   96.6292
+   62.9213   97.1910
+   87.0787   95.5056
+   87.6404   96.6292
+   84.2697   96.6292
+   78.6517   97.7528
+   80.3371   94.9438
+   76.9663   97.7528
+   78.6517   89.8876
+   79.7753   97.1910
+   75.8427   83.1461
+   90.4494   93.8202
+   83.1461   98.3146
+   69.1011   97.1910
+   83.7079   99.4382
+   67.9775   97.1910
+   79.7753   80.3371
+   82.0225   91.0112
+   83.7079   97.1910
+   89.3258  100.0000
+   88.7640   97.7528
+   86.5169   96.6292
+   88.7640   92.1348
+   94.3820   98.3146
+   90.4494   96.6292
+   91.0112   99.4382
+   76.9663   97.1910
+   87.0787   97.1910
+Gen:  98. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   66.2921   89.8876
+   73.5955   97.7528
+   93.2584   98.8764
+   78.6517   93.2584
+   80.3371   96.6292
+   91.5730   97.1910
+   92.1348   98.8764
+   79.2135   95.5056
+   87.6404   98.8764
+   80.3371   95.5056
+   71.3483   98.3146
+   92.1348   94.3820
+   68.5393   97.1910
+   89.3258   98.3146
+   95.5056   99.4382
+   81.4607   91.5730
+   79.2135   94.9438
+   88.7640   96.6292
+   79.2135   99.4382
+   62.3596   98.3146
+   85.3933   87.0787
+   71.3483   97.1910
+   72.4719   97.1910
+   68.5393   97.7528
+   70.7865   97.7528
+   66.8539   96.6292
+   78.0899   99.4382
+   76.4045   94.3820
+   63.4831   87.0787
+   81.4607   87.6404
+   85.3933   96.0674
+   92.6966   96.6292
+   88.7640   99.4382
+Gen:  99. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   88.7640   97.1910
+   84.8315   98.3146
+   93.8202   98.8764
+   64.6067   95.5056
+   93.2584   97.1910
+   92.1348   97.1910
+   83.7079   98.3146
+   79.7753  100.0000
+   91.5730   97.1910
+   73.5955   97.7528
+   80.3371   94.3820
+   82.0225   98.8764
+   73.0337   88.7640
+   87.0787   98.8764
+   66.8539   96.0674
+   75.2809   98.3146
+   95.5056   97.7528
+   85.3933   96.0674
+   82.0225   99.4382
+   96.0674   99.4382
+   71.9101   95.5056
+   74.1573   97.1910
+   78.6517   96.6292
+   77.5281   86.5169
+   81.4607   99.4382
+   95.5056   97.7528
+   85.3933   87.0787
+   91.5730   97.1910
+   76.4045   96.0674
+   77.5281   88.2022
+   83.1461   98.3146
+   82.5843   97.1910
+   77.5281   97.7528
+Gen: 100. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   68.5393   82.0225
+   93.8202   97.7528
+   70.2247   88.2022
+   96.6292  100.0000
+   91.5730   97.7528
+   88.7640   99.4382
+   78.6517   85.3933
+   82.0225   96.6292
+   79.7753   85.3933
+   79.2135   92.1348
+   87.0787   97.1910
+   73.5955   96.0674
+   87.0787   96.6292
+   69.6629   89.3258
+   90.4494   99.4382
+   91.5730   98.8764
+   78.6517   97.7528
+   93.8202   98.3146
+   75.2809   99.4382
+   71.9101   88.7640
+   81.4607   96.6292
+   78.6517   94.9438
+   83.7079   93.8202
+   88.7640   97.1910
+   87.0787   97.7528
+   91.5730   96.6292
+   84.2697   96.0674
+   86.5169   96.6292
+   85.3933   97.7528
+   64.0449   92.6966
+   82.0225   95.5056
+   79.2135   96.0674
+   60.1124   86.5169
+Gen: 101. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   80.3371   97.1910
+   87.6404   98.3146
+   84.8315   97.1910
+   68.5393   98.8764
+   84.2697   94.9438
+   75.8427   96.0674
+   87.6404   99.4382
+   95.5056   98.3146
+   90.4494   97.1910
+   91.5730   95.5056
+   78.0899   96.6292
+   79.2135   94.9438
+   75.8427   95.5056
+   77.5281   97.7528
+   93.2584   97.7528
+   84.2697   96.6292
+   88.2022   91.0112
+   68.5393   95.5056
+   72.4719   96.0674
+   87.6404   98.3146
+   89.3258   99.4382
+   92.6966   95.5056
+   91.5730   99.4382
+   73.5955   91.5730
+   71.3483   94.9438
+   93.2584   98.8764
+   94.9438   98.8764
+   70.2247   96.6292
+   91.5730   98.8764
+   71.9101   91.5730
+   80.8989   97.7528
+   80.3371   95.5056
+   85.9551  100.0000
+Gen: 102. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   93.8202   96.6292
+   87.0787   94.9438
+   89.3258   96.6292
+   52.2472   96.0674
+   97.1910   98.3146
+   96.6292   97.7528
+   87.0787   97.7528
+   64.0449   85.9551
+   85.3933   98.8764
+   87.6404   98.8764
+   84.2697   96.0674
+   83.7079   96.6292
+   87.6404   98.3146
+   92.1348   99.4382
+   90.4494  100.0000
+   88.7640   98.3146
+   69.6629   97.1910
+   78.6517   88.2022
+   83.7079   98.8764
+   73.5955   96.0674
+   81.4607   98.8764
+   79.7753   93.8202
+   74.1573   96.0674
+   95.5056   97.1910
+   75.8427   97.1910
+   83.7079   88.2022
+   78.6517   94.9438
+   83.7079   94.9438
+   85.9551   98.8764
+   90.4494   98.8764
+   91.5730   97.1910
+   56.7416   94.9438
+   69.1011   95.5056
+Gen: 103. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.9551   97.1910
+   82.0225   97.7528
+   94.9438   99.4382
+   87.6404   97.1910
+   91.5730   93.2584
+   85.9551   96.0674
+   89.8876   97.1910
+   66.8539   94.3820
+   90.4494   93.8202
+   84.2697   90.4494
+   84.2697   85.3933
+   85.9551   93.2584
+   93.8202   98.3146
+   84.8315   97.1910
+   78.6517   96.6292
+   75.8427   88.2022
+   82.5843   98.3146
+   89.3258   93.8202
+   97.7528  100.0000
+   84.2697   97.1910
+   71.9101   96.6292
+   74.1573   95.5056
+   80.3371   97.1910
+   71.3483   96.6292
+   71.9101   91.0112
+   67.4157   97.7528
+   91.0112   98.3146
+   69.6629   97.7528
+   73.5955   94.3820
+   78.0899   92.1348
+   82.0225   96.6292
+   78.6517   92.6966
+   76.9663   97.7528
+Gen: 104. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   78.6517   97.7528
+   83.7079   84.2697
+   89.3258   96.6292
+   93.2584   97.1910
+   75.2809   97.7528
+   94.9438   96.6292
+   78.0899   98.8764
+   83.1461   96.0674
+   74.1573   97.1910
+   72.4719   94.9438
+   74.7191   98.3146
+   74.7191   94.3820
+   93.2584   98.3146
+   82.0225   99.4382
+   93.8202   98.8764
+   89.8876   96.0674
+   97.1910   98.8764
+   91.0112   96.6292
+   67.9775   96.0674
+   84.8315   96.6292
+   64.0449   93.8202
+   94.9438   98.3146
+   86.5169  100.0000
+   92.1348   97.1910
+   79.7753   97.1910
+   82.0225   92.6966
+   76.4045   96.6292
+   85.9551   94.9438
+   97.1910   99.4382
+   84.8315   97.1910
+   72.4719   90.4494
+   91.0112   98.8764
+   75.8427   93.8202
+Gen: 105. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.9551   97.7528
+   76.9663   94.9438
+   94.9438   97.7528
+   93.2584   94.9438
+   90.4494   94.9438
+   82.5843   98.8764
+   62.3596   96.6292
+   86.5169   97.1910
+   86.5169   98.3146
+   83.7079   98.8764
+   57.3034   84.8315
+   65.1685   90.4494
+   82.5843   93.2584
+   75.2809   90.4494
+   80.3371   89.8876
+   78.0899   95.5056
+   96.0674   98.3146
+   87.0787   97.1910
+   88.2022   94.3820
+   63.4831   92.1348
+   79.2135   98.3146
+   87.0787   97.7528
+   87.0787   92.1348
+   87.0787   97.1910
+   75.8427   92.6966
+   85.9551   94.9438
+   78.6517   94.3820
+   93.8202   95.5056
+   89.3258   90.4494
+   93.8202   98.8764
+   85.3933   96.0674
+   86.5169   92.1348
+   79.2135   96.0674
+Gen: 106. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   77.5281   89.3258
+   69.6629   96.0674
+   75.2809   93.2584
+   75.8427   97.1910
+   97.1910   97.7528
+   76.4045   96.0674
+   81.4607   98.3146
+   70.2247   92.1348
+   76.4045   89.3258
+   84.2697   93.8202
+   83.7079   94.3820
+   87.6404   98.8764
+   79.7753   97.1910
+   86.5169   98.3146
+   91.0112  100.0000
+   82.0225   91.5730
+   74.7191   82.5843
+   87.0787   97.7528
+   87.0787  100.0000
+   95.5056   96.6292
+   79.2135   97.7528
+   82.5843   93.8202
+   87.0787   98.3146
+   84.2697   95.5056
+   81.4607   98.3146
+   73.0337   85.9551
+   89.3258   94.9438
+   79.2135   94.3820
+   88.2022   97.1910
+   96.0674   99.4382
+   84.2697   93.8202
+   89.3258   98.3146
+   82.0225   96.6292
+Gen: 107. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   86.5169   98.3146
+   92.6966   98.3146
+   84.2697   92.1348
+   81.4607   95.5056
+   74.7191   80.3371
+   83.7079   96.6292
+   80.8989   96.0674
+   81.4607   93.2584
+   90.4494   94.3820
+   78.0899   95.5056
+   75.2809   97.7528
+   62.3596   97.7528
+   70.2247   97.1910
+   87.6404   96.0674
+   75.2809   96.6292
+   78.0899   97.1910
+   83.7079   84.2697
+   88.2022   98.8764
+   86.5169   98.3146
+   82.5843   98.3146
+   85.3933   97.7528
+   87.0787  100.0000
+   78.6517   97.1910
+   87.0787   97.1910
+   75.8427  100.0000
+   76.4045   93.2584
+   88.2022   93.2584
+   83.7079   96.6292
+   79.2135   98.3146
+   79.2135   98.3146
+   80.3371   93.2584
+   97.7528   99.4382
+   76.9663   96.0674
+Gen: 108. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   79.2135   97.7528
+   92.1348   98.3146
+   77.5281   95.5056
+   96.6292   97.1910
+   93.2584   99.4382
+   88.7640   96.6292
+   96.6292   98.3146
+   84.8315   96.6292
+   91.5730   95.5056
+   76.9663   96.0674
+   71.9101   99.4382
+   79.2135   98.3146
+   70.7865   95.5056
+   85.3933   98.3146
+   89.3258   95.5056
+   79.7753   98.3146
+   83.7079   93.2584
+   92.1348   98.3146
+   81.4607   95.5056
+   83.1461  100.0000
+   88.7640   98.3146
+   81.4607   93.8202
+   66.8539   92.6966
+   91.5730  100.0000
+   89.3258   98.3146
+   90.4494   97.1910
+   91.0112   92.6966
+   82.0225   96.0674
+   76.9663   93.8202
+   89.3258   97.7528
+   82.5843   90.4494
+   74.7191   95.5056
+   87.6404   97.1910
+Gen: 109. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   90.4494   96.6292
+   70.7865   87.6404
+   93.8202   97.7528
+   94.9438   99.4382
+   81.4607   88.2022
+   70.7865   86.5169
+   73.0337   96.6292
+   92.1348   92.6966
+   85.3933   96.0674
+   78.6517   93.8202
+   89.3258   97.7528
+   85.3933   99.4382
+   89.3258   94.3820
+   90.4494   98.3146
+   92.6966   96.6292
+   89.3258   98.3146
+   87.6404   93.8202
+   89.3258   98.3146
+   68.5393   97.1910
+   95.5056   96.0674
+   95.5056   97.1910
+   88.7640   98.3146
+   83.1461   99.4382
+   93.2584   97.1910
+   92.1348   98.3146
+   79.7753   97.1910
+   85.9551   98.3146
+   84.8315   96.6292
+   79.2135   93.2584
+   80.3371   97.7528
+   69.1011   84.2697
+   96.6292   97.1910
+   61.2360   95.5056
+Gen: 110. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   96.0674   97.7528
+   81.4607   97.7528
+   91.5730   98.3146
+   71.3483   93.8202
+   84.8315   97.7528
+   70.7865   91.0112
+   80.8989   93.2584
+   62.9213   90.4494
+   88.2022   94.9438
+   86.5169   91.0112
+   85.3933   96.6292
+   87.0787   99.4382
+   74.7191   91.0112
+   86.5169   99.4382
+   74.7191   97.1910
+   73.5955   83.7079
+   91.0112   97.1910
+   93.2584   97.1910
+   74.1573   97.7528
+   95.5056   96.0674
+   94.9438   97.7528
+   89.8876   96.6292
+   87.0787   89.3258
+   80.3371   90.4494
+   87.6404   98.8764
+   83.7079   98.8764
+   75.2809   97.1910
+   87.0787   97.1910
+   85.9551   94.9438
+   85.9551   92.6966
+   97.1910   97.7528
+   83.1461   97.1910
+   89.8876   97.1910
+Gen: 111. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   88.7640   94.9438
+   69.6629   97.7528
+   84.2697   96.6292
+   91.0112   99.4382
+   85.9551  100.0000
+   65.7303   93.8202
+   85.9551   96.0674
+   79.2135   92.1348
+   74.1573   94.9438
+   71.3483   93.8202
+   88.7640   98.3146
+   76.9663   96.0674
+   79.7753   98.3146
+   66.8539   89.8876
+   85.3933   94.9438
+   83.7079   98.8764
+   89.8876   92.6966
+   82.5843   98.3146
+   94.3820   99.4382
+   87.6404   99.4382
+   97.7528   98.3146
+   75.8427   97.1910
+   85.3933   95.5056
+   89.3258   99.4382
+   73.5955   98.3146
+   84.2697   97.1910
+   73.0337   89.8876
+   76.9663   94.3820
+   79.2135   96.0674
+   86.5169   97.1910
+   79.2135   96.6292
+   86.5169   98.3146
+   82.0225   96.0674
+Gen: 112. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   80.3371   94.9438
+   74.1573   96.0674
+   94.3820   99.4382
+   84.2697   98.3146
+   92.1348   99.4382
+   82.5843   96.6292
+   88.7640   96.0674
+   88.2022   98.8764
+   83.1461   95.5056
+   85.3933   87.0787
+   65.7303   91.5730
+   68.5393   97.7528
+   73.5955   92.6966
+   85.3933   97.1910
+   79.2135   97.7528
+   81.4607   92.6966
+   68.5393   97.1910
+   72.4719   88.7640
+   85.3933   94.3820
+   76.4045   96.6292
+   83.7079   93.8202
+   81.4607   97.7528
+   79.7753   97.7528
+   80.3371   95.5056
+   79.7753   96.0674
+   81.4607   98.8764
+   94.9438  100.0000
+   88.2022   98.3146
+   93.2584   97.7528
+   80.8989   97.1910
+   80.3371   93.2584
+   73.0337   96.0674
+   89.3258   97.1910
+Gen: 113. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   93.8202   98.3146
+   93.8202   98.8764
+   74.7191   97.7528
+   88.2022   99.4382
+   84.8315   96.0674
+   88.2022   96.0674
+   83.1461   93.8202
+   69.6629   96.0674
+   73.0337   90.4494
+   89.3258   97.7528
+   82.5843   98.3146
+   92.6966   96.0674
+   80.8989   96.0674
+   88.7640   96.0674
+   95.5056   97.1910
+   83.7079   99.4382
+   82.5843   97.7528
+   70.2247   92.1348
+   84.8315   96.0674
+   78.0899   95.5056
+   79.7753   92.1348
+   83.7079   97.7528
+   55.0562   79.7753
+   76.9663   92.1348
+   85.3933  100.0000
+   72.4719   91.5730
+   87.0787   98.3146
+   80.3371   98.3146
+   84.2697   96.0674
+   85.9551   97.7528
+   79.7753   96.6292
+   80.3371   99.4382
+   89.3258   97.7528
+Gen: 114. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   50.0000   94.3820
+   76.9663   93.8202
+   84.2697   99.4382
+   91.5730   97.7528
+   78.6517   96.6292
+   85.3933   97.7528
+   75.8427   93.8202
+   94.3820   98.3146
+   79.2135   97.1910
+   95.5056   98.8764
+   77.5281   89.8876
+   81.4607   97.7528
+   78.6517   98.3146
+   87.6404   93.8202
+   68.5393   97.1910
+   79.2135   92.6966
+   86.5169   97.1910
+   74.1573   96.0674
+   89.3258   97.7528
+   93.2584   99.4382
+   79.7753   94.3820
+   83.1461   96.6292
+   67.9775   98.8764
+   72.4719   97.1910
+   87.0787   95.5056
+   91.5730   98.8764
+   82.0225   97.7528
+   93.8202   97.1910
+   73.5955   96.0674
+   96.6292   98.8764
+   78.0899   88.7640
+   66.8539   95.5056
+   96.6292   98.3146
+Gen: 115. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   88.2022   90.4494
+   98.3146   98.3146
+   66.8539   92.6966
+   76.9663   92.1348
+   80.8989   98.8764
+   86.5169   90.4494
+   94.3820   98.8764
+   84.8315   97.7528
+   80.3371   96.6292
+   86.5169   96.0674
+   89.3258   97.1910
+   90.4494   99.4382
+   95.5056   99.4382
+   79.7753   96.6292
+   80.8989   90.4494
+   74.1573   94.9438
+   88.2022   98.8764
+   70.7865   99.4382
+   84.8315   94.9438
+   84.2697   97.1910
+   83.1461   89.3258
+   91.0112   94.3820
+   90.4494   96.6292
+   94.3820   99.4382
+   77.5281   92.1348
+   85.3933   96.0674
+   85.3933   92.1348
+   75.8427   91.5730
+   85.3933   87.0787
+   80.8989   96.6292
+   84.2697   98.3146
+   87.0787   91.0112
+   77.5281   97.1910
+Gen: 116. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   86.5169   97.7528
+   86.5169   97.1910
+   80.8989   96.6292
+   95.5056   98.8764
+   95.5056   98.3146
+   64.0449   91.5730
+   84.2697   98.3146
+   78.0899   93.2584
+   93.2584   96.6292
+   78.6517   91.0112
+   84.2697  100.0000
+   94.3820   94.3820
+   83.7079   97.7528
+   98.3146   98.3146
+   92.1348  100.0000
+   86.5169   97.7528
+   88.2022   99.4382
+   76.4045   95.5056
+   64.6067   88.7640
+   78.0899   96.0674
+   82.0225   97.1910
+   87.6404   97.1910
+   89.8876   98.8764
+   85.9551   98.3146
+   93.8202   99.4382
+   84.8315   97.7528
+   82.5843   98.3146
+   88.7640   91.5730
+   82.5843   97.1910
+   87.0787   97.1910
+   63.4831   92.1348
+   83.7079   99.4382
+   82.5843   99.4382
+Gen: 117. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   97.7528   98.3146
+   67.4157   95.5056
+   84.8315   97.7528
+   95.5056   98.3146
+   72.4719   89.3258
+   84.2697   95.5056
+   74.1573   92.1348
+   91.5730   97.7528
+   96.6292   98.3146
+   71.9101   93.8202
+   73.0337   91.0112
+   88.7640   94.3820
+   85.3933   97.1910
+   85.9551   91.5730
+   88.2022   97.7528
+   80.8989   96.0674
+   73.0337   91.0112
+   77.5281   96.6292
+   81.4607   94.9438
+   72.4719   90.4494
+   92.6966   98.3146
+   93.2584   97.1910
+   93.8202   96.0674
+   80.8989   95.5056
+   97.1910   98.3146
+   83.7079   94.9438
+   93.2584   99.4382
+   77.5281   84.2697
+   70.7865   97.1910
+   86.5169   92.1348
+   86.5169   96.0674
+   91.5730  100.0000
+   82.0225   82.5843
+Gen: 118. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.3933   97.1910
+   87.6404   91.0112
+   83.1461   94.9438
+   83.1461   98.8764
+   83.1461   97.7528
+   74.1573   95.5056
+   93.8202   96.6292
+   78.6517   88.2022
+   85.3933   98.3146
+   62.9213   95.5056
+   69.6629   96.0674
+   82.0225   96.0674
+   91.0112   98.3146
+   75.8427   97.7528
+   76.4045   98.3146
+   94.3820   98.8764
+   79.7753  100.0000
+   83.7079   97.7528
+   84.8315   99.4382
+   85.9551   97.1910
+   90.4494   97.1910
+   80.3371   95.5056
+   79.2135   96.6292
+   93.2584   96.6292
+   74.1573   94.3820
+   96.6292   98.8764
+   81.4607   98.3146
+   91.5730   97.7528
+   74.7191   84.8315
+   74.7191   91.5730
+   97.7528  100.0000
+   89.8876   98.8764
+   89.8876   94.3820
+Gen: 119. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.9438   96.6292
+   71.3483   97.7528
+   76.4045   96.6292
+   93.8202   99.4382
+   92.6966   97.1910
+   71.3483   97.7528
+   71.9101   79.2135
+   88.7640   99.4382
+   70.7865   92.6966
+   87.0787   97.1910
+   83.1461   97.1910
+   66.2921   98.3146
+   92.1348   94.3820
+   83.1461   98.3146
+   87.6404   96.0674
+   83.1461   98.3146
+   89.3258   96.6292
+   95.5056  100.0000
+   66.8539   95.5056
+   79.2135   98.3146
+   93.8202   97.7528
+   88.2022   98.8764
+   75.8427   98.8764
+   88.7640   96.0674
+   80.8989   97.1910
+   85.3933   98.3146
+   88.2022   98.3146
+   66.2921   89.3258
+   78.0899   97.7528
+   82.5843   98.8764
+   82.0225   98.8764
+   84.8315   92.1348
+   83.7079   95.5056
+Gen: 120. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   97.7528
+   74.1573   96.6292
+   74.1573   94.3820
+   75.2809   98.3146
+   94.9438   95.5056
+   77.5281   97.1910
+   79.2135   97.7528
+   82.0225   97.7528
+   91.0112   98.3146
+   97.1910   98.3146
+   74.1573   93.2584
+   70.2247   88.7640
+   94.9438   94.9438
+   71.3483   96.6292
+   94.3820   98.3146
+   87.6404   97.7528
+   87.0787   91.5730
+   88.2022   88.2022
+   98.8764   99.4382
+   62.9213   65.1685
+   88.7640   97.1910
+   71.9101   95.5056
+   93.2584   98.8764
+   85.9551   96.0674
+   83.7079   98.8764
+   77.5281   98.8764
+   87.0787   98.3146
+   62.3596   88.2022
+   89.3258   97.7528
+   88.2022   96.0674
+   90.4494   97.1910
+   70.7865   97.7528
+   80.8989   92.1348
+Gen: 121. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   89.3258   95.5056
+   88.2022   90.4494
+   85.3933   97.1910
+   87.0787   98.8764
+   89.3258   94.3820
+   76.4045   96.6292
+   96.6292   97.7528
+   80.3371   96.0674
+   75.2809   96.0674
+   83.7079   97.7528
+   84.8315   99.4382
+   66.8539   87.0787
+   78.0899   94.9438
+   87.0787   88.2022
+   94.9438   98.3146
+   76.9663   94.3820
+   92.1348   92.1348
+   82.5843   97.1910
+   85.3933   97.1910
+   77.5281   97.1910
+   97.1910   99.4382
+   77.5281   98.3146
+   78.6517   87.6404
+   81.4607   98.3146
+   75.8427   91.5730
+   83.1461   95.5056
+   91.5730   92.6966
+   76.4045   99.4382
+   79.2135   98.8764
+   88.2022   98.3146
+   60.1124   96.6292
+   71.9101   96.6292
+   76.4045   94.3820
+Gen: 122. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   90.4494   95.5056
+   94.3820   96.0674
+   69.1011   97.1910
+   86.5169   93.8202
+   81.4607   93.8202
+   67.9775   95.5056
+   91.0112   97.1910
+   81.4607   92.1348
+   85.3933   98.8764
+   78.0899   95.5056
+   87.6404   97.7528
+   76.4045   96.0674
+   66.8539   97.7528
+   77.5281   97.1910
+   88.7640   97.1910
+   88.2022   94.9438
+   91.5730  100.0000
+   94.9438   99.4382
+   82.0225   92.6966
+   81.4607   96.0674
+   80.3371   98.3146
+   89.8876   97.1910
+   82.0225   95.5056
+   88.7640   94.3820
+   76.4045   97.1910
+   60.6742   92.6966
+   88.2022   93.8202
+   84.2697   97.1910
+   70.7865   97.7528
+   85.9551   96.0674
+   86.5169   94.9438
+   85.9551   97.7528
+   73.5955   91.0112
+Gen: 123. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   93.8202   98.8764
+   68.5393   96.0674
+   78.0899   97.7528
+   85.9551   92.1348
+   88.7640   97.1910
+   90.4494   92.6966
+   78.0899   96.6292
+   85.9551   96.6292
+   93.8202   96.6292
+   70.2247   98.3146
+   82.0225   97.7528
+   64.6067   98.3146
+   98.8764   99.4382
+   71.3483   91.0112
+   93.2584   97.7528
+   75.2809   95.5056
+   72.4719   94.3820
+   72.4719   91.5730
+   88.7640   94.9438
+   81.4607   99.4382
+   76.4045   90.4494
+   51.6854   94.9438
+   76.4045   93.8202
+   82.5843   99.4382
+   72.4719   99.4382
+   74.7191   92.6966
+   73.0337   97.1910
+   86.5169   88.2022
+   80.8989  100.0000
+   89.3258   97.1910
+   76.9663   86.5169
+   82.0225   97.7528
+   91.0112   99.4382
+Gen: 124. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   79.7753   98.3146
+   93.8202  100.0000
+   91.5730   96.6292
+   82.5843   97.1910
+   80.3371   87.6404
+   87.6404   95.5056
+   92.1348   97.1910
+   90.4494  100.0000
+   89.8876   98.8764
+   87.0787   98.3146
+   73.5955   98.3146
+   89.8876   98.3146
+   88.7640   96.6292
+   73.0337   96.0674
+   96.0674   99.4382
+   64.6067   92.1348
+   76.9663   94.9438
+   87.6404   95.5056
+   64.6067   87.0787
+   80.8989   96.6292
+   76.9663   94.9438
+   77.5281   94.3820
+   67.9775   89.8876
+   80.3371   96.6292
+   78.6517   88.7640
+   78.0899   91.5730
+   68.5393   92.1348
+   70.7865   97.1910
+   82.0225   96.0674
+   66.2921   96.0674
+   66.8539   79.7753
+   79.7753   96.6292
+   55.6180   94.3820
+Gen: 125. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   69.6629   72.4719
+   89.3258   96.0674
+   78.6517   94.3820
+   81.4607   94.3820
+   73.0337   99.4382
+   84.2697   98.8764
+   85.9551   96.6292
+   86.5169   98.8764
+   75.8427   97.7528
+   79.2135   96.0674
+   85.9551   96.0674
+   66.8539   86.5169
+   87.6404   99.4382
+   80.8989   95.5056
+   79.2135   98.3146
+   92.6966   97.7528
+   83.7079   85.3933
+   78.0899   87.6404
+   92.6966   98.8764
+   95.5056   99.4382
+   91.0112   98.3146
+   87.6404   97.7528
+   70.2247   94.3820
+   80.8989   90.4494
+   96.6292  100.0000
+   80.8989   91.0112
+   78.6517   80.3371
+   97.1910   98.3146
+   94.3820  100.0000
+   86.5169   96.0674
+   91.0112   94.3820
+   83.1461   96.6292
+   79.2135   80.8989
+Gen: 126. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   65.1685   98.3146
+   85.3933   87.0787
+   82.0225   92.6966
+   90.4494   97.1910
+   71.9101   97.1910
+   80.8989   97.7528
+   85.3933   98.8764
+   91.5730   98.8764
+   78.0899   98.3146
+   83.7079   96.6292
+   84.8315   96.6292
+   78.6517   97.1910
+   94.3820   99.4382
+   82.0225   97.1910
+   80.3371   96.6292
+   82.5843   98.8764
+   81.4607   93.2584
+   74.1573   97.1910
+   65.7303   90.4494
+   83.7079   97.1910
+   95.5056   99.4382
+   87.0787  100.0000
+   91.5730   99.4382
+   80.3371   96.6292
+   86.5169   93.2584
+   82.5843   97.1910
+   95.5056   99.4382
+   76.9663   92.6966
+   86.5169   91.0112
+   78.6517   95.5056
+   62.9213   94.9438
+   90.4494   99.4382
+   87.0787   92.1348
+Gen: 127. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.3933   95.5056
+   92.6966   97.7528
+   71.9101   97.1910
+   85.3933   97.1910
+   86.5169   96.6292
+   91.0112   98.8764
+   85.9551   97.1910
+   88.2022   91.5730
+   80.8989   97.7528
+   79.2135   80.8989
+   88.7640   99.4382
+   74.1573   88.2022
+   84.2697   93.2584
+   96.0674  100.0000
+   82.5843   94.3820
+   84.2697   98.3146
+   88.7640   99.4382
+   76.9663   92.6966
+   93.8202   96.6292
+   81.4607   97.1910
+   92.6966   96.0674
+   80.8989   95.5056
+   87.6404   95.5056
+   66.8539   96.0674
+   77.5281   94.3820
+   70.2247   96.6292
+   61.7978   88.2022
+   83.7079   89.8876
+   77.5281   98.8764
+   89.8876   94.9438
+   94.9438   97.1910
+   85.9551   92.6966
+   92.6966   98.8764
+Gen: 128. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   82.5843   97.7528
+   78.6517   94.3820
+   93.2584   97.7528
+   76.4045   78.0899
+   77.5281   98.3146
+   76.9663   98.3146
+   76.4045   96.6292
+   93.2584   96.0674
+   75.8427   92.6966
+   73.5955   97.1910
+   74.7191   98.8764
+   73.5955   87.0787
+   89.8876   93.8202
+   94.9438   99.4382
+   83.1461   98.8764
+   82.0225   94.9438
+   93.2584   94.9438
+   73.0337   98.3146
+   92.1348   93.2584
+   92.1348   94.3820
+   91.0112   94.9438
+   80.8989   96.6292
+   95.5056   96.6292
+   89.3258   98.8764
+   70.7865   97.1910
+   92.1348   96.6292
+   85.9551   98.3146
+   84.2697   96.0674
+   66.2921   98.3146
+   80.8989   97.7528
+   74.7191   97.7528
+   73.5955   93.8202
+   97.1910   98.8764
+Gen: 129. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   72.4719   72.4719
+   70.7865   88.2022
+   74.1573   97.7528
+   84.2697   97.7528
+   84.2697   99.4382
+   64.6067   98.3146
+   85.9551   97.7528
+   73.5955   97.7528
+   77.5281   94.9438
+   84.8315   96.6292
+   79.7753   96.6292
+   82.5843   94.9438
+   84.8315   97.7528
+   71.9101   96.6292
+   58.9888   88.7640
+   91.5730   97.1910
+   80.8989   96.0674
+   82.0225   99.4382
+   80.8989   95.5056
+   86.5169   96.6292
+   86.5169   86.5169
+   73.0337   98.3146
+   93.8202   98.8764
+   86.5169   91.0112
+   75.8427   97.1910
+   92.6966   98.8764
+   85.3933  100.0000
+   75.8427   97.7528
+   76.9663   96.0674
+   82.0225   97.1910
+   74.7191   97.1910
+   82.0225   98.3146
+   87.6404   97.1910
+Gen: 130. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   92.6966   93.2584
+   92.1348   97.1910
+   91.0112   93.2584
+   73.5955   94.3820
+   76.4045   96.0674
+   82.5843   98.8764
+   88.2022   93.8202
+   82.5843   87.0787
+   83.1461   91.5730
+   79.7753   90.4494
+   87.6404   98.3146
+   70.7865   96.0674
+   85.9551   98.3146
+   70.2247   96.0674
+   79.7753   94.3820
+   70.7865   96.0674
+   67.4157   98.8764
+   76.4045   97.7528
+   94.9438   97.7528
+   89.3258   98.3146
+   93.2584   98.3146
+   93.2584   97.7528
+   88.2022   99.4382
+   93.2584   96.0674
+   62.3596   92.1348
+   75.2809   92.1348
+   97.1910   99.4382
+   85.3933   87.0787
+   85.9551   94.3820
+   74.1573   92.1348
+   83.7079   97.1910
+   79.7753   89.3258
+   89.3258   99.4382
+Gen: 131. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   84.2697   97.7528
+   92.6966   97.1910
+   88.2022   98.3146
+   89.8876   95.5056
+   84.8315   94.3820
+   85.9551   92.6966
+   92.1348   98.3146
+   72.4719   97.1910
+   69.1011   97.7528
+   80.3371   97.1910
+   87.0787   92.6966
+   93.2584   96.0674
+   64.6067   84.2697
+   87.0787   98.8764
+   82.0225   97.7528
+   70.2247   93.2584
+   84.8315   97.1910
+   87.6404   97.7528
+   73.0337   96.0674
+   80.8989   94.9438
+   91.5730  100.0000
+   88.7640   98.3146
+   81.4607   98.8764
+   92.6966   96.0674
+   74.7191   97.1910
+   93.8202   98.8764
+   75.8427   94.3820
+   80.8989   99.4382
+   91.5730   97.7528
+   92.1348   98.3146
+   82.5843   98.3146
+   46.6292   96.0674
+   76.9663   91.0112
+Gen: 132. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   98.3146
+   83.7079   91.0112
+   90.4494   94.9438
+   78.0899   96.6292
+   83.7079   98.3146
+   80.8989   98.8764
+   81.4607   83.1461
+   77.5281   96.6292
+   91.5730   97.1910
+   85.9551   96.0674
+   81.4607   98.8764
+   76.4045   97.7528
+   80.8989   96.6292
+   87.0787   98.8764
+   84.8315   97.7528
+   81.4607   98.8764
+   89.8876  100.0000
+   74.7191   87.6404
+   89.8876   92.1348
+   85.9551   98.8764
+   83.7079   95.5056
+   80.8989   94.9438
+   83.7079   95.5056
+   91.0112   95.5056
+   64.0449   96.0674
+   78.6517   97.1910
+   79.7753   94.9438
+   80.3371   96.6292
+   75.8427   82.5843
+   76.9663   95.5056
+   85.3933   91.0112
+   83.1461   99.4382
+   89.8876   95.5056
+Gen: 133. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   98.8764
+   74.7191   88.7640
+   81.4607   96.6292
+   80.8989   99.4382
+   77.5281   96.6292
+   95.5056   99.4382
+   76.9663   97.7528
+   88.2022   96.0674
+   73.5955   97.7528
+   84.2697   98.3146
+   85.9551   98.8764
+   68.5393   94.9438
+   70.2247   97.7528
+   97.7528  100.0000
+   74.1573   98.3146
+   69.6629   92.1348
+   88.7640   93.2584
+   74.7191   97.1910
+   78.6517   96.0674
+   62.9213   97.1910
+   82.5843   97.1910
+   74.7191   95.5056
+   88.7640   96.0674
+   94.3820   99.4382
+   83.1461   98.8764
+   87.0787   98.3146
+   84.8315   97.7528
+   81.4607   96.0674
+   88.7640   96.0674
+   80.8989   97.7528
+   79.7753   97.7528
+   85.3933  100.0000
+   83.1461   95.5056
+Gen: 134. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   95.5056   99.4382
+   97.1910   98.3146
+   96.0674   97.1910
+   93.2584   97.7528
+   87.6404   98.3146
+   62.3596   93.2584
+   94.9438   99.4382
+   97.7528  100.0000
+   80.8989   98.8764
+   87.6404   89.8876
+   94.3820   98.8764
+   85.3933  100.0000
+   89.3258   96.6292
+   89.8876   97.7528
+   70.7865   91.5730
+   88.7640   97.7528
+   86.5169   97.1910
+   96.6292   98.3146
+   86.5169   99.4382
+   82.5843   99.4382
+   93.8202   99.4382
+   84.8315   93.8202
+   61.7978   93.8202
+   89.8876   97.7528
+   88.2022   88.2022
+   87.6404   97.1910
+   86.5169   96.6292
+   82.5843   98.3146
+   64.6067   97.1910
+   83.1461   90.4494
+   90.4494   98.3146
+   93.2584   98.8764
+   76.9663   98.3146
+Gen: 135. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   67.9775   95.5056
+   70.7865   83.1461
+   92.6966   97.7528
+   76.4045   92.6966
+   78.6517   99.4382
+   95.5056   98.8764
+   92.6966   96.6292
+   69.1011   96.6292
+   74.7191   97.7528
+   79.2135   87.0787
+   94.3820  100.0000
+   94.9438   97.1910
+   78.0899   97.7528
+   87.0787   98.8764
+   90.4494   97.7528
+   82.5843   95.5056
+   94.9438   98.3146
+   87.0787   93.8202
+   82.5843   97.1910
+   71.3483   96.0674
+   89.3258   99.4382
+   84.2697   94.9438
+   84.8315   98.3146
+   74.7191   96.6292
+   85.3933   97.7528
+   87.0787   96.6292
+   69.6629   97.7528
+   71.9101   97.1910
+   83.7079   94.3820
+   80.3371   95.5056
+   83.1461   97.7528
+   85.9551   98.8764
+   81.4607   91.0112
+Gen: 136. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.9438   97.1910
+   88.7640   96.0674
+   72.4719   96.0674
+   91.5730   98.8764
+   72.4719   93.8202
+   95.5056   98.3146
+   73.0337   93.8202
+   84.2697   92.1348
+   79.7753   98.3146
+   78.0899   97.1910
+   85.3933   97.1910
+   92.6966   97.7528
+   91.5730   94.3820
+   96.6292   98.8764
+   88.7640   98.8764
+   79.2135   98.8764
+   66.2921   96.0674
+   67.4157   94.9438
+   68.5393   82.5843
+   82.0225   96.0674
+   87.0787   96.6292
+   96.6292   98.3146
+   93.8202   97.7528
+   94.3820   98.8764
+   82.5843   85.9551
+   97.1910  100.0000
+   55.0562   95.5056
+   86.5169   97.7528
+   98.3146   99.4382
+   82.0225   93.2584
+   89.8876   98.3146
+   76.4045   98.3146
+   89.3258   98.8764
+Gen: 137. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   94.3820   98.8764
+   89.3258   98.3146
+   93.8202   98.8764
+   88.7640   98.3146
+   93.8202   94.9438
+   88.7640   92.6966
+   92.1348   98.3146
+   71.9101   97.1910
+   66.8539   97.1910
+   93.2584   99.4382
+   84.2697   98.3146
+   87.0787   98.3146
+   82.0225   82.5843
+   87.6404   98.8764
+   90.4494   98.3146
+   93.2584   97.1910
+   62.9213   95.5056
+   65.7303   95.5056
+   90.4494   98.3146
+   89.3258   98.8764
+   85.3933   92.6966
+   70.2247   97.7528
+   91.5730   93.2584
+   88.7640   98.3146
+   87.0787   97.7528
+   75.2809   99.4382
+   61.7978   82.0225
+   78.0899   98.3146
+   81.4607   97.1910
+   96.6292   98.3146
+   96.6292   98.3146
+   81.4607   93.2584
+   84.2697   94.9438
+Gen: 138. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   79.7753   97.1910
+   77.5281   95.5056
+   55.6180   98.8764
+   80.3371   94.3820
+   62.9213   94.3820
+   58.4270   89.3258
+   78.6517   92.6966
+   70.7865   98.3146
+   92.6966   98.8764
+   92.1348   96.0674
+   84.8315   96.0674
+   79.2135   98.8764
+   73.5955   93.2584
+   80.3371   97.1910
+   89.3258   98.3146
+   82.0225   98.8764
+   84.2697   92.1348
+   78.6517   98.3146
+   77.5281   95.5056
+   69.6629   96.6292
+   80.3371   99.4382
+   72.4719   97.7528
+   94.9438   99.4382
+   75.2809   97.1910
+   76.9663   95.5056
+   93.2584   95.5056
+   78.6517   91.0112
+   76.9663   96.6292
+   80.3371   94.9438
+   78.0899   96.6292
+   75.2809   95.5056
+   74.7191   95.5056
+   78.6517   94.9438
+Gen: 139. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   74.1573   91.5730
+   69.6629   96.0674
+   91.5730   98.8764
+   82.5843   88.2022
+   91.5730   98.8764
+   71.3483   92.1348
+   81.4607   98.3146
+   75.2809   98.8764
+   71.3483   85.3933
+   85.9551   95.5056
+   68.5393   93.2584
+   82.0225   87.6404
+   73.5955   97.7528
+   83.1461   97.7528
+   79.2135   97.1910
+   73.5955   97.7528
+   75.8427   92.1348
+   87.0787   99.4382
+   93.2584   98.3146
+   94.3820   99.4382
+   89.3258   98.3146
+   85.9551   98.8764
+   73.5955   94.3820
+   79.2135   97.7528
+   79.2135   97.1910
+   88.2022   98.3146
+   95.5056   99.4382
+   84.2697   90.4494
+   82.0225   98.3146
+   97.1910   98.3146
+   73.5955   94.3820
+   83.7079   98.3146
+   80.8989   95.5056
+Gen: 140. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   91.5730   98.3146
+   92.6966   98.3146
+   68.5393   97.7528
+   85.9551   99.4382
+   83.1461   98.8764
+   87.6404   97.7528
+   87.0787   99.4382
+   87.6404   96.6292
+   83.7079   92.6966
+   58.4270   96.0674
+   76.4045   93.8202
+   79.7753   87.6404
+   81.4607   97.1910
+   89.8876   97.7528
+   77.5281   91.5730
+   92.1348   96.0674
+   88.7640   97.1910
+   84.2697   98.3146
+   77.5281   97.1910
+   80.8989   96.6292
+   75.2809   76.4045
+   66.2921   93.8202
+   83.7079   93.8202
+   74.7191   95.5056
+   83.7079   99.4382
+   90.4494   95.5056
+   87.6404   98.8764
+   56.7416   96.6292
+   90.4494   99.4382
+   75.2809   94.3820
+   90.4494   92.6966
+   86.5169   97.7528
+   81.4607   95.5056
+Gen: 141. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   85.3933   94.9438
+   90.4494   99.4382
+   83.1461   96.6292
+   71.9101   98.8764
+   82.0225   96.0674
+   81.4607   94.9438
+   86.5169   94.9438
+   94.3820  100.0000
+   84.8315   98.3146
+   82.0225   94.9438
+   82.0225   94.9438
+   78.6517   96.0674
+   85.9551   98.3146
+   88.7640   96.0674
+   66.8539   96.6292
+   93.8202   97.1910
+   89.3258   98.8764
+   82.5843   97.7528
+   87.0787   98.3146
+   91.0112   98.8764
+   78.6517   96.0674
+   93.2584   96.6292
+   88.2022   94.3820
+   88.2022   97.1910
+   93.2584   98.3146
+   87.0787   96.6292
+   77.5281   94.3820
+   95.5056   98.8764
+   88.7640   96.0674
+   89.8876   97.7528
+   74.1573   91.0112
+   82.0225  100.0000
+   88.7640   98.3146
+Gen: 142. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   92.6966   98.8764
+   92.1348   99.4382
+   96.0674  100.0000
+   77.5281   96.0674
+   84.8315   98.8764
+   89.3258   97.1910
+   91.0112   92.1348
+   94.3820   99.4382
+   85.9551   97.7528
+   84.2697   98.3146
+   92.6966   98.8764
+   90.4494   97.7528
+   89.3258   95.5056
+   90.4494   97.1910
+   88.2022   99.4382
+   81.4607   96.0674
+   84.8315   92.6966
+   84.2697   94.3820
+   94.3820   98.8764
+   83.1461   97.1910
+   89.8876   96.0674
+   90.4494   98.8764
+   88.7640   97.7528
+   87.0787   92.6966
+   82.0225   99.4382
+   81.4607   97.1910
+   76.9663   97.1910
+   86.5169   98.3146
+   92.6966   95.5056
+   88.7640   98.8764
+   84.8315   92.1348
+   65.7303   84.2697
+   98.8764   98.8764
+Gen: 143. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   97.1910   98.8764
+   83.1461   98.8764
+   79.7753   94.3820
+   85.3933   97.7528
+   83.1461   96.0674
+   93.2584   98.3146
+   92.6966   97.7528
+   90.4494   98.8764
+   76.9663   94.9438
+   78.0899   87.6404
+   92.1348   97.7528
+   84.8315   98.8764
+   74.7191   96.0674
+   83.1461   95.5056
+   74.1573   87.6404
+   78.0899   98.3146
+   84.2697   95.5056
+   65.1685   94.9438
+   86.5169   97.7528
+   81.4607   99.4382
+   92.1348   94.9438
+   83.1461   98.3146
+   91.5730   97.7528
+   87.0787   97.1910
+   82.5843   92.6966
+   76.9663   96.0674
+   80.3371   97.7528
+   75.8427   93.8202
+   89.8876   97.7528
+   73.5955   95.5056
+   78.0899   97.1910
+   88.7640   97.7528
+   85.9551   95.5056
+Gen: 144. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   93.2584   98.3146
+   94.9438   98.8764
+   82.5843   96.0674
+   87.6404   98.8764
+   88.7640   90.4494
+   74.1573   99.4382
+   90.4494   97.1910
+   73.0337   91.0112
+   81.4607   98.3146
+   80.3371   98.3146
+   84.8315   98.3146
+   93.8202   99.4382
+   84.8315   97.1910
+   80.3371   93.8202
+   83.1461   85.3933
+   79.7753   98.8764
+   79.7753   94.9438
+   71.3483   98.8764
+   89.8876   91.5730
+   93.2584   96.6292
+   83.1461   96.6292
+   86.5169   98.8764
+   78.0899   96.6292
+   73.0337   94.9438
+   94.3820   98.3146
+   78.6517   94.3820
+   82.0225   95.5056
+   89.8876   92.6966
+   91.0112   99.4382
+   74.1573   92.6966
+   94.9438   98.3146
+   90.4494   96.6292
+   89.3258   98.3146
+Gen: 145. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   72.4719   98.3146
+   84.8315   93.8202
+   65.1685   94.9438
+   96.0674   98.8764
+   66.2921   97.1910
+   85.3933   98.8764
+   94.9438   98.3146
+   92.1348   95.5056
+   92.1348   97.1910
+   75.2809   97.7528
+   93.8202   96.0674
+   78.0899   88.7640
+   71.9101   96.6292
+   92.6966   99.4382
+   92.1348  100.0000
+   88.2022   98.3146
+   69.1011   91.5730
+   77.5281   94.3820
+   65.7303   93.8202
+   78.6517   98.8764
+   84.8315   98.8764
+   82.0225   96.6292
+   76.9663   98.8764
+   69.6629   92.1348
+   79.7753   98.8764
+   83.7079   98.3146
+   85.3933   88.7640
+   89.8876   96.0674
+   66.8539   96.0674
+   80.3371   97.1910
+   71.9101   98.3146
+   87.6404   99.4382
+   95.5056   98.3146
+Gen: 146. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000
+   92.1348  100.0000
+   71.9101  100.0000
+   84.8315  100.0000
+   87.0787  100.0000
+   79.7753  100.0000
+   77.5281   98.8764
+   90.4494   93.2584
+   83.7079   96.0674
+   94.3820   99.4382
+   85.3933   98.3146
+   79.2135   95.5056
+   84.8315   95.5056
+   83.7079   93.2584
+   65.1685   89.3258
+   83.1461   96.6292
+   84.8315   99.4382
+   84.2697   99.4382
+   63.4831   96.0674
+   87.6404   97.7528
+   94.9438   99.4382
+   93.2584   95.5056
+   74.7191   92.1348
+   82.5843   99.4382
+   86.5169   97.1910
+   91.5730   98.3146
+   92.1348   97.1910
+   79.7753   99.4382
+   83.1461   94.3820
+   76.4045   96.6292
+   81.4607   95.5056
+   90.4494   98.8764
+   83.1461   97.1910
+   65.1685   86.5169
+   81.4607   97.1910
+   94.3820   97.7528
+   84.2697   98.8764
+   97.7528  100.0000
+   92.6966   97.7528
+Gen: 147. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.5*((5*(X(:,11)))+(7*(((X(:,9))+(X(:,5))).*((X(:,9))-(X(:,1)))))) 
+ 	 Agr 2: 	 0.5*((1*(X(:,13)))-(((6*(X(:,7)))+(1*(X(:,2))))+(9.5*((X(:,13)).*(X(:,13))))))
+   83.1461  100.0000
+   91.5730  100.0000

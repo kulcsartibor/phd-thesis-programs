@@ -1,0 +1,36 @@
+# Project: diabetes_C_devc
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = src/reg_RF.o src/cokus.o src/diabetes_C_wrapper.o $(RES)
+LINKOBJ  = src/reg_RF.o src/cokus.o src/diabetes_C_wrapper.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = diabetes_C_devc.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before diabetes_C_devc.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "diabetes_C_devc.exe" $(LIBS)
+
+src/reg_RF.o: src/reg_RF.cpp
+	$(CPP) -c src/reg_RF.cpp -o src/reg_RF.o $(CXXFLAGS)
+
+src/cokus.o: src/cokus.cpp
+	$(CPP) -c src/cokus.cpp -o src/cokus.o $(CXXFLAGS)
+
+src/diabetes_C_wrapper.o: src/diabetes_C_wrapper.cpp
+	$(CPP) -c src/diabetes_C_wrapper.cpp -o src/diabetes_C_wrapper.o $(CXXFLAGS)

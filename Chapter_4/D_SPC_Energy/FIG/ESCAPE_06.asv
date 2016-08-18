@@ -1,0 +1,143 @@
+figure('Color',[1 1 1])
+
+subplot(1,3,1)
+hold on
+plot(Full.y(:,M),y_full_molbecs,'k+','MarkerSize',2)
+% plot([0 sqrt(35^2*2)], [0 sqrt(35^2*2)],'r')
+line([min(Full.y(:,M)) max(Full.y(:,M))], [min(Full.y(:,M)) max(Full.y(:,M))])
+set(gca,'XTickLabel',[])
+set(gca,'YTickLabel',[])
+xlabel('$y$','Interpreter','LaTeX','FontSize',18)
+ylabel('$\hat{y}$','Interpreter','LaTeX','FontSize',18)
+axis([min(Full.y(:,M)) max(Full.y(:,M)) min(Full.y(:,M)) max(Full.y(:,M))])
+axis square
+grid on
+title('Heating~Steam $(MOL~model)$','Interpreter','LaTeX','FontSize',18)
+
+subplot(1,3,2)
+hold on
+plot(Full.y(:,M),y_full_plsbecs,'k+','MarkerSize',2)
+% plot([0 sqrt(35^2*2)], [0 sqrt(35^2*2)],'r')
+line([min(Full.y(:,M)) max(Full.y(:,M))], [min(Full.y(:,M)) max(Full.y(:,M))])
+set(gca,'XTickLabel',[])
+set(gca,'YTickLabel',[])
+xlabel('$y$','Interpreter','LaTeX','FontSize',18)
+ylabel('$\hat{y}$','Interpreter','LaTeX','FontSize',18)
+axis([min(Full.y(:,M)) max(Full.y(:,M)) min(Full.y(:,M)) max(Full.y(:,M))])
+axis square
+grid on
+title('Heating~Steam $(PLS~model)$','Interpreter','LaTeX','FontSize',18)
+
+subplot(1,3,3)
+hold on
+plot(Full.y(:,M),y_full_sombecs,'k+','MarkerSize',2)
+% plot([0 sqrt(35^2*2)], [0 sqrt(35^2*2)],'r')
+line([min(Full.y(:,M)) max(Full.y(:,M))], [min(Full.y(:,M)) max(Full.y(:,M))])
+set(gca,'XTickLabel',[])
+set(gca,'YTickLabel',[])
+xlabel('$y$','Interpreter','LaTeX','FontSize',18)
+ylabel('$\hat{y}$','Interpreter','LaTeX','FontSize',18)
+axis([min(Full.y(:,M)) max(Full.y(:,M)) min(Full.y(:,M)) max(Full.y(:,M))])
+axis square
+grid on
+title('Heating~Steam $(SOM~model)$','Interpreter','LaTeX','FontSize',18)
+
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+felirat={'KEI','Process Variable 1','Process Variable 2','Process Variable 3','Process Variable 4','Process Variable 5','Process Variable 6','Process Variable 7','Process Variable 8','Process Variable 9'}
+sD=som_data_struct(data,'comp_names', felirat )
+sM=som_make(sD) % 'lattice','rect',
+figure(2013)
+som_show(sM)
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+figure(987654)
+whitebg('w')
+hold on
+for n=2:length(comps)-1
+    for i=2:n
+        plot(n,KORR.PLS_all(i-1,n-1),'b.','MarkerSize',24)
+    end
+end
+xlabel('Number of process variables applied for PLS','Interpreter','LaTeX','FontSize',18)
+ylabel('Correlation coeffitient','Interpreter','LaTeX','FontSize',18)
+ylim([0.825 0.85])
+grid on
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+minT = min(Full.T);
+maxT = max(Full.T);
+xData = linspace(minT,maxT,6);
+
+figure('Color',[1 1 1])
+subplot(3,1,1)
+hold on
+plot(Full.T,Full.y(:,M)-y_full_molbecs,'k.','MarkerSize',4)
+set(gca,'XTick',xData);
+datetick('x','mm.dd. HH:MM','keepticks');
+ylabel('Error $(MOL~model)$','Interpreter','LaTeX','FontSize',14)
+% ylim([-0.5 0.5])
+hline(0,'k--')
+hline(0+3*std(Full.y(:,M)-y_full_molbecs),'k-.')
+hline(0-3*std(Full.y(:,M)-y_full_molbecs),'k-.')
+box on
+
+subplot(3,1,2)
+hold on
+plot(Full.T,Full.y(:,M)-y_full_plsbecs,'k.','MarkerSize',4)
+set(gca,'XTick',xData);
+datetick('x','mm.dd. HH:MM','keepticks');
+ylabel('Error $(PLS~model)$','Interpreter','LaTeX','FontSize',14)
+ylim([-0.5 0.5])
+hline(0,'k--')
+hline(0+3*std(Full.y(:,M)-y_full_plsbecs),'k-.')
+hline(0-3*std(Full.y(:,M)-y_full_plsbecs),'k-.')
+box on
+
+subplot(3,1,3)
+hold on
+plot(Full.T,Full.y(:,M)-y_full_sombecs,'k.','MarkerSize',4)
+set(gca,'XTick',xData);
+datetick('x','mm.dd. HH:MM','keepticks');
+ylabel('Error $(SOM~model)$','Interpreter','LaTeX','FontSize',14)
+ylim([-0.5 0.5])
+hline(0,'k--')
+hline(0+3*std(Full.y(:,M)-y_full_sombecs),'k-.')
+hline(0-3*std(Full.y(:,M)-y_full_sombecs),'k-.')
+box on
+
+xlabel('Time','Interpreter','LaTeX','FontSize',14)
+%%
+figure(0691888)
+hold on
+plot(cumsum(Full.y(:,M)-y_full_plsbecs))
+plot(cumsum(Full.y(:,M)-y_full_sombecs),'r')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,444 @@
+   92.6966   99.4382
+   87.6404   98.8764
+   94.3820   98.8764
+   87.6404   98.8764
+   73.0337   98.3146
+   70.7865   98.3146
+   79.7753   98.3146
+   92.6966   98.8764
+   88.2022   96.6292
+   91.0112   99.4382
+   81.4607   87.0787
+   69.6629   90.4494
+   89.3258   91.0112
+   78.0899   80.3371
+   94.3820   96.0674
+   76.4045   97.1910
+   75.2809   89.3258
+   96.6292   99.4382
+   91.5730   96.6292
+   82.5843   91.0112
+   89.3258   93.8202
+   84.8315   95.5056
+   74.7191   93.2584
+   71.9101   97.7528
+   78.0899   85.3933
+   76.9663   97.1910
+   64.0449   96.6292
+   71.9101   82.5843
+   90.4494   95.5056
+   69.6629   97.1910
+   59.5506   87.0787
+   88.7640   88.7640
+   72.4719   77.5281
+   75.2809   98.3146
+   83.7079   94.9438
+   71.3483   96.6292
+   74.7191   96.0674
+   69.6629   96.0674
+   74.1573   93.8202
+   79.2135   98.8764
+Gen:   3. 	 Fit: 99.438202 
+ 	 Agr 1: 	 0.5*((2*(X(:,12)))-(((1*(X(:,4)))-(5*(X(:,7))))-(1.25*(X(:,5))))) 
+ 	 Agr 2: 	 0.5*(((9*(X(:,1)))+(0*(X(:,5))))-(1*(X(:,10))))
+   92.6966   99.4382
+   91.0112   99.4382
+   96.6292   99.4382
+   87.6404   98.8764
+   94.3820   98.8764
+   87.6404   98.8764
+   92.6966   98.8764
+   83.7079   98.8764
+   88.2022   97.7528
+   58.4270   96.6292
+   65.7303   98.8764
+   76.4045   88.2022
+   82.0225   97.7528
+   79.2135   97.1910
+   89.8876   96.0674
+   81.4607   97.7528
+   92.6966   97.1910
+   79.7753   98.3146
+   91.5730  100.0000
+   88.2022   93.2584
+   73.5955   98.8764
+   78.0899   78.6517
+   88.2022   88.7640
+   86.5169   98.8764
+   94.9438   98.3146
+   89.8876  100.0000
+   74.7191   98.8764
+   65.1685   88.7640
+   80.3371   96.0674
+   78.6517   98.3146
+   89.3258   93.2584
+   84.8315   97.1910
+   79.7753   99.4382
+   59.5506   94.3820
+   88.2022   98.3146
+   88.7640   97.1910
+   83.1461   97.7528
+   75.2809   95.5056
+   75.8427   95.5056
+   79.7753   96.6292
+Gen:   4. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.53125*((1*(X(:,4)))-(((2*(X(:,4)))-(4*(X(:,7))))-(2*(X(:,5))))) 
+ 	 Agr 2: 	 0.46875*(((1*(X(:,1)))+(1.125*(X(:,5))))-(1*(X(:,7))))
+   91.5730  100.0000
+   89.8876  100.0000
+   92.6966   99.4382
+   91.0112   99.4382
+   96.6292   99.4382
+   79.7753   99.4382
+   87.6404   98.8764
+   78.6517   97.1910
+   81.4607   96.6292
+   71.9101   94.3820
+   74.7191   78.6517
+   87.0787   98.8764
+   83.1461   98.3146
+   84.2697   98.3146
+   91.0112   92.6966
+   73.0337   99.4382
+   62.9213   96.6292
+   77.5281   98.8764
+   80.8989   99.4382
+   72.4719   98.3146
+   88.2022   97.7528
+   88.7640   99.4382
+   88.7640   99.4382
+   84.8315   99.4382
+   72.4719   98.8764
+   70.7865   96.6292
+   69.6629   96.6292
+   86.5169   95.5056
+   94.3820   97.7528
+   89.8876   98.8764
+   86.5169   92.6966
+   67.9775   96.0674
+   81.4607   96.6292
+   84.8315   97.1910
+   84.2697   98.3146
+   82.5843   98.3146
+   79.2135   95.5056
+   84.2697   98.3146
+   79.2135   97.7528
+   80.8989   97.1910
+Gen:   5. 	 Fit: 100.000000 
+ 	 Agr 1: 	 0.53125*((1*(X(:,4)))-(((2*(X(:,4)))-(4*(X(:,7))))-(2*(X(:,5))))) 
+ 	 Agr 2: 	 0.46875*(((1*(X(:,1)))+(1.125*(X(:,5))))-(1*(X(:,7))))
+   91.5730   99.4382
+   89.8876  100.0000
+   92.6966   99.4382
+   91.0112   99.4382
+   96.6292   99.4382
+   79.7753   99.4382
+   73.0337   99.4382
+   80.8989   92.1348
+   79.2135   94.9438
+   92.6966   95.5056
+   83.7079   91.0112
+   92.1348   97.7528
+   69.6629   89.3258
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('C45', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m', 70)" style="font-weight:bold">C45</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m',70,0)">line 70</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('breeding_agrres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m', 12)" style="font-weight:bold">breeding_agrres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m',12,0)">line 12</a>)
+tree=C45(agrpoints,Type);
+In <a href="matlab:helpUtils.errorDocCallback('optfun', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m', 8)" style="font-weight:bold">optfun</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m',8,0)">line 8</a>)
+f = breeding_agrres(agr1,agr2,l_X,l_DistM);
+In <a href="matlab:helpUtils.errorDocCallback('funevaluate', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m', 75)" style="font-weight:bold">funevaluate</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m',75,0)">line 75</a>)
+        f(~InCache) = feval(FUN,reshapeinput(Xin,X(:,~InCache)),varargin{:});
+In <a href="matlab:helpUtils.errorDocCallback('psnextfeasible', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m', 79)" style="font-weight:bold">psnextfeasible</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m',79,0)">line 79</a>)
+            [sites(k).f,count] = funevaluate(ObjFunc,Xin,sites(k).x,Cache, ...
+In <a href="matlab:helpUtils.errorDocCallback('poll', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m', 163)" style="font-weight:bold">poll</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m',163,0)">line 163</a>)
+[msg,nextIterate,dirNum,optimState.FunEval] = ...
+In <a href="matlab:helpUtils.errorDocCallback('pfminlcon', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m', 63)" style="font-weight:bold">pfminlcon</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m',63,0)">line 63</a>)
+        [successPoll,nextIterate,optimState] = poll(FUN,X,Iterate,MeshSize,Aineq,bineq, ...
+In <a href="matlab:helpUtils.errorDocCallback('patternsearch', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m', 370)" style="font-weight:bold">patternsearch</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m',370,0)">line 370</a>)
+        [X,FVAL,EXITFLAG,OUTPUT] = pfminlcon(FUN,objFcnArg,initialX,numberOfVariables,Iterate, ...
+In <a href="matlab:helpUtils.errorDocCallback('agr_opres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m', 156)" style="font-weight:bold">agr_opres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m',156,0)">line 156</a>)
+			prm = patternsearch(@optfun,...
+In <a href="matlab:helpUtils.errorDocCallback('breeding_evaluate', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m', 76)" style="font-weight:bold">breeding_evaluate</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m',76,0)">line 76</a>)
+	[fitness, param1, param2, k1, k2] = agr_opres(fs1,fs2, X , DistM);
+In <a href="matlab:helpUtils.errorDocCallback('breeding_mainloop', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_mainloop.m', 107)" style="font-weight:bold">breeding_mainloop</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_mainloop.m',107,0)">line 107</a>)
+[popu ] = breeding_evaluate(popu,1:popun,X,DistM,[]);
+In <a href="matlab:helpUtils.errorDocCallback('dummy', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\dummy.m', 8)" style="font-weight:bold">dummy</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\dummy.m',8,0)">line 8</a>)
+	[popu, evnum] = breeding_mainloop(popu,X,DistM,opt);} 
+TypeI
+TypeI = 
+    [59x1 double]    [71x1 double]    [48x1 double]
+h = figure(1);
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+{Undefined function 'a1' for input arguments of type 'double'.} 
+a1 = eval(resAgr1);
+	a2 = eval(resAgr2);
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+{Undefined variable color.} 
+color = hsv(TypeN);
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+hold on
+for i = 1:numel(TypeI)
+		plot(a1(TypeI{i}),a2(TypeI{i}),'.','Color',color(i,:))
+	end
+Breeding
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+ERROR:  case 116's value of '-Inf' for attribute feature_2 is illegal
+
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('C45', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m', 70)" style="font-weight:bold">C45</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\C45.m',70,0)">line 70</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('breeding_agrres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m', 12)" style="font-weight:bold">breeding_agrres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_agrres.m',12,0)">line 12</a>)
+tree=C45(agrpoints,Type);
+In <a href="matlab:helpUtils.errorDocCallback('optfun', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m', 8)" style="font-weight:bold">optfun</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\optfun.m',8,0)">line 8</a>)
+f = breeding_agrres(agr1,agr2,l_X,l_DistM);
+In <a href="matlab:helpUtils.errorDocCallback('funevaluate', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m', 75)" style="font-weight:bold">funevaluate</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\funevaluate.m',75,0)">line 75</a>)
+        f(~InCache) = feval(FUN,reshapeinput(Xin,X(:,~InCache)),varargin{:});
+In <a href="matlab:helpUtils.errorDocCallback('psnextfeasible', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m', 79)" style="font-weight:bold">psnextfeasible</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\psnextfeasible.m',79,0)">line 79</a>)
+            [sites(k).f,count] = funevaluate(ObjFunc,Xin,sites(k).x,Cache, ...
+In <a href="matlab:helpUtils.errorDocCallback('poll', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m', 163)" style="font-weight:bold">poll</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\poll.m',163,0)">line 163</a>)
+[msg,nextIterate,dirNum,optimState.FunEval] = ...
+In <a href="matlab:helpUtils.errorDocCallback('pfminlcon', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m', 63)" style="font-weight:bold">pfminlcon</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\private\pfminlcon.m',63,0)">line 63</a>)
+        [successPoll,nextIterate,optimState] = poll(FUN,X,Iterate,MeshSize,Aineq,bineq, ...
+In <a href="matlab:helpUtils.errorDocCallback('patternsearch', 'F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m', 370)" style="font-weight:bold">patternsearch</a> (<a href="matlab: opentoline('F:\Program Files\MATLAB\R2012a\toolbox\globaloptim\globaloptim\patternsearch.m',370,0)">line 370</a>)
+        [X,FVAL,EXITFLAG,OUTPUT] = pfminlcon(FUN,objFcnArg,initialX,numberOfVariables,Iterate, ...
+In <a href="matlab:helpUtils.errorDocCallback('agr_opres', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m', 156)" style="font-weight:bold">agr_opres</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\agr_opres.m',156,0)">line 156</a>)
+			prm = patternsearch(@optfun,...
+In <a href="matlab:helpUtils.errorDocCallback('breeding_evaluate', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m', 76)" style="font-weight:bold">breeding_evaluate</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding\breeding_evaluate.m',76,0)">line 76</a>)
+	[fitness, param1, param2, k1, k2] = agr_opres(fs1,fs2, X , DistM);
+In <a href="matlab:helpUtils.errorDocCallback('Breeding', 'C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding.m', 109)" style="font-weight:bold">Breeding</a> (<a href="matlab: opentoline('C:\Users\kulcsart\Dropbox\Mol-NIR\Wine\MultiCrom_Cluster_DT\Breeding.m',109,0)">line 109</a>)
+[popu] = breeding_evaluate(popu,1:popusize,X,DistM,[]); } 
+Breeding
+   69.1011   89.3258
+   83.1461   88.7640
+   69.1011   98.3146
+   69.6629   97.7528
+   82.5843   88.2022
+   77.5281   84.8315
+   61.7978   76.9663
+   79.2135   86.5169
+   79.2135   87.6404
+   87.6404   92.6966
+   82.0225   90.4494
+   91.5730   94.9438
+   93.2584   99.4382
+   85.9551   97.1910
+   87.6404   90.4494
+   68.5393   91.5730
+   92.1348   97.1910
+   72.4719   79.2135
+   78.6517   91.0112
+   67.9775   83.1461
+   89.3258   97.1910
+   92.1348   94.9438
+   83.7079   93.8202
+   87.0787   95.5056
+   88.7640   96.6292
+   62.9213   80.3371
+   84.8315   88.7640
+   69.6629 

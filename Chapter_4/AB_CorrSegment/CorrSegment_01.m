@@ -28,7 +28,7 @@ WaveN = OnlList.WaveN;
 
 
 %%
-fcorr = corrcoef(Xx);
+fcorr = abs(corrcoef(Xx));
 figure('Name','Full correlation map','NumberTitle','off', 'Color',[1 1 1]);
 surf(fcorr,'EdgeColor','None');
 set(gca,'XLim',[0 195])
@@ -42,10 +42,11 @@ set(gca,'ztick',[])
 colorbar
 
 %%
-[segment, frob] = corrseg(Xx,40);
+[segment, frob] = corrseg(Xx,30);
+% [segment, frob] = corrseg2(Xx,50);
 
 %%
-if 1
+if 0
 figure('Name','Segment Boarders','NumberTitle','off', 'Color',[1 1 1]);
 % surf(DTime(1:50:end),WaveN,rXx','EdgeColor','none')
 set(gca,'XTick',xData);
@@ -64,31 +65,56 @@ box on
 
 wl = [min(WaveN) max(WaveN)];
 xl = [min(rXx(:)) max(rXx(:))];
-%%
+%
 for j = 1:numel(keveres)
-% 	s = surf(repmat(keveres(j),1,2),[0 1],repmat([0 1],2,1));
-% 	set(s, 'facecolor', 'none') ;
-% 	alpha(s, 1);
+	s = surf(repmat(keveres(j),1,2),[0 1],repmat([0 1],2,1));
+	set(s, 'facecolor', 'none') ;
+	alpha(s, 1);
 	line([keveres(j) keveres(j)],[wl(1) wl(1)],[xl(1) xl(2)],'Color','k','LineWidth',1)
 	line([keveres(j) keveres(j)],[wl(1) wl(2)],[xl(1) xl(1)],'Color','k','LineWidth',1)
 	line([keveres(j) keveres(j)],[wl(1) wl(2)],[xl(2) xl(2)],'Color','k','LineWidth',1)
 	line([keveres(j) keveres(j)],[wl(2) wl(2)],[xl(1) xl(2)],'Color','k','LineWidth',1)
 end
-%%
 for j = 1:numel(segment)-1
 	line([DTime(segment(j).rx) DTime(segment(j).rx)],[wl(1) wl(1)],[xl(1) xl(2)],'Color','r','LineWidth',1)
 	line([DTime(segment(j).rx) DTime(segment(j).rx)],[wl(1) wl(2)],[xl(1) xl(1)],'Color','r','LineWidth',1)
 	line([DTime(segment(j).rx) DTime(segment(j).rx)],[wl(1) wl(2)],[xl(2) xl(2)],'Color','r','LineWidth',1)
 	line([DTime(segment(j).rx) DTime(segment(j).rx)],[wl(2) wl(2)],[xl(1) xl(2)],'Color','r','LineWidth',1)
+	h_t = text(mean([DTime(segment(j).lx) DTime(segment(j).rx)]), wl(1), num2str(j));
+	
 end
+
+end
+%%
+
+figure('Name','Segment Boarders','NumberTitle','off', 'Color',[1 1 1]);
+% surf(DTime(1:50:end),WaveN,rXx','EdgeColor','none')
+set(gca,'XTick',xData);
+datetick('x','yy/mm/dd HH:MM','keepticks');
+xlabel('Time')
+time_axis = gca;
+set(gca,'XTickLabel',[])
+set(gca,'YTickLabel',[])
+set(gca,'XLim',[min(DTime) max(DTime)])
+set(gca,'YLim',[0 1])
+box on
+for j = 1:numel(keveres)
+	line([keveres(j) keveres(j)],[0 1],'Color','k','LineWidth',1)
+end
+for j = 1:25
+	line([DTime(segment(j).rx) DTime(segment(j).rx)],[0 1],'Color','r','LineWidth',1)
+	h_t = text(mean([DTime(segment(j).lx) DTime(segment(j).rx)]), 0.5, num2str(j));
+	set(h_t, 'HorizontalAlignment','center')
+	set(h_t, 'rotation', 90)
 end
 
 %%
 figure('Name','Spectra Maps','NumberTitle','off', 'Color',[1 1 1]);
-
-for i = 1:numel(segment)
+l = 0;
+for i = 1:20%umel(segment)
 	subplot(5,4,i)
-	surf(segment(i).corr,'EdgeColor','None');
+	surf(abs(segment(i).corr),'EdgeColor','None');
+	cc = colorbar('Ticks',[0 0.5 1],'XLim',[0 1]);
 	title(['Segment ' num2str(i)])
 	set(gca,'XLim',[0 195])
 	set(gca,'YLim',[0 195])
@@ -98,7 +124,28 @@ for i = 1:numel(segment)
 	set(gca,'xtick',[])
 	set(gca,'ytick',[])
 	set(gca,'ztick',[])
-% 	xlabel(['Length: '  num2str(segment(i).rx- segment(i).lx)])
+	ylabel(mean(std(Xx(segment(i).lx:segment(i).rx,:))))
+ 	xlabel(['Length: '  num2str(segment(i).rx- segment(i).lx)])
+end
+set(time_axis,'XLim',[min(DTime) DTime(segment(26).lx)])
+
+%%
+figure('Name','Spectra Maps','NumberTitle','off', 'Color',[1 1 1]);
+for i = 21:numel(segment)
+	subplot(5,4,i-20)
+	surf(abs(segment(i).corr),'EdgeColor','None');
+	cc = colorbar('Ticks',[0 0.5 1],'XLim',[0 1]);
+	title(['Segment ' num2str(i)])
+	set(gca,'XLim',[0 195])
+	set(gca,'YLim',[0 195])
+	box('off')
+	view(2)
+	axis('square')
+	set(gca,'xtick',[])
+	set(gca,'ytick',[])
+	set(gca,'ztick',[])
+ 	ylabel(mean(std(Xx(segment(i).lx:segment(i).rx,:))))
+	xlabel(['Length: '  num2str(segment(i).rx- segment(i).lx)])
 end
 
 return
